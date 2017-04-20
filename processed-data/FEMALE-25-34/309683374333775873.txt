@@ -1,0 +1,1 @@
+We need algorithmists, aka data auditors, to peek in black box of #bigdata and unveil the inner workings for regulators @drajwfu @wdeggers

@@ -1,0 +1,1 @@
+new #joomla #fabrik subscriber #tutorial : one to many relationships: create tables/forms to store parent/child data and relationships

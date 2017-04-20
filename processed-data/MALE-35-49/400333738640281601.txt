@@ -1,0 +1,1 @@
+Big Data @ Netflix: 40M subscribers, 5M ratings/day, 3M searches/day, 50M plays/day, 5B hours in Q3 2013. - @xamat #qconsf

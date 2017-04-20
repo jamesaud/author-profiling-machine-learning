@@ -1,0 +1,1 @@
+C'mon #checkstyle! "Boolean expression complexity is 14 (max allowed is 4)." Let me express myself the way I want to!

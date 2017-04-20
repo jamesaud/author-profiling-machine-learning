@@ -1,0 +1,1 @@
+@skamille Thanks for the feedback. Definitely a use case we need to handle, so it's on our to-do list. cc @r39132

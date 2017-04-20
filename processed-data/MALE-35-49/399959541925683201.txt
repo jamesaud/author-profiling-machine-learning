@@ -1,0 +1,1 @@
+Software designers can learn from electronic instrument designers: build human interfaces on top of machine interfaces - @richhickey #qconsf

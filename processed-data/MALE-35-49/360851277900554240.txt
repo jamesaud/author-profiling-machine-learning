@@ -1,0 +1,1 @@
+Video demo: @Zoomdata running on a 4 Billion record/day dataset with @Cloudera Impala on the back-end http://t.co/wQEGLP3CPJ

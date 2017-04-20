@@ -1,0 +1,1 @@
+Love having a techy CEO, today @mikeolson ran a new release of our software and uncovered a corner case QA bug, way to go Mike :)

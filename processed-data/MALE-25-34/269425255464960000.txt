@@ -1,0 +1,1 @@
+@matteoagosti storing/releasing twitter ids should not be against the licence of use (and w/ a twitter id you can retrieve all infos) ;)

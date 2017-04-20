@@ -1,0 +1,1 @@
+@cozimek it uses adaptor classes, currenlty theres one for the filesystem and one for amazon s3,   s3 code based on http://bit.ly/HFTo7

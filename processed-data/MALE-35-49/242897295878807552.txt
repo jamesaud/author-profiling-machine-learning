@@ -1,0 +1,1 @@
+new subscriber #fabrik tutorial for using mySQL views as database join data sources - sounds complex but isn't :) http://t.co/VwXjMQM4

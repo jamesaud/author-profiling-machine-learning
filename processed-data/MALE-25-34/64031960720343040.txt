@@ -1,0 +1,1 @@
+@pbrane the DWPT is a prereq for lock-free indexing. That's why we worked so hard on it and I'm super excited it's almost done! #lucene

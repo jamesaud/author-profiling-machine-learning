@@ -1,0 +1,1 @@
+@TheYamahaHub Trouble keeping TSR-6750 connected to Sony KDL-55NX810. Connections work but display won't stay connected -- intermittent

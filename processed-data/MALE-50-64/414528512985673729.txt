@@ -1,0 +1,1 @@
+[ #CS ] "Removing Left Recursion from Context-Free Grammars" R.Moore http://t.co/jYVXAKJKqI (2000)

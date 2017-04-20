@@ -1,0 +1,1 @@
+Some YouTube data challenges: video thumbnail extraction, adult content classification, Content ID, video annotation -Hrishi Aradhye #qconsf

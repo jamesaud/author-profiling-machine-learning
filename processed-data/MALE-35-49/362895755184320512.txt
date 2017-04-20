@@ -1,0 +1,1 @@
+Does cosine similarity actually reflect human judgments of document-document similarity? Correlation is less than 0.2 #sigir2013

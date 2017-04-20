@@ -1,0 +1,1 @@
+User judgments of query quality differ from system-oriented metrics like nDCG #sigir2013

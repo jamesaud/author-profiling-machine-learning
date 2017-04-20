@@ -1,0 +1,1 @@
+just added in option to publish/unpublish fabrik element validations

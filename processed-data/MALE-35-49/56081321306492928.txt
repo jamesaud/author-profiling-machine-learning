@@ -1,0 +1,1 @@
+Kudos to @heiligerj et al at Facebook for one upping Google by open sourcing their server/dcenter designs http://bit.ly/ij24id #opencompute

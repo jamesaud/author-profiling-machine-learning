@@ -1,0 +1,1 @@
+Fallback strategy crucial for online recommender systems that require low latency, eg fall back to stale or unpersonalized. - @xamat #qconsf

@@ -1,0 +1,1 @@
+System can determine when expected utility of query reformulation is higher than examining lower-ranked results for current query #sigir2013

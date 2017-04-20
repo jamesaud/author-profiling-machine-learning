@@ -1,0 +1,1 @@
+@mikeyk Hey Mike, would be happy to drop by to talk about lucene. I'm working on Twitter's realtime index that's based on lucene.

@@ -1,0 +1,1 @@
+@AmyStephen i set my own define : define( "COM_FABRIK_LIVESITE",  str_replace('/administrator', '', JURI::base()) );

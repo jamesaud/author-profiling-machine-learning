@@ -1,0 +1,1 @@
+@ian_maclennan  fabrik has a #mootools switch for 1.1/1.2- prefer 1.2 but its hard to get it to play nicely with other 3d party stuff

@@ -1,0 +1,1 @@
+@cozimek  probably not exactly what you were looking for, but the #fabrik upload element lets you store and retrieve content from amazon s3

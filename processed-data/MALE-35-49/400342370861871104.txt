@@ -1,0 +1,1 @@
+Netflix uses human labeling instead of machine learning because problem is human-scale and people still better than machines- @xamat #qconsf

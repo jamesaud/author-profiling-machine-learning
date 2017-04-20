@@ -1,0 +1,1 @@
+OH: with @Cloudera Impala you now can have your cake (Batch SQL w/Hive) and eat it too (Low Latency SQL w/Impala) http://t.co/VhNmDPe3

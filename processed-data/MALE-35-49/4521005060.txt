@@ -1,0 +1,1 @@
+#fabrik placeholders can now accept {$their-&gt;var-&gt;uservalue} which allows you to load in a user from $_REQUST[var] and access its properties

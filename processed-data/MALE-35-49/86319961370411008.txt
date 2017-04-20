@@ -1,0 +1,1 @@
+We (@cloudera) just launched SCM Express for free, I think even my mom can quickly install a Hadoop cluster now :) http://goo.gl/cUYfm

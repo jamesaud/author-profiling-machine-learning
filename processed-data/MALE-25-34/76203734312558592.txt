@@ -1,0 +1,1 @@
+@supercooc we recently committed http://t.co/p8qKTgk to #Lucene trunk, which is a necessary refactoring for RT search. More RT patches soon!

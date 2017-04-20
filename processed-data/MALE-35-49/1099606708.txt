@@ -1,0 +1,1 @@
+@AmyStephen is the comment extension got to be purely for JPress or can other components use it?

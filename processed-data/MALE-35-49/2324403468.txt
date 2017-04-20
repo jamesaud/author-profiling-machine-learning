@@ -1,0 +1,1 @@
+just submitted a  #Joomla 1.6 patch with a MVC refractored newsfeed admin component  and shift click to select multiple items

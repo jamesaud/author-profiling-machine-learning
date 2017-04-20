@@ -1,0 +1,1 @@
+#fabrik passwod element plugin now committed to SVN - has strength checker code and stores in J1.5 password format

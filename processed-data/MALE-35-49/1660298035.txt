@@ -1,0 +1,1 @@
+#fabrik admin pagination of table data should be working now - how did i miss that one!

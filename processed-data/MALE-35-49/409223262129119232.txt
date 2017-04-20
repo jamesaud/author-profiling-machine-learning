@@ -1,0 +1,1 @@
+From @Cloudera devel blog: How-to: Use the HBase Thrift Interface, Part 2: Inserting/Getting Rows: http://t.co/E9SapyCQLp

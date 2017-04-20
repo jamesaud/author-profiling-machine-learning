@@ -1,0 +1,1 @@
+Data standardization key to build data products. Entity resolution more tractable when you add social network features - @gloriatlau #qconsf

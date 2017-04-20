@@ -1,0 +1,1 @@
+Fresh off the presses, learn how to configure #hadoop security/kerberos in CDH: http://bit.ly/gqOT71

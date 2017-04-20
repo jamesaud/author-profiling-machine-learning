@@ -1,0 +1,1 @@
+Yeah #fabrik lists and forms now insert the menu items meta data and keywords, oh and you can use {placeholders} as well!

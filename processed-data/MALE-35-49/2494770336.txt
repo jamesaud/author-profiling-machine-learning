@@ -1,0 +1,1 @@
+#Joomla 1.5.12 updated tinymce to v3 the old v2 methods will no longer work! This effects #fabrik - please update  http://tinyurl.com/qduxwp

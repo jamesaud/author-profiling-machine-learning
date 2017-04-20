@@ -1,0 +1,1 @@
+The upcoming CDH5 beta will be based on the Hadoop 2 GA release: http://t.co/OabIlIusZz

@@ -1,0 +1,1 @@
+More details on the offline / online / nearline computation archietecture @xamat is describing in his #qconsf talk: http://t.co/B28gVPqtby

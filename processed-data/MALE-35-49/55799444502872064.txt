@@ -1,0 +1,1 @@
+Kudos to @gremblor & co for releasing FlumeBase: SQL-based real-time streaming data analysis on top of Flume http://bit.ly/gvHAfm

@@ -1,0 +1,1 @@
+@showyou yes, Impala on HBase is good for interactive OLAP. Connect with our team for upgrading from CDH3 to CDH4.

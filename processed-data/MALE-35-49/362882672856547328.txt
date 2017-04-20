@@ -1,0 +1,1 @@
+Abstraction suppresses details to make models tractable, while idealization uses something patently false to make the models work #sigir2013

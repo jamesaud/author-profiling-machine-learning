@@ -1,0 +1,1 @@
+fixed 20ish #fabrik #joomla bugs this am - things are looking pretty solid - each fix required  1 or two lines of code changes to fix !

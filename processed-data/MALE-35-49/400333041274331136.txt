@@ -1,0 +1,1 @@
+Netflix recommendations use explicit and inferred preferences, and similarity based on content and collaborative filtering. - @xamat #qconsf

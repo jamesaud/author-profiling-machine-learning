@@ -1,0 +1,1 @@
+Challenge in evaluating snippets: don't want to penalize good abandonment #sigir2013

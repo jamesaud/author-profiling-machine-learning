@@ -1,0 +1,1 @@
+@mspanish saw you were interested in RPX for Joomla - I'm part way through making a login module which uses RPX

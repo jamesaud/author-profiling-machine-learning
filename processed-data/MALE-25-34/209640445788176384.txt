@@ -1,0 +1,1 @@
+@hypertable 16.7M docs is the max. size for one Lucene index segment, not the size of the entire index. #pleasequotecorrectly

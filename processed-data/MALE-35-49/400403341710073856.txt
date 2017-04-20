@@ -1,0 +1,1 @@
+The open-source stack LinkedIn uses to recommend at scale: Kafka, Hadoop, Azkaban, Voldemort http://t.co/7HNOOyqmnP - @mitultiwari #qconsf

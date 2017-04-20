@@ -1,0 +1,1 @@
+got a bare bones triplify configuration file wotrking in Joomla

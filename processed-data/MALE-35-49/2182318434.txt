@@ -1,0 +1,1 @@
+@AmyStephen have i missed something with the jQuery one then? i saw ordering and highlighting - thats all no? Both libs are not ok for me

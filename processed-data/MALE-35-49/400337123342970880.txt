@@ -1,0 +1,1 @@
+More data or better models, who wins? Depends on problem dimensionality. At low dimension, data size has diminising return. - @xamat #qconsf

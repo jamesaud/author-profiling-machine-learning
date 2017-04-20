@@ -1,0 +1,1 @@
+"It's in the references, so we read it." #sigir2013

@@ -1,0 +1,1 @@
+@AmyStephen looks limited no? and why use yet another js lib in Joomla when theres a mootools version already  http://tinyurl.com/krjoh7.

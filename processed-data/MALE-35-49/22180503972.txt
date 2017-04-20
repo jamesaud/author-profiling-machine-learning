@@ -1,0 +1,1 @@
+fabrik 2.0.1 released - this is security update so please everyone upgrade! http://bit.ly/9wWJcs

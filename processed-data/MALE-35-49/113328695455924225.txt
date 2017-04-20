@@ -1,0 +1,1 @@
+@hisyamadnan no current plans to use #jplatform. Fabrik 3 stable is the current goal then wysiwyg editor

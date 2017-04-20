@@ -1,0 +1,1 @@
+Video demo for @MicroStrategy running interactive reporting on Hadoop via @Cloudera Impala http://t.co/91nQjoJrly

@@ -1,0 +1,1 @@
+new jfusion release out - checking out the vbulletin integration

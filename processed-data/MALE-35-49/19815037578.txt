@@ -1,0 +1,1 @@
+@ian_maclennan - Hi Ian got an odd inconsistency with the new Mootools 1.2 compat layer in J1.5.20 -  http://bit.ly/9IBWzv

@@ -1,0 +1,1 @@
+@impossible_euro .. the integration with other networks (e.g. Ning) through API and to port the whole to the mobile ;) ..

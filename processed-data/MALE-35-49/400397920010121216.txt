@@ -1,0 +1,1 @@
+LinkedIn delivers news recommendation using explore / exploit: optimize predicted CTR vs data to improve predictions - @mitultiwari  #qconsf

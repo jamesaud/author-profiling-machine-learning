@@ -1,0 +1,1 @@
+I am giving a talk today 2:15pm on Impala, Hadoop, and EDW optimization at at #mstrworld, come with tough questions (Room: Mouton 2)

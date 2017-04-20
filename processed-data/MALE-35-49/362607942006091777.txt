@@ -1,0 +1,1 @@
+Best application of sentiment analysis: identifying entertaining content. But labor-intensive, machine learning wasn't enough #sigir2013

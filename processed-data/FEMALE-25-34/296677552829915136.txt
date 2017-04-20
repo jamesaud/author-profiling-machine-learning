@@ -1,0 +1,1 @@
+@palantir on q "how to open up data to spot traffickers?": access controls get very granular, so only share PII-free part of data #ihts2013

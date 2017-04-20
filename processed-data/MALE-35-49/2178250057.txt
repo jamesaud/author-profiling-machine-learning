@@ -1,0 +1,1 @@
+working on in-line table editing for #fabrik - got the ajax up for injecting elements in table cells :)

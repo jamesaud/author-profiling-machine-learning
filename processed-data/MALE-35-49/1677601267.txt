@@ -1,0 +1,1 @@
+in #fabrik you can now opt to copy elements when you copy groups

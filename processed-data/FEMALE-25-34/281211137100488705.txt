@@ -1,0 +1,1 @@
+Ken: to predict voter turnout, can't rely only on voter history (omits current election feel) or self reported (people lie) #datasciencedc

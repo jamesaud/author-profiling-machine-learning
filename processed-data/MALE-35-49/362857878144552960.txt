@@ -1,0 +1,1 @@
+Mine click logs to infer distribution of searcher impatience #sigir2013

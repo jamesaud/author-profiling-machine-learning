@@ -1,0 +1,1 @@
+Google Play's typeahead search interface blends navigational instant results (labeled with icons) with suggested search completions. #qconsf

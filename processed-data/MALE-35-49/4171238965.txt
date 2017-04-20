@@ -1,0 +1,1 @@
+flexible #javascript #mootools method to clone an object with options to clone or pass by reference http://tinyurl.com/m2s3jl

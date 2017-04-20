@@ -1,0 +1,1 @@
+Interesting: Twitter has power law for out-degree, not just in-degree. Especially since attention is finite http://t.co/DcTcC7nI3e #cikm2013

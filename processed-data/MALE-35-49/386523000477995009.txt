@@ -1,0 +1,1 @@
+@techmatchmaker In theory that's why you centralize management of social CRM. In practice, some data gets lost in translation.

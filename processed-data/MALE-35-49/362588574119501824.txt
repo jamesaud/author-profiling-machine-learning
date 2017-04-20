@@ -1,0 +1,1 @@
+Nice to see academic IR community increasingly embracing Lucene. Great way to bridge gap between academia and industry #sigir2013

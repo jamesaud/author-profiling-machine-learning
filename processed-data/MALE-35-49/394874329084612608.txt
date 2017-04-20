@@ -1,0 +1,1 @@
+Hubs and authorities on list-members bipartite graph beats topic-sensitive PageRank on follow graph for identifying topic experts. #cikm2013

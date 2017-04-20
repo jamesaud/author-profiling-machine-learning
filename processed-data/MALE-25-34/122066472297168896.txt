@@ -1,0 +1,1 @@
+#java6: DataOutputStream#size() returns a 32 bit int. javadoc: "If the counter overflows, it will be wrapped to Integer.MAX_VALUE." #2011

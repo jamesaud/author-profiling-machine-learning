@@ -1,0 +1,1 @@
+Biggest difference between lab &amp; factory data science: whether output is a report or is part of a shipped data product - @josh_wills #qconsf

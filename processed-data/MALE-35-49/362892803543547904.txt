@@ -1,0 +1,1 @@
+Query suggestions help when users face cold-start problem and can't (re-)formulate queries - Diane Kelly, SIGIR 2009 #sigir2013

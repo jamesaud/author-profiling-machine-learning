@@ -1,0 +1,1 @@
+#datavis tip via @benbendc: With multidimensional data, don't cram in a single window; show dimensions w multiple adjacent visuals #bdw13

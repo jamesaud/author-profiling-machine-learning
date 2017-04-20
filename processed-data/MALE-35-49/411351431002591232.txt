@@ -1,0 +1,1 @@
+@MatthewZadrozny I thought the whole point of caching the images is that the senders won't know that.

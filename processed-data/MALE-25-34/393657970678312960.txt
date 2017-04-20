@@ -1,0 +1,8 @@
+16GB iPhone |
+IT
+5s 729 eur ~ 896 chf
+5c 629 eur ~ 774 chf
+CH
+5s 779 chf ~ 633 eur
+5c 649 chf ~ 527eur
+| rate 1.23 | source apple.{it,ch}

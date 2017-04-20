@@ -1,0 +1,1 @@
+Reusable test collections: add logging of CTRL-F, abandonment; judge summaries; multiple per-topic sessions with tracking #sigir2013

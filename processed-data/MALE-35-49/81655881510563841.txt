@@ -1,0 +1,1 @@
+new version of the #balsamiq to #fabrik component bug fixes plus allows you to create forms/tables by pasting in xmlhttp://bit.ly/jzZUbb

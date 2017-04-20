@@ -1,0 +1,1 @@
+looks like hugh added an ip address element plug-in to the #fabrik svn - go Hugh :)

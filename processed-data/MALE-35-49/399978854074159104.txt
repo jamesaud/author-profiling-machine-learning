@@ -1,0 +1,1 @@
+Culture of incident reviews focused on understanding rather than blame is key to institutional learning from mistakes -- @jedberg #qconsf

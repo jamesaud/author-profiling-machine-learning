@@ -1,0 +1,1 @@
+Big decisions w #bigdata: how much do you condense &amp; smooth data, do you sacrifice accuracy to pack a punch? At @DataCommunityDC event

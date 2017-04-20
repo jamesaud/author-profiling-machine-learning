@@ -1,0 +1,1 @@
+Newest OSS from @Cloudera: RecordBreaker automagically generates structure for text files (kudos to @MikeCafarella) http://bit.ly/o1TLRC

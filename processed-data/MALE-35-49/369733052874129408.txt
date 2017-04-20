@@ -1,0 +1,1 @@
+Excellent post by Colin McCabe on how improved short-circuit reads bring better performance &amp; security to Hadoop http://t.co/g0Tn2hFoyr

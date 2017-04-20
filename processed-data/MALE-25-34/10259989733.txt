@@ -1,0 +1,1 @@
+Everybody who writes code in #java should read "Concurrency in practice" by Brian Goetz e.a.

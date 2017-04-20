@@ -1,0 +1,1 @@
+yes, use Cloudera instead :) -&gt; RT @DEVOPS_BORAT First step in design your own distributed system: Don't.

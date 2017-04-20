@@ -1,0 +1,1 @@
+reducing queries - 200% gain. Now to reduce memory - banging head on wall will provide acceptable results

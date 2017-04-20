@@ -1,0 +1,1 @@
+OMG! just figured out how to use Joomla view caching for logged in users for fabrik - 5x speed improvement !

@@ -1,0 +1,1 @@
+Simulation implies variability, but most IR eval doesn't model it. Let's fix that, eg by modeling user patience as parameter #sigir2013

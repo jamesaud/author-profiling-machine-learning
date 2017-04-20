@@ -1,0 +1,1 @@
+Amen ! RT @LouisLandry: Those using php with the suhosin patch be wary of session/cookie encryption settings with Joomla especially with IE8

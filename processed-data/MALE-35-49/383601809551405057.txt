@@ -1,0 +1,1 @@
+@panm817 If the input is itself in the dictionary, then you don't have to split it. That's how the problem is defined.

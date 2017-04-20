@@ -1,0 +1,1 @@
+@lintool my guess-&gt; Elephants can go long distances carrying a lot (throughput), Horses can go short distances really fast (latency)

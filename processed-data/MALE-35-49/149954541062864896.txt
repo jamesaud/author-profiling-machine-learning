@@ -1,0 +1,1 @@
+Great writeup by @mitsuhiko on First Person Shooters, network lag compensation, and "How a Shooter Shoots" http://t.co/8gUiaLac

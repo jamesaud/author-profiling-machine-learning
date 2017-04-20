@@ -1,0 +1,1 @@
+Whole session eval: how do we calculate cost &amp; gain? Interaction model relies on intent model. Sum cost &amp; gain over interactions #sigir2013

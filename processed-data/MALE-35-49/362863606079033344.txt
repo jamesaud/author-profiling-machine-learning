@@ -1,0 +1,1 @@
+Falk Scholer: heat maps mask complexity, eg only 40% of users look at top search result first and users backtrack to prev results #sigir2013

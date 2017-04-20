@@ -1,0 +1,1 @@
+@randyshoup @QConSF Fair enough. And, as @hackingdata explained in his keynote, most of the work in machine learning is feature engineering.

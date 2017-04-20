@@ -1,0 +1,1 @@
+A vendor-independent comparison of NoSQL databases: Cassandra, HBase, MongoDB, Riak http://t.co/jkzhOX3x

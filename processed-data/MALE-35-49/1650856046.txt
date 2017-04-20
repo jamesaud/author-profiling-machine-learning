@@ -1,0 +1,1 @@
+has fixed a horrid bug in fabrik subscriptions

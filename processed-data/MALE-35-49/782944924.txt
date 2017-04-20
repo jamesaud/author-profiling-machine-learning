@@ -1,0 +1,1 @@
+fabrik ajax form validations are now kinda working - horay for my ego!

@@ -1,0 +1,1 @@
+Go Todd go :) RT @tlipcon: random read microbenchmark: Hadoop 0.20.x: 72k/sec. Hadoop 0.23: 120k/sec. w/ HDFS-2080: 130k/sec. more coming.

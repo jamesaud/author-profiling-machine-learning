@@ -1,0 +1,1 @@
+Yummy - got JanRains RPX to work with Joomla - login to Joomla with your facebook/openid/flickr/myspace account!

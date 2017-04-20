@@ -1,0 +1,1 @@
+Built a neat database schema comparison tool into #fabrik today, lets you manage and deploy changes across two databases via Joomla's admin

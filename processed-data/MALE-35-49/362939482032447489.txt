@@ -1,0 +1,1 @@
+Discussion topics for #mube: validation, reusability, variability, modeling user intent, whole-session eval, interactive measures #sigir2013

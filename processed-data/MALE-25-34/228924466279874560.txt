@@ -1,0 +1,4 @@
+$ man yes: 
+NAME
+     yes -- be repetitively affirmative
+/cc @zhenghuali @wangtian

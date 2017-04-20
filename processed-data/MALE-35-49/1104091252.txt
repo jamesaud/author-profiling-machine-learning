@@ -1,0 +1,1 @@
+@cozimek openid: pretty darn massive, opensocial uses it so thats 700million users right there, microsoft use it as well i believe

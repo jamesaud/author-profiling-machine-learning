@@ -1,0 +1,1 @@
+Joomla 2.5.7 Released http://t.co/RYJ4aY5O via @sharethis - contains my humble patch for duplicate db sessions errors when using ajax

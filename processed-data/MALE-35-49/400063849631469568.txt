@@ -1,0 +1,1 @@
+Take-aways from @mikeyk: do simple things first, every infra moving part is another thread for your team to manage, simple != hacky #qconsf

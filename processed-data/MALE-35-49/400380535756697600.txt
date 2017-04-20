@@ -1,0 +1,1 @@
+Best way to improve data quality is to not have to: invest in typeahead interface to collect starndardized data upfront -@gloriatlau #qconsf

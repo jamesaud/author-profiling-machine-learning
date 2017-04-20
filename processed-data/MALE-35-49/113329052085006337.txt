@@ -1,0 +1,1 @@
+#Fabrik buildscript running all js code through jshint, and then using YUI compressor to compress the js files. Builds run from hudson

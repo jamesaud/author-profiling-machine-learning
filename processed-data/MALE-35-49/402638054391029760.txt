@@ -1,0 +1,1 @@
+Reverse engineering of Klout score by Sean Golliher: it's basically the log of your retweets (R2 = 0.94). http://t.co/A0icRG92Hy

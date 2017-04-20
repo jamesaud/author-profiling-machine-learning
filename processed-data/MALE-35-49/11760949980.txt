@@ -1,0 +1,1 @@
+#fabrik #joomla - boolean full-text searches now available in the SVN

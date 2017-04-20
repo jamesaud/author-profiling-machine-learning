@@ -1,0 +1,1 @@
+New open-source contribution from @cloudera by @josh_wills - Crunch: easy, efficient MapReduce pipelines in Java http://t.co/juQZHwdR

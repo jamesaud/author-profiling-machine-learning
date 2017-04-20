@@ -1,0 +1,1 @@
+Want to learn how to use Impala for interactive SQL on Hadoop? Free training here: http://t.co/OQLWcJmH

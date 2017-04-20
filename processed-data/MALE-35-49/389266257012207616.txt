@@ -1,0 +1,1 @@
+@jkonstan @leifos @alansaid Guess I had to be there. I concede measuring recall may be meaningless if your ground truth is too incomplete.

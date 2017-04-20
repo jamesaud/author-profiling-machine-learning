@@ -1,0 +1,1 @@
+added a custom fabrik filter to output PDF's of activities per town for http://t.co/aA1NNcrHbm

@@ -1,0 +1,1 @@
+Feature engineering key for LinkedIn's People You May Know, e.g. modeling organization overlap http://t.co/VvCD41bVsf - @mitultiwari #qconsf

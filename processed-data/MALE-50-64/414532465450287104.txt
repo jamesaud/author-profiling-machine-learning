@@ -1,0 +1,1 @@
+[ #Haskell ] "Natural Language Processing for the Working Programmer" D.Kok - H.Brouwer http://t.co/oejAM1EEYV (2011)

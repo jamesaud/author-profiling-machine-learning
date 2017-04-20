@@ -1,0 +1,1 @@
+playing wth mootools ART and a Joomla 1.6 system plugin to switch ART styles based on active J template. Wish  understood mt depender better

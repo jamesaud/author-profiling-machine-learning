@@ -1,0 +1,1 @@
+#fabrik file upload element now can store and retrieve documents to Amazon s3 storage

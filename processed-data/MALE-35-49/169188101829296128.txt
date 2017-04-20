@@ -1,0 +1,1 @@
+We released CDH4beta1 today http://t.co/FhRlYNKW includes: High Availability for NN, both MR & MR2, plus a  ton of perf/scale improvements.

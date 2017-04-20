@@ -1,0 +1,1 @@
+new javascript plugin architecture for Fabrik 2.0 - install the fabrikjs form plugin from the SVN to see an example

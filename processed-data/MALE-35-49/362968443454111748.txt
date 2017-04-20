@@ -1,0 +1,1 @@
+Interaction: what do we want to measure? Holistic UX or components? Engagement? Happiness vs accuracy? What data to collect? #sigir2013

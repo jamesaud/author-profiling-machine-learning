@@ -1,0 +1,1 @@
+just added #coverflow and #ganttchart  visualizations to the #fabrik svn (#joomla) More great ways to show your #fabrik data!

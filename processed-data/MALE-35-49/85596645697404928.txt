@@ -1,0 +1,1 @@
+Nice writeup by @zettaforce on @radar: Get started with Hadoop: From evaluation to your first production cluster - http://oreil.ly/mSIiwB

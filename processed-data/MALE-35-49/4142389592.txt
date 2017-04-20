@@ -1,0 +1,1 @@
+tip use JArrayHelper::getValue() to get data from an array in Joomla - avoids warnings if no key found in the array #joomla

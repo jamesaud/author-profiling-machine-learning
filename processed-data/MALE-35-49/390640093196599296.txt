@@ -1,0 +1,1 @@
+@jerepick Hypothesis generation is how you decide what to try. But learning comes from hypothesis testing and analyzing results.

@@ -1,0 +1,1 @@
+Nice indeed RT @jeric14: lots of release votes on Apache #Hadoop this week: Pig 0.9, hadoop0.20.204, hcatalog 0.2.  Nice to see the progress

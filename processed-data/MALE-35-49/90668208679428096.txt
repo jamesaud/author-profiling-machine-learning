@@ -1,0 +1,1 @@
+Watch video of Cloudera SCM Express in action, get a full Hadoop *cluster* up and running in mere minutes: http://bit.ly/n5WEKW

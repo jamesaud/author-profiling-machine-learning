@@ -1,0 +1,1 @@
+@bloqhead reduce fabrik js files: go to admin -&gt;tables-&gt;params-&gt; 'yes' for 'Merged JS files ' report the js error on the fabrik forum

@@ -1,0 +1,1 @@
+@AmyStephen yes it will be part of a component - nothing really solid to show yet. RPX uses openid2 - https://rpxnow.com/

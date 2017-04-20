@@ -1,0 +1,1 @@
+anyone know why #Joomla 1.5.20 with the #mootools upgrade plugin will allow class.extends({}) in firefox but not in IE?

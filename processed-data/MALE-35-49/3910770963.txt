@@ -1,0 +1,1 @@
+@eworldhost yes you can get fabrik to pull data from a db table and display it in the front end - the db doesnt have to be the J db either

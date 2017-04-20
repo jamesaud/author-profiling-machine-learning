@@ -1,0 +1,1 @@
+fail: artiosef free doesn't play nicely with ajax calls  - inserts an advert in the returned json - boo!

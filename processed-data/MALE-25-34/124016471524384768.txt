@@ -1,0 +1,1 @@
+@omrvp I love the memory model changes! C++ 11

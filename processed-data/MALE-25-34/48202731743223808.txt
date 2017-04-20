@@ -1,0 +1,1 @@
+OH: doing it that way would be the cleanest solution. The only problem is that it may not work.  -- @omrvp

@@ -1,0 +1,1 @@
+Highly recommend this post by @NetworkString from @DataSift, great writeup on how to configure networking for Hadoop http://t.co/Amj6jzSN

@@ -1,0 +1,1 @@
+Neat hack for limiting #fabrik dropdown options based on the current users access level http://t.co/NQ0w3KsF

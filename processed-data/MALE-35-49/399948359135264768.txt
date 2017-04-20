@@ -1,0 +1,1 @@
+If you're not attending #qconsf, you can follow tweet stream. Now on: creator of Clojure @richhickey on Design, Composition, and Performance

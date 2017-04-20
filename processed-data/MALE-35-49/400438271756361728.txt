@@ -1,0 +1,1 @@
+Being able to iterate quickly is more important than how well you do the first time. Optimize for speed of iteration. - @josh_wills #qconsf

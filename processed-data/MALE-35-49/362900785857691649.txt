@@ -1,0 +1,1 @@
+Should we get better at simulating users? Or should we try to get users to better simulate simulated users? #sigir2013

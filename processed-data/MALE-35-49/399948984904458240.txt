@@ -1,0 +1,1 @@
+Good design = separating into things that can be composed, making each component about one thing, composing them to solve a problem #qconsf
