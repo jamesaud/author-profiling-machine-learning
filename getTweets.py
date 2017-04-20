@@ -25,7 +25,7 @@ def tweet_text_by_id(id, consumer_key=None, consumer_secret=None, access_token=N
     tweet = api.get_status(id)
     return tweet.text
 
-errorFile = open('errorlog.txt','w')
+errorFile = open('errorlog.txt','a')
 for file in fileList:
 	tempFileName = file.strip().split(":::")
 	file = open('../raw-dataset/'+tempFileName[0]+'.xml','r',encoding='utf-8')
