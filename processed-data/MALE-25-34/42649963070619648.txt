@@ -1,0 +1,1 @@
+@jelsas ah, that's not the most well-tested code, i don't think. do you really need to merge? most indri cmds allow multiple index locations

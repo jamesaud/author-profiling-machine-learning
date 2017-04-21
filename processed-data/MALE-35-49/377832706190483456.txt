@@ -1,0 +1,1 @@
+.@twitter's trending topic algo failing: #SomEspanya is #TT in Catalonia when #ViaCatalana should http://t.co/XY6oOWEufn via @sisquere

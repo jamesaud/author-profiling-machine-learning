@@ -1,0 +1,1 @@
+"Scientiﬁc Articles Recommendation" - Interesting work at #cikm2013 using topic-regression matrix factorization

@@ -1,0 +1,1 @@
+if( attending( #sigir2011 ) && interestedIn( social media ) ) { visit( http://t.co/fciG2l3 ); registerFor( SWSM ); } else { RT( this ); }

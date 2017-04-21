@@ -1,0 +1,1 @@
+I have strong suspicions that "del" in python does release memory as swiftly as one may expect

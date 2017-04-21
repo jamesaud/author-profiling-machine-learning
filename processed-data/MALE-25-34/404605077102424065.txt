@@ -1,0 +1,2 @@
+JNDI 2 - Canós 3. 
+No tenía ni idea de que la implementación era dependiente de la ubicación de los jars. ¡Documentad malditos!

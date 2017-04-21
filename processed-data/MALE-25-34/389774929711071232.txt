@@ -1,0 +1,1 @@
+"In eclipse you can define regex" response: i use grep an xargs #fun #euroclojure

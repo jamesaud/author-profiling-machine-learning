@@ -1,0 +1,1 @@
+Fixed back button support on my website (Ajax fun for a Sunday afternoon) /cc @chmod755_d

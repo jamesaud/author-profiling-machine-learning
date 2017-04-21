@@ -1,0 +1,1 @@
+Interesting paper that unfortunately I missed "Nonparametric Bayesian Multitask Collaborative Filtering" http://t.co/NjYxaEVtFN #cikm2013

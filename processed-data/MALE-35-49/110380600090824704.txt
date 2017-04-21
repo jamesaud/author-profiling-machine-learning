@@ -1,0 +1,1 @@
+@egonwillighagen Query depends on domain. Sometimes page title, but checks for query param on some search engines before using page title

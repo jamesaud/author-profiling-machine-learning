@@ -1,0 +1,1 @@
+today google rolled out better support for implicitly year qualified queries, wh/ we studied in a YRL '09 tech report: http://t.co/yBUAqqDA

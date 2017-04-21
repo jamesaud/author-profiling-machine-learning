@@ -1,0 +1,1 @@
+Oracle giving devs one more reason to move away from MySQL. Sucks, but perhaps inevitable.

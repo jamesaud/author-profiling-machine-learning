@@ -1,0 +1,1 @@
+Now @josh_wills on Cloudera's approach to building a machine learning infrastructure #qconsf

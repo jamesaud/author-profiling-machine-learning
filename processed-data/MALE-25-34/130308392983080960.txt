@@ -1,0 +1,1 @@
+Cubemap-based reflection modulated by fresnel factor and a checkerboard pattern intensity map. http://t.co/4IPwffFr

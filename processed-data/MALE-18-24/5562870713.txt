@@ -1,0 +1,1 @@
+Spent most of the day trying to compile OpenCV on Snow Leopard. Still not happening. Darn you invisible incompatibilities!

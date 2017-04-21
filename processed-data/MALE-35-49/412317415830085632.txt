@@ -1,0 +1,1 @@
+"More specifically, the 91.4% of the authenticated non-spam emails sent to Gmail users come from senders that have adopted DKIM or SPF"

@@ -1,0 +1,1 @@
+Nice to see LinkedIn using Thompson Sampling as explore/exploit strategy in their ad optimization system http://t.co/CI5DVdZido #cikm2013

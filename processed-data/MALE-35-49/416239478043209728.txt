@@ -1,0 +1,1 @@
+honest/naive question: once the last Bitcoin has been mined, what incentives will remain for distributed transaction validation?

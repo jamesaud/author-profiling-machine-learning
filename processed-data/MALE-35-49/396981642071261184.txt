@@ -1,0 +1,1 @@
+G2: in-memory graph processing engine with GPU-specific optimizations http://t.co/P4ZqmMucsB

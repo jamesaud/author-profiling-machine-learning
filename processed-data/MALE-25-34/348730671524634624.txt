@@ -1,0 +1,1 @@
+Has reliable screen sharing over WIFI killed the use-case for a KVM switch?

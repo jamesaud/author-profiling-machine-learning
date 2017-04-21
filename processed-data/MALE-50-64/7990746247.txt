@@ -1,0 +1,1 @@
+Ported Java App to SQL Server (2008). Client can't/won't upgrade from 2000. Bless.

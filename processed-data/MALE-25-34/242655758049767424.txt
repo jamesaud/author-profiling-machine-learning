@@ -1,0 +1,1 @@
+@CharlotteHase You should check out "Information Retrieval: Implementing and Evaluating Search Engines" by Buettcher, Clarke, and Cormack.

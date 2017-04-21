@@ -1,0 +1,1 @@
+@limay @k4rliky tienen una integración de la view muy javera. Sin darme cuenta monté la salida en XML y en JSON. Me falta load y testing :D

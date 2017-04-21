@@ -1,0 +1,1 @@
+@leekelleher I've simply added the javascript fix to editcontent.aspx - is there a better fix?

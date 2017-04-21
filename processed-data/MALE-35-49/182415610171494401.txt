@@ -1,0 +1,1 @@
+La Caixa mobile technology detects device and just presents different templates based on device constraints. #mobyday #strandsfinance

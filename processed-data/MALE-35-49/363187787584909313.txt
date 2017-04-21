@@ -1,0 +1,1 @@
+NOVA: A Functional Language for Data Parallelism http://t.co/mgW9KpSqwy

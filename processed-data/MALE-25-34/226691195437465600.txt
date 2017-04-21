@@ -1,0 +1,1 @@
+Developer console crash reports: "java.lang.RuntimeException: eglSwapBuffers failed: EGL_SUCCESS" What the...?? Makes no sense.

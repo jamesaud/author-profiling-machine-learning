@@ -1,0 +1,1 @@
+@TheJare I keep the GC away from running. It appears that the time between calls to onDrawFrame varies greatly on sequential similar frames.

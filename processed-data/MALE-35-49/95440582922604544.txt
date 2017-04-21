@@ -1,0 +1,1 @@
+@HilzFuld Not sure who built your site, but whenever it says &lt;script&gt; ... &lt;/script&gt; it should be &lt;script&gt;&lt;!-- ... --&gt;&lt;/script&gt; #IMVHO

@@ -1,0 +1,1 @@
+Cuanto más sabes del Garbage Collector de #java menos sabes del Garbage Collector y así sucesivamente.

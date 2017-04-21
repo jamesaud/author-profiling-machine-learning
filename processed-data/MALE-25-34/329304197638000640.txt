@@ -1,0 +1,1 @@
+@vicendominguez percona requires --extended-insert, mydumper is only multithread (not sure 100%)

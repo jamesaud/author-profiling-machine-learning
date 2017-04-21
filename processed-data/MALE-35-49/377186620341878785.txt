@@ -1,0 +1,1 @@
+Hosting a nice talk on MLbase, a distributed #machinelearning framework running on #spark and callable from #scala http://t.co/7q7HzWpe0A

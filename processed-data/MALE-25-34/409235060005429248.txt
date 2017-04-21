@@ -1,0 +1,1 @@
+ok after ignoring the mentions from @tarnacious and @normanrosner i creep back and ask ;-) is #docker a good replacement for local #vagrant?

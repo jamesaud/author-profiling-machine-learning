@@ -1,0 +1,1 @@
+@normanrosner sure i do that, but in the ssh conf i usually say sth like "LocalForward 8983 localhost:8983" also this was only for jenkins.

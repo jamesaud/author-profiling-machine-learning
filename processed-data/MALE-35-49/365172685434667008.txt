@@ -1,0 +1,1 @@
+If you build a fucking "Mastercard 3D secure" (2 step auth) and fail to provide compatibility with WebKit based browsers, warn me at least!

@@ -1,0 +1,1 @@
+Having used it for Apache for 10 years, decided I should learn how the apache configs work -- OS X makes life difficult

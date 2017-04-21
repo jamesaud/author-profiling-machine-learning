@@ -1,0 +1,1 @@
+.@mrgunn @gluejar Google Scholar hasn't signed restrictive deals w all journals. Cld still do API, but they choose not to be open

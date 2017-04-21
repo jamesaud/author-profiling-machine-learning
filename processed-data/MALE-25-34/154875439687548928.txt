@@ -1,0 +1,1 @@
+Dataset (tweets + manual Wikipedia annotations) for my WSDM '12 paper "Adding Semantics to Microblog Posts" released. http://t.co/g03aE0Z0

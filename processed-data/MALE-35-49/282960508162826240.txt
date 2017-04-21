@@ -1,0 +1,1 @@
+@noahroth My understanding is accelerometer along with optional foot pad sensor of some kind. has GPS but uses motion sensing in tunnels etc

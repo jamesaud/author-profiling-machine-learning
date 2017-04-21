@@ -1,0 +1,1 @@
+@trifacta @pgroth @RIAnalytics so: what's the best way to get people to keep a clean data shop? standards without tears + good converters?

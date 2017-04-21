@@ -1,0 +1,1 @@
+@GordanPetrovic redovno dobijam poruke od ASA grupacije. Sadrži i kontakt i upute za isključenje s mailing liste. Samo, taj feature ne radi.

@@ -1,0 +1,1 @@
+@subcide Clarification to my bug - The activation code was just to download, in order to install.

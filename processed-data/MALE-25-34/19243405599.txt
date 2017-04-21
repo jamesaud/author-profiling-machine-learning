@@ -1,0 +1,1 @@
+Term position and proximity evidence helps pseudo relevance feedback on web collections http://bit.ly/9ST2pA #sigir2010

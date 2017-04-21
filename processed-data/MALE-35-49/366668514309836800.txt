@@ -1,0 +1,1 @@
+Context on my previous tweet: slides are Alex Smola &amp; Amr Ahmed's #kdd2013 tutorial "Bayesian Nonparametrics and Mixed Membership Models"

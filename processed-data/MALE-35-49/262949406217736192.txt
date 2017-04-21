@@ -1,0 +1,1 @@
+Sometimes, when I deal with http://t.co/NNy8u2Fp, I think it is a shame that javascript does not support operator overloading.

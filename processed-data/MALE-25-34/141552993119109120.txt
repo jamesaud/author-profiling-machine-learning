@@ -1,0 +1,1 @@
+When using alpha-blended camera-plane-oriented billboards sort by distance to the plane instead of distance to the camera.

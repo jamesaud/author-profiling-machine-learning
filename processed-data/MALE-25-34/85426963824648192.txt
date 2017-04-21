@@ -1,0 +1,1 @@
+When going mobile, manually unroll all your loops on #shaders. The branch penalties are really high. Got a 5x speed up on Nexus S.

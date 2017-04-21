@@ -1,0 +1,1 @@
+Got some great support for #maven and #intellij from @Chasmo90 and @knutwalker things workout good. public String getThx(){return "THX"}

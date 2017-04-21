@@ -1,0 +1,1 @@
+@threedaymonk http://t.co/5i0La1W SuperSenseTagger shared under Apache License V2.0, can use included WSJ data for POS tagging

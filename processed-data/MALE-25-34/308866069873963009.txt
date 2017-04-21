@@ -1,0 +1,1 @@
+@drbsg Scheme is one of the languages that pops up in conversation every 6 months or so (like coffee script or R) - is it worth learning?

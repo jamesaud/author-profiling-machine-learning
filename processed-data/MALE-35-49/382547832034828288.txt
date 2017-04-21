@@ -1,0 +1,1 @@
+It is important to detect and analyze the tools and methods your attackers are using against other targets. At least the known unknowns :)

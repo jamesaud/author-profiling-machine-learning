@@ -1,0 +1,1 @@
+Of the many #machinelearning books I have on my desk only Barber's mentions LDA (Latent Dirichlet Allocation): hard to keep books up to date

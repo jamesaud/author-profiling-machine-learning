@@ -1,0 +1,1 @@
+Quoc Le talking about large-scale ANN using Distbelief model and data parallelism #mlconf13 http://t.co/WxhGASTrha

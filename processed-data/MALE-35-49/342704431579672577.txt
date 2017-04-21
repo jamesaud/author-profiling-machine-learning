@@ -1,0 +1,1 @@
+First talk in the Webscale Analytics workshop: @squarecog on Twitter's infrastructure.

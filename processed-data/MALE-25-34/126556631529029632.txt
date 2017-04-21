@@ -1,0 +1,1 @@
+not to be rude, but the #lucene "DefaultSimilarity" scoring function is an abomination. are users satisfied with its ranking quality?

@@ -1,0 +1,1 @@
+@oldpatricka Please try the latest version in SVN trunk and report if it works for you.

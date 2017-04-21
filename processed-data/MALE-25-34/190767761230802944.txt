@@ -1,0 +1,1 @@
+Amazon Cloud search looks very interesting, will people move over from Elastic Search?

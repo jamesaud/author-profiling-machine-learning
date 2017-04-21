@@ -1,0 +1,1 @@
+@centsiblelife Seems to be an issue with the browser's Flash conflicting with the machine's Flash. Disabling one helps, but it comes back on

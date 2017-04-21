@@ -1,0 +1,1 @@
+@leifos Indeed, BM25 pwnage. Too bad there aren't more TREC approaches/tracks using it as a default baseline.

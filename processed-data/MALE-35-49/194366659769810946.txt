@@ -1,0 +1,1 @@
+@filifulT Haz caso a tu supervisor ;-) Para implementar tú mismo un algoritmo, Python. PERO Java tiene la ventaja de poder usar mahout.

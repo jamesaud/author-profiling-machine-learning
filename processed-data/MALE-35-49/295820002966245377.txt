@@ -1,0 +1,1 @@
+@umbraco mysql != umbraco - I guess its chicken &amp; egg though, if the win platform installer encouraged mysql installs it would be different

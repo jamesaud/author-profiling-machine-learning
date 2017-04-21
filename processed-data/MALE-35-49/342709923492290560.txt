@@ -1,0 +1,1 @@
+Twitter's Data Access Layer is built on HCatalog @squarecog http://t.co/zOkQZ4fcY3 http://t.co/YNtUTRFMvl

@@ -1,0 +1,1 @@
+Being forced to revert nicely formatted HFS+ drives to FAT32 for compatibility with linux based NAS. Seems ext3 is not a good option for OSX

@@ -1,0 +1,1 @@
+@francesco1986_ yep. event query =&gt; burst detection =&gt; temporal query expansion =&gt; tweet retrieval =&gt; generate "structured" results

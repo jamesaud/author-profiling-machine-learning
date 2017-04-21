@@ -1,0 +1,1 @@
+@stevesage My mistake, the search is working on the sourcemotion staging version of pr - but broken on the pr dotnet site

@@ -1,0 +1,1 @@
+@CGaskell Did you demonstrate using PreInit to switch master pages at the last #umbraco mcr meetup to build a responsive design for Betta?

@@ -1,0 +1,1 @@
+@zacharyvoase You'll want to add item semantics (maybe user as well) to work with small enough samples to attract smaller clients

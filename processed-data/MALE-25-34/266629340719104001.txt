@@ -1,0 +1,1 @@
+New shared document collection *probably* TREC-KBA '12 with some additions (Twitter &amp; FB from Spinn3r) and exclusions (bit.ly) #trec2012

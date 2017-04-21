@@ -1,0 +1,1 @@
+Don't dare to create a GL_TEXTURE_CUBE_MAP with non square of 4 faces. The driver of the Nexus S crashes on tex creation. Mem align issues.

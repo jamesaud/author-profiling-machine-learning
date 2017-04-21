@@ -1,0 +1,1 @@
+El mismo banco que te envía un sms con dos coordenadas para hacer una transferencia, tiene su login en una página no segura.

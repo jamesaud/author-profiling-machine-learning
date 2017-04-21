@@ -1,0 +1,1 @@
+@invisiblecomma Can't find the reference, but there's been work done to tile high res images into a zoomable/navigation like maps interface

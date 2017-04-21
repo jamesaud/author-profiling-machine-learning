@@ -1,0 +1,1 @@
+@diazf_y google should adopt an indri-style query language. #verbatim(inquery stopword list)

@@ -1,0 +1,1 @@
+Btw, very related to many of the talks today at #AnalyticsWebscale, my previous post on Netflix #recsys architecture http://t.co/keu3kyeuy6

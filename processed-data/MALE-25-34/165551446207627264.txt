@@ -1,0 +1,1 @@
+thanks to @lintool for pointing out gh-pages to me. handy way to host web sites associated w/ github projects

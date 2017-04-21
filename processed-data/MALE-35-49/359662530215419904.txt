@@ -1,0 +1,1 @@
+But at the end of the day, an IDS is like an AV, it helps you to detect some bad stuff, but just some.

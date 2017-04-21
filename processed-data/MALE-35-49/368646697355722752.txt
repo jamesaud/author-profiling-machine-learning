@@ -1,0 +1,1 @@
+@adnanced Nije, bio je. Na kraju sam instalirao Windows 8 evaluation u bootcamp i upotrijebio Odin da ga rootam.

@@ -1,0 +1,1 @@
+Spend the last few weeks trying to work through the maths behind a HMM -- worth the effort for anyone interested in Baysian statistics

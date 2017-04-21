@@ -1,0 +1,1 @@
+Wow! How is it possible I haven't seen jbundler https://t.co/JB3fPokqc5 before? Jar dependencies management is now way easier.

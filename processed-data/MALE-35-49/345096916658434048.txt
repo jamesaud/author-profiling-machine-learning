@@ -1,0 +1,5 @@
+ovo.ba  --[now points to]--&gt;  localhost
+
+… because I experimented with rails app that uses subdomains.
+
+Feel free to use it if you need it.

@@ -1,0 +1,1 @@
+@HilzFuld http://yfrog.com/kef1np Tell your techies to put HTML comments around the contents of their SCRIPT tags.

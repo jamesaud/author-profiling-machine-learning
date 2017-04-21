@@ -1,0 +1,1 @@
+trying to wrap my head around git(hub), the soon-to-be new home of ivory (ivory.cc)

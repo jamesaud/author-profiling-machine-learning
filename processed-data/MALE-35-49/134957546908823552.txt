@@ -1,0 +1,1 @@
+@mattbrailsford Is there a blog post that shows an example Umbraco macro written in the razor syntax, xsl and standard C#?

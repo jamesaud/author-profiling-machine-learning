@@ -1,0 +1,1 @@
+#PHP Passing and returning hashmaps as parameter lists should be outlawed. Maintenance is driving me crazy

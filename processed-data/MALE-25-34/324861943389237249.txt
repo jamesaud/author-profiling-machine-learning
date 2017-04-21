@@ -1,0 +1,1 @@
+Our tutorial "Entity Linking and Retrieval" (with @krisztianbalog and @dodijk) has been accepted for #SIGIR2013!

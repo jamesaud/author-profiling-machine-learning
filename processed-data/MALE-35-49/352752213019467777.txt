@@ -1,0 +1,1 @@
+At @MSFTResearchCam learned about somewhat homomorphic encryption http://t.co/PY9k5K4ApA as pragmatic method for privacy protection

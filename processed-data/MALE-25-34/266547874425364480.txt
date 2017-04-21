@@ -1,0 +1,1 @@
+DCU obtain best performance using only BM25 on TREC Medical '11 and '12 test collections. (Unweighted) query expansion hurts. #trec2012

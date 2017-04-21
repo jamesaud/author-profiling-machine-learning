@@ -1,0 +1,1 @@
+Getting all corporate with MS. Have created Windows7 guest on Mac host using Sun VirtualBox. Loving the VirtualBox seemless mode.

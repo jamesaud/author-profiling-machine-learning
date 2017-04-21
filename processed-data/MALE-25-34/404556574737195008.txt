@@ -1,0 +1,1 @@
+JNDI Hibernate SessionFactory, compartiendo recursos entre applicaciones y máquinas virtuales funcionando. #requetefuckyeah

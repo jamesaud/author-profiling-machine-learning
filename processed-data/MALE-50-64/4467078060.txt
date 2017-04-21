@@ -1,0 +1,1 @@
+@AlexJReid No coding yet, but I've got some ideas to use SimpleDB in a couple of side projects

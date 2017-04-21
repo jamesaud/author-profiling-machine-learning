@@ -1,0 +1,1 @@
+Btw, Walter Mitty's Pandora campaign might imply their algo is based on Music Genome, but it's a hybrid with lots of collaborative filtering

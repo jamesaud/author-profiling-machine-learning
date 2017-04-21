@@ -1,0 +1,1 @@
+The set of lights contributing to each object is computed and the optimized shader for that set is used. http://twitpic.com/56famt

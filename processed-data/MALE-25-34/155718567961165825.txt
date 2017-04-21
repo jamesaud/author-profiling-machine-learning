@@ -1,0 +1,1 @@
+Making snappy Ajaxy sites gracefully degrade where not supported use to be for older browsers and now seems for Search Engines

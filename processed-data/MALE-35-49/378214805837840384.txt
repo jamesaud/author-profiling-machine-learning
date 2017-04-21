@@ -1,0 +1,1 @@
+"Using Chef and Vagrant to Put Lipstick on a Pig"- @mortardata open sources tools to integrate Lipstick to Mortar http://t.co/5fK2MjqdAN

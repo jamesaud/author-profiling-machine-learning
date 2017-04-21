@@ -1,0 +1,1 @@
+@subcide Odd! I don't know what system API they're using to detect changes, but it sounds wrong.

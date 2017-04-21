@@ -1,0 +1,1 @@
+@jerepick yes, excellent point! if the language is expressive enough then the distinction begins to blur such that query = features + model

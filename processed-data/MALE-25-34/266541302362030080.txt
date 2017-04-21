@@ -1,0 +1,1 @@
+Atigeo find that using (the text of) report-level ICD-9 codes help in retrieving medical records #trec2012

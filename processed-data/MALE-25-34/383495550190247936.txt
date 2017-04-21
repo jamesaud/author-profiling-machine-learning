@@ -1,0 +1,1 @@
+@_rebeling thx but no code involved just es and kibana but i could show clojure indexing code. 2 lines if that is of any value?

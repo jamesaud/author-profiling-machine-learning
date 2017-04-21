@@ -1,0 +1,1 @@
+passagifiable -- the ability to split a document into passages.

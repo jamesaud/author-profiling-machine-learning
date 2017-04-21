@@ -1,0 +1,1 @@
+@danielmintz I think most of us have figured out that "plays" are more valuable than ratings. Most music #recsys don't use ratings AFAIK

@@ -1,0 +1,1 @@
+See @nokia indoor location technology at MWC http://t.co/6HJxN15z very good but relies on BLE & beacons - Grizzly Analytics gives details

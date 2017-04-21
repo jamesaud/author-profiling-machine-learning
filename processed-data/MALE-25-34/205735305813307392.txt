@@ -1,0 +1,1 @@
+The Tegra 3 GPU driver crashes when using gl_FrontFacing on a shader on the Asus Transformer Prime.

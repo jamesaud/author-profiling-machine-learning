@@ -1,0 +1,1 @@
+#sigir2011 paper (w/ @bemikelive + croft) "Parameterized Concept Weighting in Verbose Queries" now available at http://bit.ly/kj8ZbD

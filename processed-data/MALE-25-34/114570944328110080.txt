@@ -1,0 +1,1 @@
+my first patent was recently granted (US 8,005,845). basic idea: "intent-adaptive machine learned query-biased summarization"

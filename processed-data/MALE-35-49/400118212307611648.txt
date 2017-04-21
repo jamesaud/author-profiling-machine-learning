@@ -1,0 +1,1 @@
+Querying Knowledge Graphs by Example Entity Tuples. (arXiv:1311.2100v1 [cs.DB]) http://t.co/HtkZb2ffq9

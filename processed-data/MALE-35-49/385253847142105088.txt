@@ -1,0 +1,1 @@
+Optimizing RDF stores by coupling General-purpose Graphics Processing Units and Central Processing Units http://t.co/yp9gnruJpd

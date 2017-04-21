@@ -1,0 +1,1 @@
+Koji seljak je pravio @oslobodjenjeba? Stranice se učitavaju js-om (što je ok) ali bez fallbacka. Otvaranje u novom tabu/prozoru ne radi.

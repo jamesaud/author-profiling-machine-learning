@@ -1,0 +1,1 @@
+testing the #elastisch locally, (0 failures, 0 errors), while travis CI is saying build failed, guess thats a missing ES_CLUSTER_NAME

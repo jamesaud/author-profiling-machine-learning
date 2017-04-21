@@ -1,0 +1,1 @@
+@TheJare It happened to me. It turned out that using the real deltatime every frame was a bad idea. Averaging past frames solved it.

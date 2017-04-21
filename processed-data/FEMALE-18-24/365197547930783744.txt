@@ -1,0 +1,1 @@
+There are few things worse than when Excel decides to screw up at the end of your project. Go home, formulas, you're drunk.

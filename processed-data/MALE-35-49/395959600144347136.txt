@@ -1,0 +1,1 @@
+Interesting talk by the yandex guys: "Personalization of Web-search Using Short-term Browsing Context" #cikm2013

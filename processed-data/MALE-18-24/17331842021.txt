@@ -1,0 +1,1 @@
+My widget! It works! But I need to make it an order of magnitude quicker for it to be useful. Blast.

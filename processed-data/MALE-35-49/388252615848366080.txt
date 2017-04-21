@@ -1,0 +1,1 @@
+Note to self: Don't assume hosting company have configured .net/IIS properly next time you see a 500 on a new server - run aspnet_regiis -lv

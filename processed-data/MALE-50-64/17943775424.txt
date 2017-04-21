@@ -1,0 +1,1 @@
+@AlexJReid Could just make government data sets free for download - the API, infastructure, etc costs can then be borne by the developer?

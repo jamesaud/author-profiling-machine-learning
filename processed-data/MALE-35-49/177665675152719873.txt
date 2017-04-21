@@ -1,0 +1,1 @@
+High availability name nodes now for Hadoop! This means more realtime big data apps http://t.co/VO0QnWeM ht @aglet

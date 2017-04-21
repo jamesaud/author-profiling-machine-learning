@@ -1,0 +1,1 @@
+Hopping over Big Data: Accelerating Ad-hoc OLAP Queries with Grasshopper Algorithms. (arXiv:1310.0141v1 [cs.DB]) http://t.co/w3oEdXpMxi

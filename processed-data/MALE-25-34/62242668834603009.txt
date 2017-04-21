@@ -1,0 +1,1 @@
+After 50 hours of work, my multi-threaded 3D engine prototype for #Android 2.2+ is working :D

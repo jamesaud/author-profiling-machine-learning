@@ -1,0 +1,1 @@
+Just finished the OBJ loader. Optimizing the mesh was easier than expected but way slower on my NexusS. Will have to use a custom bin format

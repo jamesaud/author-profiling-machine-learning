@@ -1,0 +1,1 @@
+@UTCompSci hosts Shivaram Kalyanakrishnan @YahooLabs 8/12: "PAC Subset Selection in Stochastic Multi-armed Bandits". http://t.co/s1rZofv9qB

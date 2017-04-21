@@ -1,0 +1,1 @@
+Entity linking for the masses/webdevs: Google's (wrapper induction based) Data Highlighter now supports 6 more types http://t.co/xVk6SmiB1V

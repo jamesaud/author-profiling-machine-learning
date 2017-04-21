@@ -1,0 +1,1 @@
+Nice list of software dev security checks - basically always test and mistrust external inputs (forms fields, APIs) http://t.co/YZw64m0c

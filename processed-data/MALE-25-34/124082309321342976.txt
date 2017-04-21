@@ -1,0 +1,1 @@
+Normal mapping fully working. Up to three lights per material. http://t.co/g9OxQdv2

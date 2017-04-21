@@ -1,0 +1,1 @@
+"export LC_ALL=C" &lt;-- incredibly useful, especially if you do a lot of sorting and don't want any weird surprises

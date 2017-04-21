@@ -1,0 +1,1 @@
+id:0196945033 sub:001 dlvrd:001 submit date:1304060918 done date:1304060918 stat:DELIVRD err:000 text:Direct from @IncomeM

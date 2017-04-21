@@ -1,0 +1,1 @@
+Amazon #Kinesis: A new Amazon Web Service for "real-time processing of streaming data at massive scale": http://t.co/1Xc9OICy74

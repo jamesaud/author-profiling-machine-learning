@@ -1,0 +1,1 @@
+“@s1m0nw: #elasticsearch got a termvector API today https://t.co/7RKlSyLY4U ...nice one! /cc @a2tirb” #awesome

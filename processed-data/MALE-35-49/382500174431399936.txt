@@ -1,0 +1,1 @@
+Fast $k$-NNG construction with GPU-based quick multi-select. (arXiv:1309.5478v1 [cs.DC]) http://t.co/QuWZzJkFRI

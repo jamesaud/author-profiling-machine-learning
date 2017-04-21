@@ -1,0 +1,1 @@
+I already proposed in #kdd2013, and we have same issue in #cikm2013: can someone build a demand prediction model for conference sessions?

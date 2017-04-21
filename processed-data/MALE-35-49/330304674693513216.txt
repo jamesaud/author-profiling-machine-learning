@@ -1,0 +1,1 @@
+If you want to see an Oracle JVM crashing on Linux, use this code: http://t.co/Ie67BiCIvu #Java #Java7u21

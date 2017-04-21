@@ -1,0 +1,1 @@
+*@ian_soboroff i always thought the dot was informal, user-defined syntax. is it functionally any different than the syntax i used here?

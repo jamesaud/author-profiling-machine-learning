@@ -1,0 +1,1 @@
+@Ruirize Check the coords are the right way around (long=Vert,lat=Horiz) and check the projection (e.g. http://t.co/DOYzPM4x) #yrshelp

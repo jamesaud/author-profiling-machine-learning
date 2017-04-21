@@ -1,0 +1,1 @@
+Have written a simple (and unconventional) scraper for Google Real Time Analytics to solve this problem: http://t.co/ojIjlPXKc9

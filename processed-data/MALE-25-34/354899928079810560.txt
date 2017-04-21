@@ -1,0 +1,1 @@
+Very compact language detection with code extracted from Google Chromium (via @dvdgrs):  http://t.co/OipF7pHOjB and https://t.co/7zL0UXmujc

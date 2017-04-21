@@ -1,0 +1,1 @@
+@HCIR_GeneG pretty easy. the quality would depend on the NLP stack's "compatibility" with ur data. do u have newswire? web? something else?

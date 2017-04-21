@@ -1,0 +1,1 @@
+Announcement: #Tutorial "Evaluating Recommender Systems" by Guy Shani http://recsys.acm.org/2010/tutorials/ #recsys #barcelona 2010

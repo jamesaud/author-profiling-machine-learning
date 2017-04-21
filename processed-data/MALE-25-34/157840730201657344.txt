@@ -1,0 +1,1 @@
+The #Android Matrix.invertM() method internally allocates 448 bytes. Several uses per frame in real time and the GC goes crazy.

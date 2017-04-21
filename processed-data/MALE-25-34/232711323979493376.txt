@@ -1,0 +1,1 @@
+@richardprice100 the twitter API offers streaming from a search term

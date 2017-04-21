@@ -1,0 +1,1 @@
+Pedantic bug spot #283: on fantasy.premierleague.com if you click on 'i' to view a player, when that player is already  displayed the value

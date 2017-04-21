@@ -1,0 +1,1 @@
+Media noche en vela y creo que ya tengo claras todas las diferencias entre sphinx, lucene y el builtin de FTS de MySQL.

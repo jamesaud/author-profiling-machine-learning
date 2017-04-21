@@ -1,0 +1,1 @@
+In-game graphic level modification is working. It freezes 200ms while compiling new shaders. Now the framerate vary between 18 and 55 fps.

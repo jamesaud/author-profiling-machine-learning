@@ -1,0 +1,1 @@
+@k4rliky @limay brutal herramienta, en 1 hora lo he integrado perfectamente. Se echan de menos "auto-renders" en json, rss, xml, yaml. ty

@@ -1,0 +1,1 @@
+@julian_urbano NTCIREVAL - http://t.co/Y80I20Ha. ERR not included in trec_eval, last time i checked (/cc @ian_soboroff)

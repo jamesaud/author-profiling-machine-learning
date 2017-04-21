@@ -1,0 +1,2 @@
+"The chinese room problem asks if computers can think; I ask here if most humans can."
+ (arXiv:1311.2912v1 [cs.AI]) http://t.co/vTEVrKG5Tz

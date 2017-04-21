@@ -1,0 +1,1 @@
+View frustum culling has dramatically improved performance in some situations.

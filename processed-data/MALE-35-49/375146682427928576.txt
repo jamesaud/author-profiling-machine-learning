@@ -1,0 +1,1 @@
+"Streaming MapReduce with Summingbird" - @twitter announces new OSS http://t.co/d0dJhXWLua

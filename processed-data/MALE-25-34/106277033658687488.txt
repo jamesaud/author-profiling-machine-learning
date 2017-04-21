@@ -1,0 +1,1 @@
+If you ported SETI@home to JS posting results back to SETI via JSONP, people would unknowingly search for ET while viewing your pages

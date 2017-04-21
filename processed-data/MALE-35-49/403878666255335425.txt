@@ -1,0 +1,1 @@
+After a quick look, it seems that there aren't any sHTTP implementation in any browser or server.

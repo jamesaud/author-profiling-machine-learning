@@ -1,0 +1,1 @@
+"Neural networks, Google and cats" http://t.co/FWaYHPyzmH - Huge Deep Belief Networks running on a handful of GPUs

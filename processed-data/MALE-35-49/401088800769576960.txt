@@ -1,0 +1,1 @@
+I've just discovered Norvig's spelling collector in 21 lines of Python http://t.co/06STLZY0Wl &lt;- awesome read. /via @aitorciki

@@ -1,0 +1,1 @@
+I would guess that the real bottleneck of this operation http://t.co/gujTcIphpw would be the availability of people who understand French

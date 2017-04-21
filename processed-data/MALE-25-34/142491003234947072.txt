@@ -1,0 +1,1 @@
+solved a system of equations (3x3) by hand for the first time in over 10 years. math was more fun before i learned Matlab, Maple, and R

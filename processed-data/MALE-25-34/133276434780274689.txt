@@ -1,0 +1,1 @@
+Simple earth test. Layer 1: Diffuse+Specular+Normal. Layer 2: Diffuse cloud map, with alpha channel. http://t.co/Ww4JNQEr

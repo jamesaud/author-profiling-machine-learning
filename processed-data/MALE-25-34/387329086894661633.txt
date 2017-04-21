@@ -1,0 +1,1 @@
+Attempting to write a solr app. It's come on along way in the last 5 years. Documentation is still poor.

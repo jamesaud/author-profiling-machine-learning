@@ -1,0 +1,1 @@
+@lsaiz I'm not frustrated, but happy :) I don't like SAML at all.there is only one thing that I hate more: a SAML Java implementation :)

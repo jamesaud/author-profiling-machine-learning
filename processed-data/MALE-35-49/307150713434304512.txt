@@ -1,0 +1,1 @@
+Wow! Ruby 2 brings Enumerable::Lazy http://t.co/nCpHohmBuZ

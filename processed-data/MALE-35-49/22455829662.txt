@@ -1,0 +1,1 @@
+#GoogleVoice rings in #GMAIL but not in GTalk App or Nimbuzz or Fring.  In GMAIL can't answer w/o dialing "1" Any Google Voice advice?

@@ -1,0 +1,1 @@
+It seems that Akamai wants to add client side DDoS protection to their existing antiDDoS portfolio

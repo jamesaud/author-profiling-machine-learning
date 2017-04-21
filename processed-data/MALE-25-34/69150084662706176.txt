@@ -1,0 +1,1 @@
+@ian_soboroff @arjenpdevries my guess: if tweet[0] == '@' then msg only appears in timeline of mutual followers, else it appears to everyone

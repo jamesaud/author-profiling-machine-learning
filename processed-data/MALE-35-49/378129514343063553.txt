@@ -1,0 +1,1 @@
+"not to insert a USB key unless they know exactly where it came from and that it is safe"

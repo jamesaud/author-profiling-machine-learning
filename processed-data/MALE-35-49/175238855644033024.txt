@@ -1,0 +1,1 @@
+Yesterday, February 28th, 2012 at 5:45 PM PST Windows Azure operations became aware of an issue impacting the compute service

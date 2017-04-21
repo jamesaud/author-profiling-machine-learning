@@ -1,0 +1,1 @@
+I have tested @airmailer beta. It looks nice, but I still prefer simplicity of @sparrow. Event though it's unsupported now :(

@@ -1,0 +1,1 @@
+@HilzFuld Your site's Javascript is in &lt;script&gt; tags but not &lt;!-- --&gt; comments. OK for modern browsers but not some text extractors

@@ -1,0 +1,1 @@
+Why Android SSL was downgraded from AES256-SHA to RC4-MD5 in late 2010 http://t.co/6k4ZVbLPpY

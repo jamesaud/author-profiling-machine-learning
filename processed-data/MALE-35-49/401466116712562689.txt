@@ -1,0 +1,1 @@
+Josh Patterson now talking about Metronome "a suite of parallel iterative algorithms that run natively on YARN" https://t.co/PXxiJnwjRI

@@ -1,0 +1,1 @@
+Android 2.2 Java API doesn't support VBOs. Someone forgot to wrap two C calls. Will have to wait until 2.3+ share grow way larger than 2.2.

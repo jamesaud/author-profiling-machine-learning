@@ -1,0 +1,1 @@
+@sidonath radi na svim layoutima koje koristim (HR, DE, US) ali se aktivira na slovima na kojima je potrebno u tim jezicima @abstractba

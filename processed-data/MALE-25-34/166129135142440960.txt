@@ -1,0 +1,1 @@
+Misteriously the Nexus S is limited to 300 GL drawing calls per frame. After that the ZBuffer fails. Could not reproduce on other devices.

@@ -1,0 +1,1 @@
+@redmorello Not all the documented workflow events work so it would be simplest/safest to use javascript to pop calc fields based 'onchange'

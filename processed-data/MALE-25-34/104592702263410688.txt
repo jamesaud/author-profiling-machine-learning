@@ -1,0 +1,1 @@
+giving a talk on Mavuno (a scalable distributional similarity engine) at the #kdd2011 LDMTA workshop on sunday. paper: http://t.co/30WBgyO

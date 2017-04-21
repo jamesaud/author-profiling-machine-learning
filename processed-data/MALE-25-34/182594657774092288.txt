@@ -1,0 +1,1 @@
+@HCIR_GeneG technically, it can be as few as 1, but realistically you want enough to generate a good summary of the event

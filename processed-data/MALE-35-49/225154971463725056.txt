@@ -1,0 +1,1 @@
+@amarkulo za mysql2 gem bi ti trebalo biti dovoljno: ´brew install mysql´ i ´gem install mysql2´ (ili samo ´bundle´) @damirtursunovic

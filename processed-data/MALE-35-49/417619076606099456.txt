@@ -1,0 +1,3 @@
+My new year resolutions for 2014 are about learning languages.
+
+German, Scala, Clojure, Go…

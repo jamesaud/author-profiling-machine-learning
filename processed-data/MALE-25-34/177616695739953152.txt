@@ -1,0 +1,1 @@
+@stanfordnlp i strategically managed to open source mavuno before i left, so i plan to continue maintaining/developing it.

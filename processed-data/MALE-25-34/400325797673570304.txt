@@ -1,0 +1,2 @@
+Caché replicada y distribuida en marcha. 
+Ehcache 1 - @canos 2

@@ -1,0 +1,1 @@
+.@techsoc All your citation data can be exported or pulled out of your local SQLite database. No lock-in w/ Mendeley

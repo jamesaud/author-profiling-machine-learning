@@ -1,0 +1,1 @@
+i used to think the limit (as t -&gt; infinity) of unread emails in my inbox was convergent, but recent evidence refutes that hypothesis.

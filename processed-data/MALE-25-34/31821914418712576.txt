@@ -1,0 +1,1 @@
+#KPackageKit in #Fedora 14 tested on some computers... unstable in all of them.

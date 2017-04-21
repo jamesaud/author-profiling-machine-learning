@@ -1,0 +1,1 @@
+UDel / @zhudq uses mixture of relevance models for TREC-Med. Seems reminiscent of external expansion (@fdiaz_msr SIGIR '06) #trec2012

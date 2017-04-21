@@ -1,0 +1,1 @@
+@chrisbarber86 SOAP's very bloaty, designed by enterprise bods, but it does have  advantages over REST (like security and authentication)

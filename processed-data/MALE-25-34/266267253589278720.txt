@@ -1,0 +1,1 @@
+@mounialalmas "balance between eﬀectiveness (gains across queries) and robustness (minimizing possibility of signiﬁcant failure)" #trec2012

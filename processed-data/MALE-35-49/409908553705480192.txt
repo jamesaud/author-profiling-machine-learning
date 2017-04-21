@@ -1,0 +1,1 @@
+example @scicasters prediction question relevant for @LDBCproject : by June 2014 will same machine rank #1 in both Top500 and Graph500?

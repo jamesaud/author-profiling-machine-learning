@@ -1,0 +1,1 @@
+configured #elasticsearch behind #nginx with the handy limit_except block to block DELETE requests. #fun

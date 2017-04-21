@@ -1,0 +1,1 @@
+@michaelmiraflor yes, we use Parallax Scrolling to describe that type of design, even though technically not 100% correct use of that term

@@ -1,0 +1,1 @@
+@xeroxsupport The fun fact is: this was caused by a bug in your firmware. A print job should *never* erase the OS off a printer's hard drive

@@ -1,0 +1,1 @@
+Also there seems no way around to learn @emacs to get further. #euroclojure

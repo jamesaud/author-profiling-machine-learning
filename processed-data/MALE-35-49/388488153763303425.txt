@@ -1,0 +1,1 @@
+Trevor Hastie: "Boosting overfits less quickly, but, given enough noise, it still will"

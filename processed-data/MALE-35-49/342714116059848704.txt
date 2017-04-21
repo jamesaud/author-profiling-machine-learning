@@ -1,0 +1,1 @@
+According to @squarecog Twiter has experimented with Spark, but has not managed to make it work in production http://t.co/9dI50uLkfI

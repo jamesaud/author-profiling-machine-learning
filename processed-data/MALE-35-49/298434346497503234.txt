@@ -1,0 +1,1 @@
+@subcide that and a misuse of the split vertical blog post feed index on homepage. Makes browsing down difficult.

@@ -1,0 +1,1 @@
+Si veo algo destacable en las pruebas de rendimiento (transacciones, footprint, cpu) ya dispararé algo por aquí.

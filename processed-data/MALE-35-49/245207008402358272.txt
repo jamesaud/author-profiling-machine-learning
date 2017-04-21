@@ -1,0 +1,1 @@
+@takachi Thank you very much for using boilerpipe. CJK support dramatically improved in a new unreleased version. Demo: http://t.co/ccNc6Xd1

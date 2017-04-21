@@ -1,0 +1,1 @@
+Extreme acoustic cryptanalysis. Security researchers have broken a highly secure encryption algorithm by *listening*: http://t.co/LMyPouFqm5

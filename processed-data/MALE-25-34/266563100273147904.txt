@@ -1,0 +1,1 @@
+UTD find sign. improvements using (heuristic) assertions for adhoc reranking. Sounds a bit like hedging (Medlock &amp; Briscoe ACL'07) #trec2012

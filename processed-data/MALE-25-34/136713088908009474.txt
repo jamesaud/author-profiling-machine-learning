@@ -1,0 +1,1 @@
+coding rawcomparators for complex user-defined writable objects in hadoop is well worth the effort (and kind of fun).

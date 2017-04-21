@@ -1,0 +1,1 @@
+Should keys like ( ) &lt; &gt; : ! [ ] become non-shifted characters for programmers given how often they're needed?

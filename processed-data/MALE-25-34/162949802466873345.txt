@@ -1,0 +1,1 @@
+The GalaxyS2 graphic driver does a pretty good job removing death code from shaders. Sadly it forgets to notify which uniforms were removed.

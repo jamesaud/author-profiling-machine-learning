@@ -1,0 +1,1 @@
+@Napaboy they already offer an anti-DDoS service, but I guess they want to have the client side as well

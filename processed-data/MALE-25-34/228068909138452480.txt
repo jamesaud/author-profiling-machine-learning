@@ -1,0 +1,1 @@
+.@eevrt Running the #TREC #KBA toy example system on all data (381m docs in 353k mappers/thrift files), 1.2T ("cleansed-only") in ~1 hour :)

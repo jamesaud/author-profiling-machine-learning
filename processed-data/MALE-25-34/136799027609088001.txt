@@ -1,0 +1,1 @@
+Solid color can b defined instead of textures. New feat thx 2 d major rewrite of d materials system in progress. http://t.co/3b8RI2Qw

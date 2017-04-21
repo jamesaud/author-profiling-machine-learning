@@ -1,0 +1,1 @@
+When working with multiple lights, it is way faster using a shader for each light count than using branching or looping on a single shader.

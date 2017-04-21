@@ -1,0 +1,1 @@
+Putting Spark to Use: Fast In-Memory Computing for Your Big Data Applications - at Cloudera's blog http://t.co/1bh1W5FH76

@@ -1,0 +1,1 @@
+#LosAngeles ML & IR folks -- i'm giving a talk on ranking at the LA #MachineLearning meetup at eHarmony on 4/28 (http://bit.ly/fXmGt6)

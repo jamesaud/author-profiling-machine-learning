@@ -1,0 +1,1 @@
+@leekelleher I used the same js fragment - poked in into the end of umbraco\editcontent.aspx - there has to be a better way!

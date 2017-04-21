@@ -1,0 +1,1 @@
+When using shaders don't forget to set all the uniforms on your GL code. All kind of weird unrelated things could happen if you don't.

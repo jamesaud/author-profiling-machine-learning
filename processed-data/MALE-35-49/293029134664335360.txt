@@ -1,0 +1,1 @@
+Wow so IE 6,7,8 no longer supported with move to jQuery 2.0 (in beta). May the rest of the world move on h/t @chrisclarke1977

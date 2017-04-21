@@ -1,0 +1,1 @@
+Coded support for VBOs and the FPS are the same. So the bottleneck is still in the fragment shaders and we have space for tons of geometry.

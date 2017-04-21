@@ -1,0 +1,1 @@
+On OS X, if I've got a folder of 1000 images named n.png, what's the easiest way to glue them into a movie with each image shown for 1/10s?

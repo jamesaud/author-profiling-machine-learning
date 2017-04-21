@@ -1,0 +1,1 @@
+.@EUTenders an example query URL  a la "/?q=food" would be more more direct for the audience your are trying to reach. is that not possible?

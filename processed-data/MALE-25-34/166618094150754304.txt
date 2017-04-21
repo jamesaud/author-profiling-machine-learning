@@ -1,0 +1,1 @@
+Just fixed the graceful degradation and search engine friendly links on my website

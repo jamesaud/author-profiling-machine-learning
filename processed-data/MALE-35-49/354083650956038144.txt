@@ -1,0 +1,1 @@
+Quantum support vector machine for big feature and big data classification. (arXiv:1307.0471v1 [quant-ph]) http://t.co/EcUPB3kXQA

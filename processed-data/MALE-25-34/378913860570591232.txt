@@ -1,0 +1,1 @@
+@makersacademy Strongly disagree! Interview code tests are not to test code quality. They test approach to problems &amp; grasp of key concepts.

@@ -1,0 +1,1 @@
+TREC2013: 2 new tracks (Federated search and Temporal summarization), 1 new collection (ClueWeb12), and 1 rename: Real-time search #trec2012

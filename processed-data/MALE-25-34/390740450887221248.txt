@@ -1,0 +1,2 @@
+"When you move past the top or bottom of the screen, the text beyond
+the edge shifts onto the screen.  This is called "scrolling"" #learning

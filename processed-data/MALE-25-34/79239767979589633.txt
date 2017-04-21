@@ -1,0 +1,1 @@
+If using quicksort, move to insertion sorting when your subarrays left after pivot selection are small (10-20 elems).

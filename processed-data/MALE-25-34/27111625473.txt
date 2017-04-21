@@ -1,0 +1,1 @@
+Gave a talk today at UC Irvine's AI/ML seminar titled "Learning to Effectively and Efficiently Rank" (slides: http://bit.ly/d7Of9E).

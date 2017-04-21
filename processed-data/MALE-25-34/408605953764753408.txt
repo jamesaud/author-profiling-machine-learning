@@ -1,0 +1,1 @@
+@StephenGorchov @hootsuite Check your settings, there should be a time zone option. It's the gear icon on main sidebar.

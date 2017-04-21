@@ -1,0 +1,1 @@
+.@ScraperWiki comes out with a scraper to extract tabular data from PDF docs   http://t.co/JVqsdfKlKY

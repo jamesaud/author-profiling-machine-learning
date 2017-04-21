@@ -1,0 +1,1 @@
+@brendan642 stemming/spell-correction typically done contextually (at the word and/or char level). many possible implementations.

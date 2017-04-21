@@ -1,0 +1,1 @@
+@ismailmayat Can I set Examine to favour certain doctypes in the #umbraco search results? I think you demo-ed something like that in Dec

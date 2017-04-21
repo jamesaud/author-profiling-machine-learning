@@ -1,0 +1,1 @@
+Particularly enjoyed the #nosql13 talk on Neo4J, much development since my early foray into the field of graph DBs a few years ago
