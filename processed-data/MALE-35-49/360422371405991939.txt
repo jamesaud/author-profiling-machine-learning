@@ -1,0 +1,1 @@
+@SimonAntony Seen that when the database pointer in web.config is pointing to a different version of the site than it sees in umbraco.config

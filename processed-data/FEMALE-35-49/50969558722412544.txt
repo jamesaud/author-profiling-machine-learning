@@ -1,0 +1,1 @@
+Key takeaway - avoid slice and dice optimization - its putting lipstick on a pig #sesny

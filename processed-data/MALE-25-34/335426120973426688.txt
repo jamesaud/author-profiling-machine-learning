@@ -1,0 +1,1 @@
+@ID_AA_Carmack Compilation time, and keeping all these data on the application memory data segment at the same time, unless using DLLs.

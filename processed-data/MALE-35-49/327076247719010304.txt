@@ -1,0 +1,1 @@
+Not sure where I found this razor tip:  if (kount % 4) { @:&lt;/tr&gt;&lt;tr&gt; } - but it's a good one (the colon matters!)

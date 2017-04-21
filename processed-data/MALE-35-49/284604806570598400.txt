@@ -1,0 +1,1 @@
+@tomaz @thegrif see the HTMLHighlighter class on how to access the DOM

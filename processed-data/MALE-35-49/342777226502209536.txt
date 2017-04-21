@@ -1,0 +1,1 @@
+According to Avery Ching, one of the main motivations for Giraph was to improve Facebook Recommendations #recsys #AnalyticsWebScale

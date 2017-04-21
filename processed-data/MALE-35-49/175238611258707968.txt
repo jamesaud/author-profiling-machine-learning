@@ -1,0 +1,1 @@
+Now I now why #umbraco on Azure was failing so oddly yesterday and overnight - http://t.co/aBirmdA0

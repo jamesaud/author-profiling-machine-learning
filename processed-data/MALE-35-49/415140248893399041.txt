@@ -1,0 +1,1 @@
+@ap_sims @dartog Yeah, import into Excel should pop up a question about how the data's delimited, then choose comma.

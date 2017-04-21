@@ -1,0 +1,1 @@
+@rsleggett Tridion + JSP - interesting!  I think I'll stick to Umbraco + Azure + Razor - even given probs with Azure/Umbraco Accelerator

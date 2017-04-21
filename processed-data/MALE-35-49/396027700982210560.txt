@@ -1,0 +1,1 @@
+Kudos to Carlos Guestrin for doing a real demo during his keynote @GraphLabAPI #cikm2013

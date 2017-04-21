@@ -1,0 +1,1 @@
+@AlexJReid Amazon are keen to promote S3 or their edge service for BLOB data, and SimpleDB for meta data, with EC2 running the application..

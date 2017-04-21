@@ -1,0 +1,1 @@
+Cambiar el tipo de algunas variables (unas 500) y que la aplicación ocupe un 62% menos en memoria. #java #performance

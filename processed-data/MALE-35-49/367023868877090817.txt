@@ -1,0 +1,1 @@
+.@jeremyphoward getting to #deeplearning through the idea of avoiding overfitting with tree ensembles. But GBM/GBDT don't #kdd2013

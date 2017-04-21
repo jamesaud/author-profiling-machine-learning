@@ -1,0 +1,1 @@
+@natala 1) soft 404s in documentation, 2) CLT errors uninformative, 3) inability to design qual tests + attach to HITS in RUI

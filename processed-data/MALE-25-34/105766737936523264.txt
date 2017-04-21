@@ -1,0 +1,1 @@
+my #kdd2011 LDMTA workshop slides for "Mavuno: A Scalable and Effective Hadoop-Based Paraphrase Acquisition System" : http://t.co/csmmKlL

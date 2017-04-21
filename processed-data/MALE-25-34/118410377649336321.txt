@@ -1,0 +1,1 @@
+@craig_macdonald unfortunately, no. weights will be arbitrary real-values in no way connected to the TF (or IDF) of the span's text.

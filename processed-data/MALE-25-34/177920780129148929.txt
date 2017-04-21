@@ -1,0 +1,1 @@
+@sodaontheside from the web interface you can click "open" and then "details" to get the URL of a specific tweet

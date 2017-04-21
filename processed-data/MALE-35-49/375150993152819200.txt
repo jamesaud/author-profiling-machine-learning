@@ -1,0 +1,1 @@
+Optimizing the MapReduce Framework on Intel Xeon Phi Coprocessor http://t.co/2YDX7Dd6ag

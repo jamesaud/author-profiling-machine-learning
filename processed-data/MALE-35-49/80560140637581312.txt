@@ -1,0 +1,1 @@
+.@ChemConnector @jasonpriem I think it just looks at what's trending on wikipedia, then adds relevant research articles

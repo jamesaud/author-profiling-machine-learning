@@ -1,0 +1,1 @@
+Yesterday in the plane I read the RFC 2660 about 'Secure HTTP' (not HTTPS) that had some advantages over https http://t.co/47mfvqAwoQ

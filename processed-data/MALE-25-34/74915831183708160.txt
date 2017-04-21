@@ -1,0 +1,1 @@
+Per-pixel. Up to 3 lights + ambient. Performance is better than expected and there's room for some improvement. http://twitpic.com/54aauv

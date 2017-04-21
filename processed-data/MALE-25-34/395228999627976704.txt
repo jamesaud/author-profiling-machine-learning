@@ -1,0 +1,1 @@
+first #compojure #clojure backend with #elastisch ready for deployment I'm in love with a new language. #makeItAbetterPlace

@@ -1,0 +1,1 @@
+#sigir2011 paper (w/ @nimatwtr, @lintool, elsayed) "Pseudo Test Collections for Learning Web Search Ranking Functions" http://bit.ly/iYr7HB

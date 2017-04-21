@@ -1,0 +1,1 @@
+Concurrent Releases Pattern, a Machine Learning DSL for Hadoop http://t.co/RssWzYC9nd

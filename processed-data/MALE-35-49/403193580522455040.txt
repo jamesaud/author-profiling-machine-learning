@@ -1,0 +1,1 @@
+If you connect to that ip address, there is a router web configuration panel with admin/admin :(

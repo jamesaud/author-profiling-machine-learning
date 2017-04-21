@@ -1,0 +1,1 @@
+@diazf_y i'd be interested in your findings, as well. don't know of too many IR-specific query languages, really, or user-facing studies.

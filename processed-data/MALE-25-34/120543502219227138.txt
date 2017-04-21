@@ -1,0 +1,1 @@
+Automatic mipmap generation. System-wide trilinear filtering enabled for compliant textures. http://t.co/y1DwNjDh

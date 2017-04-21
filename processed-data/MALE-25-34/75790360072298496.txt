@@ -1,0 +1,1 @@
+#sigir2011 paper (w/ wang + @lintool) "A Cascade Ranking Model for Efficient Ranked Retrieval" now available at http://bit.ly/kMWe1b

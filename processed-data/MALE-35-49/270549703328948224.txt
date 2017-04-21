@@ -1,0 +1,5 @@
+Marketing lingo translated (for developers):
+
+IaaS = hosting (raw)
+PaaS = hosting (has OS and apps)
+SaaS = hosting (application)

@@ -1,0 +1,1 @@
+@FroehlichMarcel not if you replace a human calculation cost=X, value=Y with another human calculation at cost=X/N, value=Y/M with N&gt;&gt;&gt;M

@@ -1,0 +1,1 @@
+Facebook ran Page Rank on user graph with a trillion edges on 200 machines with Giraph in less than 6 minutes/iteration! #AnalyticsWebScale

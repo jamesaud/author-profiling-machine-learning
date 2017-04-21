@@ -1,0 +1,1 @@
+My automated tweet generator based on ngrams works equally well generating fantastic prose with LOTR as the training data

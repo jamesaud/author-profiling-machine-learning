@@ -1,0 +1,1 @@
+@EuroClojure thx for two very good days. I got in touch and got some new goals for going my way further to clojure

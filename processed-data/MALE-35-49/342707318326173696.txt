@@ -1,0 +1,1 @@
+.@squarecog describing Parquet, a columnar format for Hadoop http://t.co/EpwjIwE3QN

@@ -1,0 +1,1 @@
+Getting to quite like SQL Server. Acid test when I put it under load!

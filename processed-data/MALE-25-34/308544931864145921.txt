@@ -1,0 +1,1 @@
+90% of the time I try to use the reduce operator with a lambda in python it turns out not to be powerful enough

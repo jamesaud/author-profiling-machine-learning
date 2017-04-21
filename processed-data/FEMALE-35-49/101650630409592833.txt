@@ -1,0 +1,1 @@
+The Yahoo Article about Linked-in forgot to mention under: Turn on/off data sharing with 3rd party applications: be sure to uncheck the yes.

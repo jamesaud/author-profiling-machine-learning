@@ -1,0 +1,1 @@
+Discarding fragments early on alpha test reduces the performance impact of the branch. Still too costly to use on the full scene. Use wisely

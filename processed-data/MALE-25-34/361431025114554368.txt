@@ -1,0 +1,1 @@
+Btw, we are planning on keeping our entity linking and retrieval bibliography updated, to serve as a dedicated, shared resource #SIGIR2013

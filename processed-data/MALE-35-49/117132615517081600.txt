@@ -1,0 +1,1 @@
+Any ideas why most academic publishers don't use unique names for downloaded PDFs? e.g. SDarticle.pdf instead of insertDOI.pdf

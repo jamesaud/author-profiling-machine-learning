@@ -1,0 +1,1 @@
+@SiKenyon I wonder if there is an intellisense plug-in on top of the syntax highlighter for notepad++

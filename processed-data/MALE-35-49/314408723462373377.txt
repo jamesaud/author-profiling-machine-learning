@@ -1,0 +1,1 @@
+Is this an acceptable hack 10 mins before go-live? fusiontabledata = fusiontabledata.replace(/NaN/g, '');

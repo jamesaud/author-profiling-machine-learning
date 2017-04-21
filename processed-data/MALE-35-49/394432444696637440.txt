@@ -1,0 +1,1 @@
+Z Shell (zsh) is great, except when you use scripts written specifically for bash :(

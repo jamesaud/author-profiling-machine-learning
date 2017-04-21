@@ -1,0 +1,1 @@
+@SethGrimes Sentence boundary detection for Web docs = hard. Adding sentence boundary info to search index = expensive. Demand = little.

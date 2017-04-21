@@ -1,0 +1,1 @@
+@AlexJReid First approach for me. Though it could make your workflow less flexible - unless you AJAX or x-site script to load rules from DB.

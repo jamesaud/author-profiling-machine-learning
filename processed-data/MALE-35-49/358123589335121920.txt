@@ -1,0 +1,1 @@
+@FroehlichMarcel organize people in contexts in which what they would *naturally* do creates a *reliable* signal which you can exploit

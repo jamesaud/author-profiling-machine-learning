@@ -1,0 +1,1 @@
+@37signals I'm using a new version of Basecamp - how can I get Beanstalk to notify Basecamp of commits without an API key?

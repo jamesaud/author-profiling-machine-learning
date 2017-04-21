@@ -1,0 +1,1 @@
+Ellen is introducing the TREC KBA track: filter a (big!) stream of documents, based on relevance to an entity http://t.co/MrM8J4PS #trec2012

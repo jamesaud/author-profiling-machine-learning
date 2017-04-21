@@ -1,0 +1,1 @@
+I'll be giving a talk on Large-scale Data Processing for Information Retrieval at the Dutch Hadoop User Group meetup! http://t.co/0jnS5SQh

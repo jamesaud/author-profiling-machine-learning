@@ -1,0 +1,1 @@
+my socal machine learning workshop slides: http://t.co/jhs58Ky . asks what's more important for learning to rank - features or models?

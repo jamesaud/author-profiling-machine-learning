@@ -1,0 +1,1 @@
+Villoria diferencia entre transparencia opaca/clara, activa/pasiva #TransparènciaGC

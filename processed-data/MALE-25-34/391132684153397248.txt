@@ -1,0 +1,1 @@
+Oye, necesito crear campañas SEM sobre la marcha (batch mode, via api o upload de csv), ¿alguien sabe cómo? Se recompensa. Gracias. RT plz

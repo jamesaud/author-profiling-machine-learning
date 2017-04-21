@@ -1,0 +1,1 @@
+"Beyond Locality-Sensitive Hashing" - MIT's CSAIL Theory Group theorizing over the practical LSH http://t.co/M52l7IXjYy via @purbon

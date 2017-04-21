@@ -1,0 +1,1 @@
+@PaulDJohnston Turn off hardware acceleration in the Flash right click menu, worked for me

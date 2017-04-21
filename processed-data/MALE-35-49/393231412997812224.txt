@@ -1,0 +1,1 @@
+A multi-Teraflop Constituency Parser using GPUs http://t.co/BMLdWZeS0a

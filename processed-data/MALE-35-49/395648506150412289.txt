@@ -1,0 +1,1 @@
+@yueshi_nl They cite that paper. According to authors main difference is that they also regularize through a Gaussian Prior (besides LDA)

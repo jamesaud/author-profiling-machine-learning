@@ -1,0 +1,1 @@
+Is there a reference doc with #umbraco reserved node ids?  eg content recycle bin -20, media recycle bin -21 and so on

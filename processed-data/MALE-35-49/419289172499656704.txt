@@ -1,0 +1,1 @@
+Realized my homepage custom javascript is not working on some browsers (e.g. Chrome). Looking for simple html templates. Any pointer?

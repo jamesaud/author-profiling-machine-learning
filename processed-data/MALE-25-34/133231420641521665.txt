@@ -1,0 +1,1 @@
+@beth_tk Sentiment analysis as a service seems to be a hot topic, that's the third service I've seen in as many weeks.

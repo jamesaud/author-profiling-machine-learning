@@ -1,0 +1,1 @@
+Talking about Giraph, it will be great to see all graph computation frameworks side by side at the Graphlab workshop http://t.co/Jj9G267qA2

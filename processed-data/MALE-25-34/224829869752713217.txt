@@ -1,0 +1,1 @@
+It appears that the cellular automata wasn't necessary after all for pleasing results on the random terrain generator.

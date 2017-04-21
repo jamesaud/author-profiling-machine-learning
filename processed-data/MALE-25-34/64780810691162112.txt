@@ -1,0 +1,1 @@
+It appears that using a frame of reference (pos,front,up) for cameras and actors is working better than using Euler angles. Easier dynamics.

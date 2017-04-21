@@ -1,0 +1,1 @@
+@bensummers I'm going to blame apple on this one, their [de]compression tools are poor (case in point: http://t.co/a1IrkwVS).

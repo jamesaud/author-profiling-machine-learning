@@ -1,0 +1,1 @@
+Semantic e-mails, pretty cool: Gmail now supports JSON-LD and Microdata to markup information in email. https://t.co/81bzvZ5Qqh

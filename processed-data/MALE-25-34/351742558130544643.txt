@@ -1,0 +1,3 @@
+rsync 0 - canos 1 
+
+La copa migraciones me la llevo yo :)

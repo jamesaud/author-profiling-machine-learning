@@ -1,0 +1,1 @@
+my outgoing email server apparently has a "bad reputation", which results in my outgoing emails being marked as spam or being bounced. fun.

@@ -1,0 +1,1 @@
+@AndyBursh The IF statement is your friend: SELECT IF(A&gt;B,-1,IF(A=B,0,1)) FROM table; #yrshelp #yrs2012

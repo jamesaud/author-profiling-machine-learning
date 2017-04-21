@@ -1,0 +1,1 @@
+Just been delving into Visual Basic. It has {GoTo}s. I haven't seen one of them since programming in actual BASIC over a decade ago

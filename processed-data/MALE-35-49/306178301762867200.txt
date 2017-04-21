@@ -1,0 +1,1 @@
+Polymorphic associations and STI on top of relational database are, in most cases, a very bad idea.

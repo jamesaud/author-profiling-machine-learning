@@ -1,0 +1,1 @@
+LinkedIn is also using Apache Giraph for iterative graph processing http://t.co/Q0gtdVXfpu #AnalyticsWebScale

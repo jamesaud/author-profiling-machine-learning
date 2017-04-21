@@ -1,0 +1,1 @@
+Nice pattern to stop open redirect attacks in ASP.Net MVC 3 - and how it can be retro'd into MVC 1 & 2 by writing a IsLocalUrl helper method

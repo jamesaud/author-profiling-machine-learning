@@ -1,0 +1,1 @@
+@phazonoverload would wrapping the text area in a form submitting as a GET and triggering the submit action on the form work? #yrshelp

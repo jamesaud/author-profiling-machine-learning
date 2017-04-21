@@ -1,0 +1,1 @@
+Reusar código entre proyectos mediante reflexión y genéricos... canela fina para un domingo.

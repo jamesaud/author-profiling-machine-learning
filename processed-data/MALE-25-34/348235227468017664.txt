@@ -1,0 +1,1 @@
+@KLM Trying to book/check in an exit row seat (29B) for KL2288 on 23 Jun, but keep getting "Your seat selection failed" error. What gives?

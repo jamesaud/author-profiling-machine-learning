@@ -1,0 +1,1 @@
+I've just migrated a server from nginx+apache+mod_wsgi to nginx+lighthttpd+uwsgi. Oh man, life is beautiful

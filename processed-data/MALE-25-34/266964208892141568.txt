@@ -1,0 +1,1 @@
+TREC Web 2013 Risk-sensitive task: combine difficulty prediction/classification with reranking (e.g., pseudo-relevance feedback) #trec2012

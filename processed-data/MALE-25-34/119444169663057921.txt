@@ -1,0 +1,1 @@
+@jelsas depends on how you define "open". most publishers (ACM, Elsevier) allow posting to personal web sites. WWW used to put PDFs on web

@@ -1,0 +1,1 @@
+Nice to see Google's Chief Economist using R commands in a keynote (e.g. stl = Seasonal Decomposition of Time Series by Loess) #kdd2013

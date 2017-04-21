@@ -1,0 +1,1 @@
+.@LinkedInEng uses ADMM for large-scale logistic regression + Thompson Sampling for explore/exploit - Deepak Agarwal #cikm2013

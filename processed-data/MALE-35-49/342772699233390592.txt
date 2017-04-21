@@ -1,0 +1,1 @@
+"A good day is when I can run 6 Hive queries" - A Facebook Data Scientist #AnalyticsWebScale

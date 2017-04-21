@@ -1,0 +1,1 @@
+The final version of our tutorial on Entity Linking and Retrieval (w/ @dodijk and @krisztianbalog) has been accepted at @WSDM2014! &gt;&gt;

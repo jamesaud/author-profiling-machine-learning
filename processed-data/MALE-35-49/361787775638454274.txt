@@ -1,0 +1,1 @@
+Fennel, an online/streaming algorithm for very big graph partitioning http://t.co/QW23Jrvkyt at @MSFTResearchCam

@@ -1,0 +1,1 @@
+@arjenpdevries nope, the weights are static and computed prior to indexing.

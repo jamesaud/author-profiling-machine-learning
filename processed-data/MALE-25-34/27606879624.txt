@@ -1,0 +1,1 @@
+@jelsas mine, too! my mandelbrot code doesnt seem to work anymore, but i found my zoomable newton's method fractal app: http://bit.ly/aDwcwR

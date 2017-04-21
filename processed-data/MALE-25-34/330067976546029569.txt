@@ -1,0 +1,1 @@
+Leer logs de thread dumps para ver qué tal la cosa. #postureoJava

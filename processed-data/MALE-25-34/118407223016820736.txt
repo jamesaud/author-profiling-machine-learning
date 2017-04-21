@@ -1,0 +1,1 @@
+@craig_macdonald thanks, craig. indri supports the same. the problem with that solution is variable # of tags per doc (think anchor text)

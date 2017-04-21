@@ -1,0 +1,1 @@
+@CGaskell Did it allow an adaptive design, I seem to remember you were able to serve up a mobile specific master or tablet specific?

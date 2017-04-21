@@ -1,0 +1,1 @@
+Summingbird enables mapreduce-style workflow on Hadoop (batch processing), Storm (realtime processing) or both http://t.co/hLIbgyc0nF

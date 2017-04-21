@@ -1,0 +1,1 @@
+I'm greatly surprised. The nvidia Tegra 3 executing complex shaders on complex scenes at 720p is astonishing. @NVIDIATegra

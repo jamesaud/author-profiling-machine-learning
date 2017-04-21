@@ -1,0 +1,1 @@
+Facebook DNS failure note to geeks: server is up at http://qurl.com/291gh but login needs names not IP addrs. note domain name cons.

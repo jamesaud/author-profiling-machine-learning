@@ -1,0 +1,1 @@
+With multitouch support the soft feature freeze finally arrived to the engine. Bugfixes and urgent small changes from now on.

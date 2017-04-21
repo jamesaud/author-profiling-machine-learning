@@ -1,0 +1,3 @@
+@jmaguial 
+public Life juanma = new Life();
+juanma.goes();

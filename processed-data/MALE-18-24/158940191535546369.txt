@@ -1,0 +1,1 @@
+@gridinoc @kidehen @iand geonames.org may help, not sure if there is a SPARQL endpoint tho

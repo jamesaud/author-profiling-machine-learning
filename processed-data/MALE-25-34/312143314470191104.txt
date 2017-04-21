@@ -1,0 +1,1 @@
+Does anyone know a HTML to JSON converter? Wondering if you can write a viable crawler in Bash using tools to cURL and JQ

@@ -1,0 +1,1 @@
+@samaaron it's the console print output from lightable 0.5.3 on a current osX. But i was just happy to start trying #overtone

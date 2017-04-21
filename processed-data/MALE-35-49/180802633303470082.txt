@@ -1,0 +1,1 @@
+.@prokopp What? And give up CLI goodness?! I currently use GitX when I feel a need to succumb to the gui &amp; admit defeat #Git

@@ -1,0 +1,3 @@
+Interesting. Unless you are a Windows user, you can easily join mp3 files using cat in terminal.
+
+cat file2.mp3 &gt;&gt; file1.mp3

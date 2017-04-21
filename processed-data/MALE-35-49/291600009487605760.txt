@@ -1,0 +1,1 @@
+@Personal Also, it would be nice to be able to "unmask" locked fields.

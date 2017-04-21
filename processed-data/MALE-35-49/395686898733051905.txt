@@ -1,0 +1,1 @@
+I do have to say that now @ted_dunning is going into more principled E/E approaches such as Thompson Sampling #cikm2013

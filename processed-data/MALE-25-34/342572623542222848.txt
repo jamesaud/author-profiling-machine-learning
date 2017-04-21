@@ -1,0 +1,1 @@
+@david_bonilla los microbenchmarks en Java.. http://t.co/rUTvubObqe tras leer esto el de la reordenación se queda simplón

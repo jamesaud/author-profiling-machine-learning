@@ -1,0 +1,1 @@
+Just seen a newly raised bug that the cursor blink rate in a text box is different in IE and Firefox #wordsfailme

@@ -1,0 +1,1 @@
+GooFit: A library for massively parallelising maximum-likelihood fits. (arXiv:1311.1753v1 [cs.DC]) http://t.co/J4dRk3OToO

@@ -1,0 +1,1 @@
+While 1pass is neat, I think, in the end, I will write my own password management solution using TrueCrypt and Dropbox. Just for fun of it.

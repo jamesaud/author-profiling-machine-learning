@@ -1,0 +1,1 @@
+@revskills por ahora uso lighthttpd con fastcgi para PHP y uwsgi para django

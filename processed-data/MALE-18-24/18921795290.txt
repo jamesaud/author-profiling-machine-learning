@@ -1,0 +1,1 @@
+Also just made a crude gesture driven interface with my laptop webcam, some paper thimbles and some simple image processing. Fun :-)

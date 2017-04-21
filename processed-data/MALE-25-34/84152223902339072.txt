@@ -1,0 +1,1 @@
+#mturk paraphrase evaluation data collected for our #acl2011 paper is now available for download at http://t.co/irCAPej

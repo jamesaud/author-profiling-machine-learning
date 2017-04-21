@@ -1,0 +1,1 @@
+@Retrophile Have you seen the HTML5 implementation of Conway's GoL? http://sixfoottallrabbit.co.uk/gameoflife/

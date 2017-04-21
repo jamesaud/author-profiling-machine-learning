@@ -1,0 +1,1 @@
+@AlexJReid For various reasons I chose Appcelerator, but my next project could suit Phonegap nicely.

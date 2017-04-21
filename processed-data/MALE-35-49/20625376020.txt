@@ -1,0 +1,1 @@
+#Excel question: I have fields that contain links copied from a web page table. anyone know how a #formula can extract the link loc? #fb

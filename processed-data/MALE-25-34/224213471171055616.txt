@@ -1,0 +1,1 @@
+Just discovered my 6 year-old C++ build system doesn't work anymore with gcc 4.6.1. The order of parameters matters for the linker. Easy fix

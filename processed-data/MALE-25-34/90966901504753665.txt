@@ -1,0 +1,1 @@
+"Unsupervised Mining of Lexical Variants from Noisy Text," EMNLP Workshop on Unsupervised Learning in NLP (w/ @sgouws): http://t.co/uYTD3Mg

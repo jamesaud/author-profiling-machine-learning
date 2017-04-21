@@ -1,0 +1,1 @@
+@01factory Surely Wittgenstein's Tractatus is the foundation for programming languages and logic used in day to day Software Developement?

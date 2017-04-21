@@ -1,0 +1,1 @@
+@BoKDamgaard If #Umbraco 5 didn't perform then they should have withdrawn it (I agree) but unless Umbraco goes MVC soon it will die

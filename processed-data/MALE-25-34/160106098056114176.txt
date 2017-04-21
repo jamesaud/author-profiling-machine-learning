@@ -1,0 +1,1 @@
+negative okapi idfs + max_score query optimization = fail

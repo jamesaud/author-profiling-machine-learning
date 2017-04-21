@@ -1,0 +1,1 @@
+This time, the focus of our tutorial will lie on Semantic Search and other practical applications of Entity Linking and Retrieval. &lt;&lt;

@@ -1,0 +1,1 @@
+HTTPS without forward secrecy is not secure. Google among the few big companies that implements it -- http://t.co/J4JrrlfjUE

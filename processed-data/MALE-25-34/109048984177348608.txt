@@ -1,0 +1,1 @@
+elevators should require a special "i'm unable to climb stairs" access card for all rides between floors n and n+1 (or n-1).

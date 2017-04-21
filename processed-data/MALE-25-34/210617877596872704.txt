@@ -1,0 +1,1 @@
+@LinkedIn why did you store passwords in plain text? Isn't storage of salted hashed passwords standard practice?

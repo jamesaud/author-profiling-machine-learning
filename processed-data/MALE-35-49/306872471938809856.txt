@@ -1,0 +1,1 @@
+@ChristophKappes schauen wir mal was passiert, wenn ein Browser, ein Adblocker, ein Text-Reader von einem Dritten als Dienst angeboten wird!

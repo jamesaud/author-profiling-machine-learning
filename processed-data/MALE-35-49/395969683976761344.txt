@@ -1,0 +1,1 @@
+Jeff Hawkins on building systems that mimic how our brain works (i.e. the "memory-prediction" framework http://t.co/fd8HX8JxKC)

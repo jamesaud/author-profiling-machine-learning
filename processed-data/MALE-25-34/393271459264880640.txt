@@ -1,0 +1,1 @@
+“@hipsterhacker: Writing this tweet from Vim inside docker inside vagrant on my pre-release iPad Air.” #kiss

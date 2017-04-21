@@ -1,0 +1,2 @@
+And also to be clear to separate the function from the design and approach each independently as well as how they integrate
+ #nptalk

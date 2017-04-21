@@ -1,0 +1,1 @@
+@axfelix search weighting is mainly abt full text giving more relevant results than metadata alone. OA issue aside, we'd still do it

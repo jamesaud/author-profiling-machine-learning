@@ -1,0 +1,1 @@
+I am constantly pressing cmd+k in @HipChat hoping it "clears the window".

@@ -1,0 +1,1 @@
+TREC KBA 2013 possible directions: incorporate events, pharmaceutical compounds, and/or combine with the TAC KBP track #trec2012

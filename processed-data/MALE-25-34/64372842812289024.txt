@@ -1,0 +1,1 @@
+Single-pass smooth transition between frames for animated textures is working now :D

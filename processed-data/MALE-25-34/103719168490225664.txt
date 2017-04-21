@@ -1,0 +1,1 @@
+@web_miner i'd personally like a set of knobs that let me trade off personal relevance, network relevance, and recency (cc @twittersearch)

@@ -1,0 +1,1 @@
+@teabass doesn't this make it trivially easy for someone to spoof your AB testing?

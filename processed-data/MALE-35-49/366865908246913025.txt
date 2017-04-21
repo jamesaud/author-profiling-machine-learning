@@ -1,0 +1,1 @@
+@theophani @janl tradeoff between amount of nestedness and richness of your language ontology. e.g. u can drop subordinates reifying events

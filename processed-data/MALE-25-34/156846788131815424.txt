@@ -1,0 +1,1 @@
+@idaho06 It's a tool to define parameters for the generator wich resides in the Android engine. Shaders are generated & compiled on demand.

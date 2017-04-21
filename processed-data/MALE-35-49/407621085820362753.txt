@@ -1,0 +1,1 @@
+@FraudBlogger AFAIK many EU banks are blocking foreign charges by default in all cards due to the high fraud rates in non EMV countries

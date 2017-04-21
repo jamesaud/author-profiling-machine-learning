@@ -1,0 +1,1 @@
+Simple phong lighting is working now! http://twitpic.com/522cyc

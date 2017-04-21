@@ -1,0 +1,1 @@
+Shivaram Kalyanakrishnan from @YahooLabs: "PAC Subset Selection in Stochastic Multi-armed Bandits " @UTCompSci, 11am Aug 12, POB 2.402

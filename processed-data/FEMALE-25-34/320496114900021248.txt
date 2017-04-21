@@ -1,0 +1,1 @@
+Automating localisable text along a curved path with even spacing and collision detection to make translated graphics. There must be a way?

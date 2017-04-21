@@ -1,0 +1,1 @@
+our (long) paper titled "Structured Event Retrieval over Microblog Archives" was accepted at NAACL-HLT

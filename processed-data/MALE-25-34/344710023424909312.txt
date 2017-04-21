@@ -1,0 +1,1 @@
+El Webcast de Java EE 7 de hoy es multiplataforma pero no multibrowser. En Chrome y Linux no va. No tienen remedio.

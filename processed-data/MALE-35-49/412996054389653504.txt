@@ -1,0 +1,1 @@
+Free idea for OS programmers: If user closes an app right after booting 3 times, it should ask if you want to disable it from startup.

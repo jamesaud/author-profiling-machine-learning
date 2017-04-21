@@ -1,0 +1,1 @@
+@SauropodMike Unfortunately the GS data is not normalized to article volume (I believe). Uncertain if/how that wld change things.

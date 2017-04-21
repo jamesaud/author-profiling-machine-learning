@@ -1,0 +1,1 @@
+Java generics are so ill-conceived that are almost unusable, except for the most trivial cases.

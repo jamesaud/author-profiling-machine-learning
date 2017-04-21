@@ -1,0 +1,1 @@
+Well, in relation to previous tweet, while javascript is not *that* bad, imagine if we had Python VM for client-side scripting in browser :o

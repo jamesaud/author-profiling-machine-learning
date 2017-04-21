@@ -1,0 +1,1 @@
+Almost 24 hours of me fiddling with stuff to get OpenCV to compile and run on Snow Leopard. But I can now do things to pictures!

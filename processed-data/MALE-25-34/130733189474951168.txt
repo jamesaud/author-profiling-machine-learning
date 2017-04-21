@@ -1,0 +1,1 @@
+The Phong+Bump+FresnelReflection shader is finished. Fast test with a model downloaded from Blender Swap. http://t.co/M2oryMWW

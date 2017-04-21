@@ -1,0 +1,1 @@
+Finally switched from TextMate to SublimeText2. Only thing I really miss is detached preview window.

@@ -1,0 +1,1 @@
+Preallocating large static buffers for many short-lived small objects reduces the GC overhead on #Android for real-time applications

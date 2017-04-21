@@ -1,0 +1,1 @@
+1) find cool data set 2) compute elementary statistics 3) post tag cloud or map viz to your blog 4) declare yourself a "data scientist"

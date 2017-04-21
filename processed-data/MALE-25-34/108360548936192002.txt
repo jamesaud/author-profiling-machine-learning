@@ -1,0 +1,1 @@
+.@davidandrzej interesting work! will definitely read the paper. (fwiw, i would strongly recommend to never use the indri "#not" operator)

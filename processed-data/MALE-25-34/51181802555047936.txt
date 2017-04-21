@@ -1,0 +1,1 @@
+-XX:+UseCompressedOops JVM flag rescued my mem hungry #hadoop text mining job (see http://bit.ly/f58XGa) -XX:+UseCompressedStrings also good

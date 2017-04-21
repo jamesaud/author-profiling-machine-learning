@@ -1,0 +1,1 @@
+@_krisjack wrt group search futility: suggests indexing should also include the group papers, not just the group name & desc

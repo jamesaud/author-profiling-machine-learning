@@ -1,0 +1,1 @@
+Impressive work in fixing the google map datatype by #umbraco community - it broke just in time for a demo I was trying yesterday! #typical

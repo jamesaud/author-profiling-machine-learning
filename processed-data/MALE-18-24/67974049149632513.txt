@@ -1,0 +1,1 @@
+@craig_macdonald Also encountered this recently when trying to work out why load ing \n separated Tweet records kept randomly going wrong!

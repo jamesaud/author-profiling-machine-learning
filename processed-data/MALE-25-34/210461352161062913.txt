@@ -1,0 +1,1 @@
+Sometimes the most appropriate visualisation method, is not Matplotlib, Gnuplot or ggplot, or even D3, occasionally it's ascii.

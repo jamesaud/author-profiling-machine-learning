@@ -1,0 +1,1 @@
+“@normanrosner: “@potch: alias yolo='git commit -am "DEAL WITH IT" &amp;&amp; git push -f origin master'” /cc @riethmayer” #krass

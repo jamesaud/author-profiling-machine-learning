@@ -1,0 +1,1 @@
+Averaging last frames time deltas for current solved lots of FPS issues but on demand shader compilation is still noticeable on some devices

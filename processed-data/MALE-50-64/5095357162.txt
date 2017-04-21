@@ -1,0 +1,1 @@
+Hoorah, have finally got my java app to talk to sql server database

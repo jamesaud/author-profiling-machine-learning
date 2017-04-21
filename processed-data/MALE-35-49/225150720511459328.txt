@@ -1,0 +1,1 @@
+@amarkulo ´brew install mysql´ bi ti trebao instalirati dev libs po defaultu.  @damirtursunovic

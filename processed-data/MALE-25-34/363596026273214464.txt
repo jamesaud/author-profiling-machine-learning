@@ -1,0 +1,1 @@
+If i only could work more with clojure, need to free up more time

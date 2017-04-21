@@ -1,0 +1,1 @@
+"Facebook unveils Presto engine for querying 250 PB data warehouse" http://t.co/9pvhpuqyAQ via @gigaom #AnalyticsWebScale

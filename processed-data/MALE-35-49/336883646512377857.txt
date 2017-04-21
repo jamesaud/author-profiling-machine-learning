@@ -1,0 +1,1 @@
+id:60281770 sub:000 dlvrd:001 submit date:1305211138 done date:1305211138 stat:DELIVRD err:000 text:60281770

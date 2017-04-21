@@ -1,0 +1,1 @@
+@blekko is a step in the right direction in terms of more expressive, powerful query languages. it also has some fun IR geek tools (/rank)

@@ -1,0 +1,1 @@
+Good article by Martin Fowler on why ORMs are a necessary evil http://t.co/UwVNN5LE

@@ -1,0 +1,1 @@
+Useful tip: you can enter unicode characters within the Inkscape Text Tool by pressing Ctrl+U, the code and then Enter.

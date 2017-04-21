@@ -1,0 +1,1 @@
+New planet atmosphere shader. Cheap scattering simulation. Color and opacity configurable via 1D texture. http://t.co/Bk6cGTTm

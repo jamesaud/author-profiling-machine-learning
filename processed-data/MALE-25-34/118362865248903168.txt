@@ -1,0 +1,1 @@
+do any search toolkits support per-tag weighting? i want to have &lt;tag wt="3"&gt;...&lt;/tag&gt; in the text and use 3 during ranking. @TerrierTeam ?

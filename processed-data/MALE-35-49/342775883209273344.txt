@@ -1,0 +1,1 @@
+Facebook's solution to query inefficiency in Hive is called Presto. Looking forward to it being open sourced in the fall #AnalyticsWebScale

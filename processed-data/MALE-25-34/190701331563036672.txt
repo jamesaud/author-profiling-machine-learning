@@ -1,0 +1,1 @@
+@drbsg Presumably you'd start with a web-app as proof of concept and use GPS via JS. If you got traction you would build an iPhone app.

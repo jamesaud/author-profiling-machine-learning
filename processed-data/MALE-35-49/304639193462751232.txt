@@ -1,0 +1,1 @@
+@Abogadro no, it's an enhanced version. It's more than just the core package.

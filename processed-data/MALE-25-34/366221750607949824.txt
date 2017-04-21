@@ -1,0 +1,1 @@
+@StxV  We need dynamic MAC addresses that change during each connection, like IP addresses do with Cable.

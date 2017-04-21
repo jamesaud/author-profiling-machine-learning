@@ -1,0 +1,1 @@
+I see that IE6 has dipped below 1% usage in the UK - http://t.co/73HFI1rZ - its already in the unsupported list in my functional specs!

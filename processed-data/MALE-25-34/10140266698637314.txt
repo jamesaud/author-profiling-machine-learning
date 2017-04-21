@@ -1,0 +1,1 @@
+google's "algorithm" for demoting bad sites: if(badsites.contains(url)) { url.score -= 100; } (http://goo.gl/qVQ4o)

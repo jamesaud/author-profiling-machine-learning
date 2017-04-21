@@ -1,0 +1,1 @@
+Adobe based DRM on British Library document keeps hanging, crashing and generally failing. Useless.

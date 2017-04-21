@@ -1,0 +1,1 @@
+@HilzFuld Copy them into WORD, turn them into a table, copy the whole table and paste it back into WP.  Might not work, but worth a try

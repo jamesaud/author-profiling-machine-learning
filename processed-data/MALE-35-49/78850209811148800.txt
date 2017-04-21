@@ -1,0 +1,1 @@
+.@rdmpage Good thought on XML for some titles. WRT link to paper, title-based dedup of 1bn refs is no easy feat. Stay tuned

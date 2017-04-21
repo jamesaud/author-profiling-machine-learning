@@ -1,0 +1,1 @@
+Maintain as little code as possible: don't reinvent the wheel, use open source, reusable patterns and a concise language #makersacademy

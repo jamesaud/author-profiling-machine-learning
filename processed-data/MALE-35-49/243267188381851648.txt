@@ -1,0 +1,1 @@
+I liked this approach to c# caching http://t.co/MF7SNO7F - the simplicity appeals!

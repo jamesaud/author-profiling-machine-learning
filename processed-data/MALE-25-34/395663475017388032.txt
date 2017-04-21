@@ -1,0 +1,6 @@
+learned a process how 
+1. #.war my #compojure project
+2. run it with #jetty
+3. and serve with #nginx
+TODO
+* leiningen remote deployment

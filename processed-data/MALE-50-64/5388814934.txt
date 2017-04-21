@@ -1,0 +1,1 @@
+Not loving the difference in date handling between Oracle and SQL Server, and IMHO SQL Server wins. Choke!

@@ -1,0 +1,1 @@
+My last RT shows the an smart configuration for privacy, but it has a huge problem:it entirely relies on TrueCrypt

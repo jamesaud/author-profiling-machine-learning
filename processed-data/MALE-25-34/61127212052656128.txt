@@ -1,0 +1,1 @@
+@lintool ... and then starts blinking at 100Hz?

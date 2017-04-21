@@ -1,0 +1,1 @@
+@stanfordnlp It is useful for docs w/ timestamps. BTW, not all msgs are just "logging". I got a NullPointerException @ SUTime.java:1707.

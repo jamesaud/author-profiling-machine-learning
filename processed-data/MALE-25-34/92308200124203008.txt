@@ -1,0 +1,1 @@
+Finished v0.1 of my ngram tweet generator -- much refactoring required plus more text processing and probabilistic goodness before release

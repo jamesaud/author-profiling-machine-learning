@@ -1,0 +1,1 @@
+The new input system is working for screen events (tap, hold, drag). Now debugging scene and entity events. Won't be ready before vacations.
