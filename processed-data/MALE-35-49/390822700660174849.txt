@@ -1,0 +1,1 @@
+Oh! Python uses relative indentation for its groupings! Makes a lot more sense now. I suppose I should have read the manual. #MyWayIsFaster

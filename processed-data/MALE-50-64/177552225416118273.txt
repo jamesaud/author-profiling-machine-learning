@@ -1,0 +1,1 @@
+#TAWcon talk by Randy Saaf on sentiment in twitter for stock picking. Use stats+machine learning in ensembles

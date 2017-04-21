@@ -1,0 +1,1 @@
+My Intel SSD on my MacBook Pro just started reporting SMART errors and fails to boot.  #fb

@@ -1,0 +1,3 @@
+(2/2) 
+--Big data is often big because the target population is (relatively) small. 
+--Big data also big bec. we have only indirect measures

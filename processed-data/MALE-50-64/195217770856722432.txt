@@ -1,0 +1,1 @@
+#PAWcon @AnalyticsQueen uses BADIR(tm) methodology, 5 steps in process: (similar to CRISP-DM).

@@ -1,0 +1,1 @@
+@kalebdf I'm butting in, but look up the delayed_job gem.  I use it from time to time or background tasks/events

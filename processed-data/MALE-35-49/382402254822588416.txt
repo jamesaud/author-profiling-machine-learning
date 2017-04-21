@@ -1,0 +1,1 @@
+@haddadme @yacine @journalismnews Good info. I didn't know HTTPS did not send referral information.

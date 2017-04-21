@@ -1,0 +1,1 @@
+Just started #ios dev (again), and I haven't even opened the Interface Builder. Is it really that pointless or am I just not doing it right?

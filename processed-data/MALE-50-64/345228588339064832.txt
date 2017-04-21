@@ -1,0 +1,1 @@
+@mims the math is right for the Bayes Rule, the data they assume is not--there's much more to it than priors for good guy vs. bad guy.

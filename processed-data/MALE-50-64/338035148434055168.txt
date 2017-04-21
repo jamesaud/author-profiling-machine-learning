@@ -1,0 +1,1 @@
+3b)  If we don't or can't collect the necessary descriptor vars, or an uncomputed feature is essential, algorithms can't find the pattern

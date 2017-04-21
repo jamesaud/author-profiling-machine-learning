@@ -1,0 +1,1 @@
+@RyanWithop What I did to learn R is start with the PVA data, watch some youtube on basic functions (import, data prep...), and build

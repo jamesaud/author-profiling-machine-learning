@@ -1,0 +1,1 @@
+Back on SWA flight using WiFi (SAN-&gt;MDW). As before, brutally slow. Not expecting T1, but how about 33.6 baud? And please no more Error 504!

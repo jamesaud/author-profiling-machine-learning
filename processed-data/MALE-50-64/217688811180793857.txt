@@ -1,0 +1,1 @@
+#PAWcon Roger Craig:  built predictive modes (SVM) from bag of wordnet. Target: his actual responses from past games

@@ -1,0 +1,1 @@
+Latest version of @slidedeck developer/pro broke about half the youtube videos on my site. Sorry, working on it. Links to youtube still work

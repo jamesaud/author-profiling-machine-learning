@@ -1,0 +1,1 @@
+2. #Kaggle Whale detection competition: features were key. Needed to know something about signal processing (STFT, template matching, etc.)

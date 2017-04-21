@@ -1,0 +1,1 @@
+#PAWCon Jon Bates. Forecasted sentiment of tweets before tweete published for MTV. Set record at time of &gt;8k tweets/sec

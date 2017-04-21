@@ -1,0 +1,1 @@
+averages (and regression coefficients) are often good for reporting. They are awful for decisioning. they tell you nothing about tails.

@@ -1,0 +1,1 @@
+Require payment by mail, but refuses check. All options all say "No trial", but you ask if I want a trial.  Requires Notary. #modernizeplz

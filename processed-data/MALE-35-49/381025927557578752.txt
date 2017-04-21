@@ -1,0 +1,1 @@
+@EricaDiamond yes that is one annoyance with iOS 7, all unread email shows. Can turn Badge off in Settings&gt;Notifications&gt;mail.

@@ -1,0 +1,1 @@
+So how does the SWA app say that flight 2511 is "boarding" and "on-time" when I'm sitting inside at 10:15 at a closed airport?

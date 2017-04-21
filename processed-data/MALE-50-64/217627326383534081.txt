@@ -1,0 +1,1 @@
+#PAWcon @brunoaziza: 52% of companies have no ADBMS (active database management system); we need to change to manage big data.

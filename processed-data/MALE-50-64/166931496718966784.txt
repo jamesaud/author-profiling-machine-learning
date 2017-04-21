@@ -1,0 +1,1 @@
+I'm helping companies pick #datamining tools now. It's more about the pull and push of data & how models will be used than algorithms

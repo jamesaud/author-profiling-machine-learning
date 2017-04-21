@@ -1,0 +1,1 @@
+#TAWcon Andrew Fast describing the taxonomy of text mining methods (he created a tree segmentation of the text analytics talks at the conf!)

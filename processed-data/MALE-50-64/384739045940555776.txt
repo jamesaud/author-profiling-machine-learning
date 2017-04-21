@@ -1,0 +1,1 @@
+#pawcon Michael Berry: how much data is enough? Double size of data and examine your error metric. (1/2)

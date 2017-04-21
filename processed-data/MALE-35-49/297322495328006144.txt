@@ -1,0 +1,1 @@
+@angus_davidson yeh, worked for Xcode 4.4, not 4.5. And a few other things work very differently, so had to go back + forth. Not worth it!

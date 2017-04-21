@@ -1,0 +1,1 @@
+@eloy the word agile is taboo here. We do have daily stand up meetings but never planning for incremental releases

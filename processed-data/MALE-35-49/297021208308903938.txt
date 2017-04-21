@@ -1,0 +1,1 @@
+Does anyone know when the Mac OSX #openFrameworks will work in 10.8 without 10.6 quicktime dependencies? I tire of rebooting… #OF

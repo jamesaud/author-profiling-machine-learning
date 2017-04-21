@@ -1,0 +1,1 @@
+If you don't know these characteristics of your data (and many more!), you'll have no idea what the predictive models actually measure.
