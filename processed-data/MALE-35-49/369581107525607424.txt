@@ -1,0 +1,1 @@
+@alambert e.g. flatten structures automatically and sensibly, all with dynamic fields.  Oh also no barfing.

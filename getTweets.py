@@ -26,6 +26,7 @@ def tweet_text_by_id(id, consumer_key=None, consumer_secret=None, access_token=N
     return tweet.text
 
 errorFile = open('errorlog.txt','a')
+statusCnt = 0
 for file in fileList:
 	tempFileName = file.strip().split(":::")
 	file = open('../raw-dataset/'+tempFileName[0]+'.xml','r',encoding='utf-8')
@@ -39,6 +40,7 @@ for file in fileList:
 		print(tempFileName[1]+"-"+tempFileName[2]+" exists")
 	os.chdir(tempFileName[1]+"-"+tempFileName[2])
 	for status in statusIds:
+		statusCnt +=1
 		if status+'.txt' not in os.listdir():
 			file = open(status+'.txt','w',encoding='utf-8')
 			try:
@@ -47,8 +49,8 @@ for file in fileList:
 				errorFile.write(str(e))
 			else:
 				file.close()
-				print("Wrote "+status)
+				print(statusCnt)
 		else:
-			print("Already written "+status)
+			print(statusCnt)
 	os.chdir("../")
 errorFile.close()

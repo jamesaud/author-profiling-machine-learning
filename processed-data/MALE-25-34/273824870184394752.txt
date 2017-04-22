@@ -1,0 +1,1 @@
+Learned something new today: In ABAP you can redefine methods as final. Better get a modification key to solve this "feature".

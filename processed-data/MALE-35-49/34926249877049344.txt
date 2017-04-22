@@ -1,0 +1,1 @@
+Borislav Iordanov from Kobrix is presenting NLP/KR with HypergraphDB at UIM-GDB  #graphdb  http://www.dama.upc.edu/research-2/UIM-GDB

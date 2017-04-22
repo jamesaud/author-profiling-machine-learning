@@ -1,0 +1,1 @@
+Thanks to Julian Maughan for his constant work in #NHibernate's #JIRA (via @fabiomaulo)

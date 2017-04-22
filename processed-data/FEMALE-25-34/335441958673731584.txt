@@ -1,0 +1,1 @@
+#www2013 Jon Kleinberg keynote: Algorithmic recognition of memorability using machine learning trained on distinctiveness and generalization

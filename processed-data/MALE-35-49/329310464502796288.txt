@@ -1,0 +1,1 @@
+@djoerd That's throughput, not latency. I read the docs online and the API is for batch experiments, but I need interactive search.

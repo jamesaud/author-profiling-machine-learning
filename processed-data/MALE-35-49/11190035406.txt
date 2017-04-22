@@ -1,0 +1,1 @@
+Danger of interfaces shrinking instead of growing. Google's simple interface is not best under all aspects!

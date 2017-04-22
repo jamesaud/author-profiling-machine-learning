@@ -1,0 +1,1 @@
+@barbalink @pickleswarlz @cbahlai @carlyziter Mendeley has automatic BibTex export (to keep the .bib files in sync with your PDF library).

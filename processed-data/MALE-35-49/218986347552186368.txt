@@ -1,0 +1,1 @@
+@HowardvRooijen @hhariri our biggest cloud deployment to date (which maxed at 768 active servers) didn't even notice the AWS problems

@@ -1,0 +1,1 @@
+Las transiciones de WhatsApp en iOS 7 van a unos 3 fps. Y estoy hablando de un iPhone 5S

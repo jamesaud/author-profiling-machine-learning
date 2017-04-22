@@ -1,0 +1,1 @@
+@zachphillips "Personal Hotspot (Internet Tethering) will not work if this seed of the iOS SDK 7.0 is installed."

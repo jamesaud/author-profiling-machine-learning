@@ -1,0 +1,1 @@
+#sapcrm MAX_HITS = 100 returns 60 results. MAX_HITS = 200 returns 90 results. Bug is in FM CRM_BSP_OIC_1O_SEARCH_FROM_RF. Anyone know this?

@@ -1,0 +1,1 @@
+Q: "what does testing the problem mean" A: don't pitch 'Em on your product right away, do they *have* a problem? If so what is it? @sgblank

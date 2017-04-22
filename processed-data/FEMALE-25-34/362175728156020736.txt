@@ -1,0 +1,1 @@
+@invertedindex closing remark with the famous quote "Those who cannot remember the past are condemned to repeat it." #sigir2013

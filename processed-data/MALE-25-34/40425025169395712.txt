@@ -1,0 +1,1 @@
+My first day enjoying #sapcrm EHP1. All custom fields in Quotation search are gone. Designlayer ate them. Need to be present in DesignObject

@@ -1,0 +1,1 @@
+Oh, Starcraft 2's built in screenshot button even picks up Fraps' FPS counter. Better turn that off.

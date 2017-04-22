@@ -1,0 +1,1 @@
+Claim: using dictionary encoding and duplicate removal the entire LOD requires only 800GB storage space #cold2012 #iswc2012

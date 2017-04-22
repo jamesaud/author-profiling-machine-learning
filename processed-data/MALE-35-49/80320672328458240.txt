@@ -1,0 +1,1 @@
+@Daneel3001 pretty sure they'll got swapped to disk if needed, can't think why they'd need to be fixed in physical memory

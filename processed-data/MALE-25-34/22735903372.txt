@@ -1,0 +1,1 @@
+been configuring my webspace the whole evening. My guess is: I can not change any php variable at all.

@@ -1,0 +1,1 @@
+@onekind @stephx You can use both together: Mendeley has a Zotero-sync function (as well as cite-as-you-write in Word/OO and BibTex support)

@@ -1,0 +1,1 @@
+@rjamestaylor @mwilbanks One thing you can talk to me about though is why I get so many failures when launching a new server from an image

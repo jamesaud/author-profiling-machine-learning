@@ -1,0 +1,1 @@
+Detailed instructions on how to evaluate enterprise search systems. Quite different from TREC style evaluation. http://t.co/5vtr2Q1j

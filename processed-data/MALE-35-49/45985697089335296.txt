@@ -1,0 +1,1 @@
+@joe_carney just a quicky, you got any recommendations for osx programming resources (books etc)? Ideally low-level stuff rather than UI

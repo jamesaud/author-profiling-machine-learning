@@ -1,0 +1,1 @@
+@kgustafson want weird? I crank NR to 100, preview basically shows image as a smear. Export - no NR applied. WTF.

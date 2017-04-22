@@ -1,0 +1,1 @@
+@al3x after an application and account is whitelisted by Twitter, should it still be getting posting rate limits?  thanks so much!

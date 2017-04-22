@@ -1,0 +1,1 @@
+NHibernate 3.0 Cookbook is published!  http://bit.ly/9kxHK6  Table of contents & a sample chapter are online. (via @jasondentler)

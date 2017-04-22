@@ -1,0 +1,1 @@
+I change 4 .cs files, and TFS thinks I've deleted a .xml & changed all the .csproj files.  Nice.

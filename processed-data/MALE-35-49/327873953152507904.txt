@@ -1,0 +1,1 @@
+@codeslack The first part is easy, b/c in Lucene 4, IndexWriters are append-only, so you can write indexes into HDFS.

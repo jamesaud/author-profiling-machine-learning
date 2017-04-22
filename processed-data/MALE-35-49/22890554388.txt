@@ -1,0 +1,1 @@
+@awashtell they could share either via back-end database or just transfer info via the request/response. Session would be harder :)

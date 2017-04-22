@@ -1,0 +1,1 @@
+@inky @Instapaper Fixed naming of variable from 'i' to more descriptive 'count'

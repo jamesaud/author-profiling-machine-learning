@@ -1,0 +1,1 @@
+@NeilRobbins it's not as bad as it looks - the bit that prepares the initial list and turns it into a square is a bit nasty,

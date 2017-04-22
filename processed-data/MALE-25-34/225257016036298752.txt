@@ -1,0 +1,1 @@
+@mhawksey I noticed your dataset has a few carriage return in the tweets. This will be corrcupted record since it is not valid csv.

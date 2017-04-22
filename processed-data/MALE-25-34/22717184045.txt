@@ -1,0 +1,1 @@
+grml. My #RoundCube installation stopped working two hours ago. After login just sends me back to login screen after a few seconds.

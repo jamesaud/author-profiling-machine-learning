@@ -1,0 +1,1 @@
+Interesting: My company just installed a SAP HANA sandbox system. Now I am wondering what to do with it. Any suggestions?

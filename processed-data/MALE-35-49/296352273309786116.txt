@@ -1,0 +1,1 @@
+A demo on Cranfield-style IR evaluation, using Lucene and TREC data: https://t.co/VJ2oDDDT. Goes with a class I'll be giving next week.

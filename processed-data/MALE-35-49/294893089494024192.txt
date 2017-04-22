@@ -1,0 +1,1 @@
+@ChrisDiehl I think there's an NLP-completeness proof that any such program is equivalent to dissociated-text.

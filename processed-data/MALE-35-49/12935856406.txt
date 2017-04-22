@@ -1,0 +1,1 @@
+ERR measure; relevance is dependent on other documents. ERR validated on test collection with &gt;16K queries, Yikes! http://bit.ly/aE0dvl #fb

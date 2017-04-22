@@ -1,0 +1,1 @@
+Another highlight from #sapcrm Marketing xPress: Getting views by ViewArea number instead of ViewName. Once s/o changes the config --&gt; dump!

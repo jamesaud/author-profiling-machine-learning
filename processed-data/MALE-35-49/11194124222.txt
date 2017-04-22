@@ -1,0 +1,1 @@
+Amazon mechanical turk (AMT) seems to have performed good in TREC assessments -- better than professional assessors in one case

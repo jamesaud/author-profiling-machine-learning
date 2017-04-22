@@ -1,0 +1,1 @@
+@amazonaws where's my low-CPU high-memory ec2 instance?  Say, a large instance with 15GB?  #AWS

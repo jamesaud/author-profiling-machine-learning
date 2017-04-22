@@ -1,0 +1,1 @@
+Hey @UseClear, feat req: I want to copy a block of text (an email with the grocery list) and autosplit it into list items when pasting.

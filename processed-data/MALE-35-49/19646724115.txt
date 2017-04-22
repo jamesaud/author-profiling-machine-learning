@@ -1,0 +1,1 @@
+DEX, high performance graph database management system developed by DAMA-UPC http://bit.ly/dex_gdb #dexgdb #graphdb

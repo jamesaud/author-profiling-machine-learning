@@ -1,0 +1,1 @@
+Use of latent variables as semantic concepts to model joint probability for features and annotations

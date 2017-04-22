@@ -1,0 +1,1 @@
+@sapcrm That looks very promising. Thanks a lot! Though it does not feature #sapcrm 5.2 but 6.0 should do as well.

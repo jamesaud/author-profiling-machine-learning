@@ -1,0 +1,1 @@
+Need a Mail.app extension that sees the word "attached" in an outgoing email, without an attachment, and confirms the send. #gmailmylifepls

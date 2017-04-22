@@ -1,0 +1,1 @@
+Love it when sql schema files can just be run over & over, and they just work.  Removes lots of pain.

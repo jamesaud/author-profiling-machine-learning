@@ -1,0 +1,1 @@
+#cold2012 presenter made an app using semantic technology without hiding RDF from the user -- to show them there is nothing to be scared of.

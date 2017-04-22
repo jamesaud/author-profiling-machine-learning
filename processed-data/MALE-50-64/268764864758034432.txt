@@ -1,0 +1,1 @@
+@ladyniasan  The bandwidth is a normal household broadband from Belgacom.  I cannot test it from here but I expect less than 10Mb

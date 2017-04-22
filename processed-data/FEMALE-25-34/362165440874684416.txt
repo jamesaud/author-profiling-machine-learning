@@ -1,0 +1,1 @@
+#sigir2013 Keynote Riding the Multimedia Big Data Wave (Smith IBM Watson) Bridging semantic gap and addressing scalability in real-time

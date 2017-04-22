@@ -1,0 +1,1 @@
+Taking DynamoDB beyond Key-Value: Now with Faster, More Flexible, More Powerful Query Capabilities http://t.co/zg3Jjtkxf5

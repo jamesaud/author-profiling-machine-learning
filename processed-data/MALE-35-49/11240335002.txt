@@ -1,0 +1,1 @@
+HeyStaks Integration into browser to exploit standard search engines. http://www.heystaks.com/

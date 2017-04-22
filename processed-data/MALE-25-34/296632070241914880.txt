@@ -1,0 +1,1 @@
+@Patered Not sure - I believe notes on Kindle are in proprietary format? Our API does have the ability to sync your Mendeley notes.

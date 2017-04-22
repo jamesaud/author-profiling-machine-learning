@@ -1,0 +1,1 @@
+Fair enough I can create Excel .XSLX files in XML. Anybody know how to create VBA Makros? They are binary in the .XSLM container.

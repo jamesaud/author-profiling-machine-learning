@@ -1,0 +1,1 @@
+@leifos yes, also lacks an in-memory index. I needed something small and quick and easy, Woosh had one.

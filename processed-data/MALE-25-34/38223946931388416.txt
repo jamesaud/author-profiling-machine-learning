@@ -1,0 +1,1 @@
+Wahh, they are using a test message class and only a single message. Writing all text hard into the code in msgv1 in german. #sapcrm

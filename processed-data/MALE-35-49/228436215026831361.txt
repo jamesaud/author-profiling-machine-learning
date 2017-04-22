@@ -1,0 +1,1 @@
+@rainingman1 Yes, Turnitin tells you have 100% match on the earlier document, but you can tell it to ignore that doc and re-calculate

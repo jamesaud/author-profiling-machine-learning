@@ -1,0 +1,6 @@
+Dangerous, but so satisfying:
+
+cd Dropbox
+find . -name *conflicted\ copy* -delete
+
+(Don't try at home kids etc.)

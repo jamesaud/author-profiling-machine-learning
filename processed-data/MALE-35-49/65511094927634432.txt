@@ -1,0 +1,1 @@
+EC2 deployments now completely automated through some erlang scripts, working like a peach and going to save a ton of time :)

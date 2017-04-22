@@ -1,0 +1,1 @@
+@emadb Lost would be too strong a word; 90% of what we do is still pure .Net / Windows stuff

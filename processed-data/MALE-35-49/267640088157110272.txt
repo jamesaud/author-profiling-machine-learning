@@ -1,0 +1,1 @@
+@iFromm semantic data but not necessarily RDF. Maybe I should have said machine understandable (whatever that means)

@@ -1,0 +1,1 @@
+@wolf_gregor How is it possible to set up custom search objects with Enterprise Search? Looked at documentation and system today.

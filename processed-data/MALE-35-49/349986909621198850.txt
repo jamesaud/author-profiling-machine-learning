@@ -1,0 +1,1 @@
+@adilaijaz that trick only works with non-final classes. Does that shake you to your core?

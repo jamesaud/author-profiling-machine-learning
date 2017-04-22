@@ -1,0 +1,1 @@
+@sangsara @Twitterrific ‘Fails’ as in it starts loading backwards and losing the old tweets after a few taps.

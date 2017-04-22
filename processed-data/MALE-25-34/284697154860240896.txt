@@ -1,0 +1,1 @@
+@brinxmat @danbri We're just going to retire the private API @CiteULike are using &amp; asked them to use our (more full-featured) public API.

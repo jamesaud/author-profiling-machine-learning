@@ -1,0 +1,1 @@
+@leashless @nkoren agreed. That is the nature of infrastructure. You win something, you lose something. Must be a #golang equivalent

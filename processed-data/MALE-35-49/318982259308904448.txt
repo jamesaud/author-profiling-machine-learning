@@ -1,0 +1,5 @@
+If you like Bayes error analysis, you need these latex notations: $
+\mathop{\gtreqless}^{C_1}_{C_2}
+\quad
+\mathop{\lesseqgtr}^{C_1}_{C_2}
+$

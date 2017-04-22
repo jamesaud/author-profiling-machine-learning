@@ -1,0 +1,1 @@
+The graphical buying center in #sapcrm crashes about every 5 minutes. Wondering if it got problems with Java 1.6

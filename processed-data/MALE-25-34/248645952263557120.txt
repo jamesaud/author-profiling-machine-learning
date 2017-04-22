@@ -1,0 +1,1 @@
+@RippsUp i can't get that to work. It's really working? It says "open appadvice" in text but response is "cannot find an app named advice"

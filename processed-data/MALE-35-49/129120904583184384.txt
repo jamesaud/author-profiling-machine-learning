@@ -1,0 +1,1 @@
+Saw 2 relevant demos: (a) local event detection on social media and (b) efficient retrieval of timeseries #cikm2011

@@ -1,0 +1,1 @@
+Description of content-based image retrieval, text-based image retrieval (annotations)  and the "Google-way" via text around pictures

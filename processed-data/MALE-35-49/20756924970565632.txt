@@ -1,0 +1,1 @@
+@hhariri @kkozmic for something like Add, where the api can't sanely deal with a null key, then throw is clearly the right choice

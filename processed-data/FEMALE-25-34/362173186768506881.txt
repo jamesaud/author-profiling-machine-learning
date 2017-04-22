@@ -1,0 +1,1 @@
+@invertedindex analyzed Bing and (public) Yandex logs ~40% of multi-query sessions include at least one repeated result in top-10 #sigir2013

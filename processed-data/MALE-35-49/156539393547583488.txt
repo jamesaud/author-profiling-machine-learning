@@ -1,0 +1,1 @@
+I think this is the first paper describing tf*idf weights http://t.co/ngsPjXrj anyone know an earlier one? #in

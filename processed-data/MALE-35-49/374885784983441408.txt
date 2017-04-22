@@ -1,0 +1,1 @@
+@ChrisDiehl I thought deep learning was a NN with a hidden layer. Deep SCM is what, a kernel?

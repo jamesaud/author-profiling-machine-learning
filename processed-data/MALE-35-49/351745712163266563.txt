@@ -1,0 +1,1 @@
+@tlipcon is there a more technical site for CDH Search? Would like to read dirty details before 'yum install'ing and playing.

@@ -1,0 +1,1 @@
+@elunca summary: it's time for a best-practices document and tests-of-goodness for qrels.

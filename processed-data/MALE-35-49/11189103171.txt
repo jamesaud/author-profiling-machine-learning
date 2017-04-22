@@ -1,0 +1,1 @@
+Evaluation setup: user studies to obtain queries and relevance judgements, then generate context for lab settings.

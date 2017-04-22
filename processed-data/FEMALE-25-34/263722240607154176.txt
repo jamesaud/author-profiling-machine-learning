@@ -1,0 +1,1 @@
+Keynote talk presents NELL (Never-Ending Language Learner) by CMU: a high-coverage, large-scale knowledge base for web data #cikm2012

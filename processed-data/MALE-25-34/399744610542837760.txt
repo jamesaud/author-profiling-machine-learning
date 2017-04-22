@@ -1,0 +1,1 @@
+@juanfra684 al final dándole permisos al grupo 'wheel' lo he conseguido.

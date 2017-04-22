@@ -1,0 +1,1 @@
+@metcarob Yup, but the OneClickLagFix app includes a root function, so it should be pretty simple

@@ -1,0 +1,1 @@
+Yes, on Mac OS you can drag from Mail to Reminders, and from Reminders to Calendar.

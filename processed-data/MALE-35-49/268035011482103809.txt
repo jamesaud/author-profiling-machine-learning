@@ -1,0 +1,1 @@
+Ok, just got clarified. The spam dataset is an artificial dataset based on BTC which contains injected spam #cold2012

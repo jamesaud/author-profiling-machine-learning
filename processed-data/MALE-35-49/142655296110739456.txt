@@ -1,0 +1,1 @@
+Having spent a couple of days deep in java, j2ee, ejb's etc, looking forward very much to be back in world of erlang next week

@@ -1,0 +1,1 @@
+Just bit the bullet and tried to take my TFS solution back online. Guess what? It screwed up :(

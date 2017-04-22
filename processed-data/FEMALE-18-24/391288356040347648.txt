@@ -1,0 +1,1 @@
+@iChris Yup. Also did a full restore. Worked for about two days, then went back to not working.

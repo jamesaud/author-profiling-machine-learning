@@ -1,0 +1,1 @@
+@wolf_gregor In the hyperlink. In the HREF you can call JS. I extracted the SSO data there and appended it to the URL as GET parameter.

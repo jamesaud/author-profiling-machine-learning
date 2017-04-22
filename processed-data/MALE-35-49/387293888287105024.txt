@@ -1,0 +1,1 @@
+@dtunkelang @krisztianbalog I always check with @gsingers and @otisg before upgrading Lucene.

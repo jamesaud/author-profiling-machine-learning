@@ -1,0 +1,1 @@
+My analogy: Google shows you HTML docs relevant to a query. SemWeb needs a search for RDF docs. Info stays in the docs #iswc2012

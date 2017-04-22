@@ -1,0 +1,1 @@
+@isaach which data did you use for the tweet length plot? Made one for @trecmicroblog which had a different shape -- might post it later

@@ -1,0 +1,1 @@
+Peter Prettenhofer now goes into the details of a cross-lingual adaptation of structural correspondance learning

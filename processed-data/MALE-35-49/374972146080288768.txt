@@ -1,0 +1,1 @@
+@mikiobraun @ChrisDiehl how in the heck do you converge a hyperplane that way? Assumes hiddens are IID but they're surely not by design?

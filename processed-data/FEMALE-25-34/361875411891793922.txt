@@ -1,0 +1,1 @@
+#sigir2013 Popularity Topic Modeling considers the bias of dominance, few popular users, e.g., Obama or Beiber in Social Networks #sigir2013

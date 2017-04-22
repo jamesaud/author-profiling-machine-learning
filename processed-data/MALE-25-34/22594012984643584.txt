@@ -1,0 +1,1 @@
+ABAPs badly documented API just made me program a new method after searching for 30 min. Just finished I find the exact logic one call away.

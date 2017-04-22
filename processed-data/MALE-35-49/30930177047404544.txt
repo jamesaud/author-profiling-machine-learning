@@ -1,0 +1,1 @@
+@GaryMcAllister No, no nested stuff; kind of hard to do in HQL. Of course, if your entities have nested stuff then they will work just fine

@@ -1,0 +1,1 @@
+If there is no activity on an AMT experiment in the first hour, the experiment has a design flaw

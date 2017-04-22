@@ -1,0 +1,1 @@
+Wondering if #SAP could do a SSO to alls SAP pages like SCN, MarketPlace, DSAG... without client side certificate.

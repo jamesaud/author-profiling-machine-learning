@@ -1,0 +1,1 @@
+So that's probably about the 300th amazon server spun up today.  Stress testing this stuff is fun :)

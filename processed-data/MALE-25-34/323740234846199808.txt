@@ -1,0 +1,1 @@
+@fso_swe Mendeley has a Zotero-sync feature - you can set it to auto-import everything you capture in Zotero.

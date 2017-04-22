@@ -1,0 +1,1 @@
+.@mhawksey I downloaded the file and I'm able to import it with 2.0.1. What version do you use. I'm not using http though.

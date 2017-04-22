@@ -1,0 +1,1 @@
+A2. Misalignment to goals is actual #cloudfailure, but siloing, lengthy deployment, cost drive _perceived_ cloud failure #cloudviews

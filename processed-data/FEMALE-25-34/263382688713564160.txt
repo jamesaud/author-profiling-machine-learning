@@ -1,0 +1,1 @@
+Social media search #cikm2012 full of interesting work, e.g., use informative keyphrases for event detection, dynamic PRF for ranking tweets

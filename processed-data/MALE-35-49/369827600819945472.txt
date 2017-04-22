@@ -1,0 +1,1 @@
+@alambert was unhappy trying to keep a large solr install from falling over under a large batch index job. Guess I can go RTSL.

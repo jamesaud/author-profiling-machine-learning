@@ -1,0 +1,1 @@
+@ian_soboroff You need a client that supports the all of the Unicode characters http://en.wikipedia.org/wiki/Chess_symbols_in_Unicode

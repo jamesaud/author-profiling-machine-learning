@@ -1,0 +1,1 @@
+Thinking I may be able to adapt the committee perceptron to learn mixture model weights for search http://tinyurl.com/comittee-perceptron

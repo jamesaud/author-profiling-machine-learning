@@ -1,0 +1,1 @@
+@deanrobot That will put it at the very top. Just paste the embed code into the HTML of the post. Whatever happens, it can be fixed. :)

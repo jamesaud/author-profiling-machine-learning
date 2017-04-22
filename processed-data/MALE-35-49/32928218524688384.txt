@@ -1,0 +1,1 @@
+long shot - anyone got distributed transactions working between SQL 2000 & Postgres 9?

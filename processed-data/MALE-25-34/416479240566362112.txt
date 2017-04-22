@@ -1,0 +1,6 @@
+"Are you charging full peak prices today?"
+"Yes."
+"Are you running a full peak service?"
+"No."
+
+Bravo.

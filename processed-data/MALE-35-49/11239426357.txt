@@ -1,0 +1,1 @@
+Retrieval effectiveness rises with longer queries, but only till 3 terms, than drops again

@@ -1,0 +1,1 @@
+#iswc2012 keynote. Idea: Represent not only data but also processes on the semantic web. Requires ontologies to have verbs

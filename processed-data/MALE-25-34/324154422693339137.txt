@@ -1,0 +1,1 @@
+Our #sapcrm after 712 upgrade and #HANA migration disconnects every hour from the database... Happy developing :-(

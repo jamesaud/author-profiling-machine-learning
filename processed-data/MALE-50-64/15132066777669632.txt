@@ -1,0 +1,1 @@
+@blaiseaguera demos interactive OCR in Bing Mobile app: point cameraphone at text, click on recognized text in image to search #bingsummit.

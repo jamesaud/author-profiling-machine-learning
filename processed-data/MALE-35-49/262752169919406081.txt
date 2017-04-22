@@ -1,0 +1,1 @@
+@dirkahlers Yeah, though my impression is stop lists aren't Google's style, maybe some clustering to spot paper content outliers?

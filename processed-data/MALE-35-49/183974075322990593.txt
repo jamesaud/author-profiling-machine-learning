@@ -1,0 +1,1 @@
+#lazyweb What's a typical value for Cohen's Kappa for relevance judgments?

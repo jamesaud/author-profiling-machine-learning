@@ -1,0 +1,1 @@
+Correction, that should read 1000-1200 pages/second.

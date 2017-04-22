@@ -1,0 +1,1 @@
+Conocéis alguna base que funcione con Thunderbolt y puedas conectar tarjetas PCI?

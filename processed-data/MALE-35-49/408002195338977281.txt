@@ -1,0 +1,1 @@
+Big data defined by 3 Vs: velocity, variety, volume. At Sydney big data conference, everyone wants to add more, veracity, my favourite.

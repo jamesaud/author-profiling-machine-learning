@@ -1,0 +1,1 @@
+@pkollar get a weapon to +5 and you can start modify it towards elements, magic, stats and others. You can undo upgrades but loose the mats.

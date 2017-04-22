@@ -1,0 +1,1 @@
+May have to resort to actually writing my own data structures. Most Java folks seem to have forgotten how. I know I'm rusty.

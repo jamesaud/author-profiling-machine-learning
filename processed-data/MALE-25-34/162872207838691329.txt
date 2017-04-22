@@ -1,0 +1,1 @@
+While digging into the enhancement concept of #sapcrm Sales for Mobile you find code dating back to 2008. Quite a long development.

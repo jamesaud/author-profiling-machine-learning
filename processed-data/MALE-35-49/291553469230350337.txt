@@ -1,0 +1,1 @@
+Cerf compares cloud interoperability to the days of DECNET and SNA. Imagine when we have the equivalent of TCP/IP among clouds.

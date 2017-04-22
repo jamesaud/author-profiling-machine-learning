@@ -1,0 +1,1 @@
+current talk on turning keyword queries into SPARQL -- Seems a wonderful extension for our #btc2012 contribution #wole2012 #iswc2012

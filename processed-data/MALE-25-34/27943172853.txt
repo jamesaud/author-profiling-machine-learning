@@ -1,0 +1,1 @@
+JavaScript is so very dirty. Registering anonymous functions for events is one thing. Deregistering them impossible without another variable

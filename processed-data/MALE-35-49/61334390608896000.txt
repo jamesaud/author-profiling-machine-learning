@@ -1,0 +1,1 @@
+@hhariri If you care about resilience, you should have servers in more than one region

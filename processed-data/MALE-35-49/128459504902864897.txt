@@ -1,0 +1,1 @@
+"Sentiment classification on images requires an understanding of cultural background" #detect #cikm2011

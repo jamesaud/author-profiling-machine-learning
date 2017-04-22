@@ -1,0 +1,1 @@
+@ironshay and I think I'd only try on a project that needed it (distributed and fault tolerance are the 2 key aspects of my current project)

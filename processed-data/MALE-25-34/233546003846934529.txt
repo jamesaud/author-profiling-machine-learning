@@ -1,0 +1,1 @@
+@erikmstp Go to main folder "Radiography Lit.", click the "Edit Settings" button in middle pane, tick "Download attached files from group"

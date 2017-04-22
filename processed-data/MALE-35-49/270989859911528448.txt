@@ -1,0 +1,1 @@
+@kansandhaus the road to Java is indeed paved with good intentions. So, if you design a programming language, you should avoid having those.

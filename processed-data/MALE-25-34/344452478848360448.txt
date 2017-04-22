@@ -1,0 +1,1 @@
+Reading the iOS 7 UI design guidelines, and there's a lot of emphasis on Auto Layout and Dynamic Type. Another screen size coming soon?

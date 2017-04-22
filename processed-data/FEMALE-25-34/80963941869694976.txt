@@ -1,0 +1,1 @@
+Interesting papers #sigmod2011 faceted web search http://bit.ly/lftAKE ranking top-k functions (sound like L2R + PRF)  http://bit.ly/m57kCK

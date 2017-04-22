@@ -1,0 +1,1 @@
+Indri had "real time" support in 2004, earlier than Zoie or Solr. Shame we didn't make a bigger deal of it. @dmetzlerd @trevor_strohman

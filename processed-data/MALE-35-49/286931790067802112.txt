@@ -1,0 +1,1 @@
+Teaching someone the wonders of 'find | cat | tr | sort | uniq | wc' as NLP Pipeline 1.0.  #iloveunix

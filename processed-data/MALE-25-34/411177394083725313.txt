@@ -1,0 +1,1 @@
+Hacer un git log en un svn. Típico.

@@ -1,0 +1,1 @@
+...and the next talk by Arjen de Vries on the topic "How ideas from databases could be applied to IR - an introduction to DB+IR at CWI"

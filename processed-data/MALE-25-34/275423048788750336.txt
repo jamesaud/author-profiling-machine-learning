@@ -1,0 +1,1 @@
+@nfarina Odd, that’s never happened to me. (Maybe because lookups are slower here.) And it goes away with the extension disabled?

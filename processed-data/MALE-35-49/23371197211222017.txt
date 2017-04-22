@@ -1,0 +1,1 @@
+Wish Amazon AMI images built a bit quicker.  Seem to have spent most of the last couple of days imaging machines :(

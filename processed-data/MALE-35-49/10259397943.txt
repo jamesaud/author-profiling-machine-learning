@@ -1,0 +1,1 @@
+Enum does not work in processing. Why not?

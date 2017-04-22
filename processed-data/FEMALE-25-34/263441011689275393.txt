@@ -1,0 +1,1 @@
+Suggesting tasks (rather than query suggestions) in order to help a user to complete a complex search by A.Hassan and R. W. White #cikm2012

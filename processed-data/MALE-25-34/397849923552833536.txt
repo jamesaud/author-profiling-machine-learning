@@ -1,0 +1,1 @@
+How to deploy MemcacheD on YARN in Hadoop 2 http://t.co/8HemSV4bnx

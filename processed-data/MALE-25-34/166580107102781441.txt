@@ -1,0 +1,1 @@
+SAPLogon started with 100MB this morning. Now it reserved more than 500MB. Wonder what it does with it. No additional modes opened.

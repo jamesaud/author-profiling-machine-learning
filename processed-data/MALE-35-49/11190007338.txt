@@ -1,0 +1,1 @@
+Search is not a standalone activity. It is interwoven with other activities (e.g. writing a paper, developing an algorithm)

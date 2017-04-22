@@ -1,0 +1,1 @@
+Leveraging Dynamic Query Subtopics for Time-aware Search Result Diversification: full paper accepted @ECIR2014 w/ the first author @tumeteor

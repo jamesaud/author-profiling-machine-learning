@@ -1,0 +1,1 @@
+@lousylinguist -ing words are thought tricky because three ways ambiguous between NN|JJ|VBG in treebank. Solution: who cares? don't decide.

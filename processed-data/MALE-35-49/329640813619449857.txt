@@ -1,0 +1,1 @@
+Does anyone know how to catch Hadoop tasks that fail due to heap full, and not mark them "fails", but just output their split and move on?

@@ -1,0 +1,1 @@
+#ecir2010 first session with four talks: LM for time component in query, attitude in texts, IR in medicine, query log analysis

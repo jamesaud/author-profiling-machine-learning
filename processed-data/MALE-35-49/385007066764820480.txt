@@ -1,0 +1,1 @@
+iOS 7 fail #543: can't edit playlists on the phone. #wtf

@@ -1,0 +1,1 @@
+This Android app will help you to calculate EOQ (even with shortages) and Newsvendor models!  http://t.co/nX7TIB9lba

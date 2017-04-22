@@ -1,0 +1,1 @@
+OMG, JavaScript is so fricking ugly. Took me an hour to figure out how to call an object function in an mouseover event supplying the event.

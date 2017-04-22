@@ -1,0 +1,1 @@
+Don't go bellyaching when one AZ goes down; you'll see there are 4 others, all of which were working fine

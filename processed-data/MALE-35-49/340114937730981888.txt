@@ -1,0 +1,1 @@
+@lechatpito Just to follow up on our chat before: PMI might be an idea for outlier detection. It's explained in the paper I presented

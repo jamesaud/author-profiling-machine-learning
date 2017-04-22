@@ -1,0 +1,1 @@
+Nice! #sapcrm #ehp3 allows deep table enhancements using #aet. Also includes business partner dublicate check on #hana.

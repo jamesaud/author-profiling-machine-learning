@@ -1,0 +1,2 @@
+Shannon paper has been retyped with Tex source -:)
+http://cm.bell-labs.com/cm/ms/what/shannonday/paper.html

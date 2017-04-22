@@ -1,0 +1,1 @@
+So apparently Excel doesn't like SUMIF if you have around 370,000 rows.

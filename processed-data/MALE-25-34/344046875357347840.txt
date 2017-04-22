@@ -1,0 +1,1 @@
+Testing phase is fun. Error description "Fields are not editable". My solution "Pressing the EDIT button will switch to change mode".

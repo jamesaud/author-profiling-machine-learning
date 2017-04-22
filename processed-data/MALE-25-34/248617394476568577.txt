@@ -1,0 +1,1 @@
+Siri doesn't like apps, that start with "app." So if you want Siri to launch AppAdvice you have to say "launch app appadvice" #protip

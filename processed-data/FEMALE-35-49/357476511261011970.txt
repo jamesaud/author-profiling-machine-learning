@@ -1,0 +1,1 @@
+@ian_soboroff Trotman &amp; Lalmas. Why Structural Hints in Queries do not Help XML Retrieval, ACM SIGIR August 2006 (Poster).

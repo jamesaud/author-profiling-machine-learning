@@ -1,0 +1,1 @@
+Norbert Fuhr giving last talk for today: framework for optimum document clustering - will be theoretic on what is a good clustering

@@ -1,0 +1,1 @@
+Oracle ships Java 7 Update 11 with vulnerability fixes, increased security level for Java applets http://t.co/Xnf84ykj #java7

@@ -1,0 +1,1 @@
+@SayBeano Mendeley can auto-generate BibTeX entries from your document library, so it works great with LaTeX :-)

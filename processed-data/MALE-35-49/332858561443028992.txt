@@ -1,0 +1,1 @@
+@bde Normalize all klout scores by klout_score(horse_ebooks)

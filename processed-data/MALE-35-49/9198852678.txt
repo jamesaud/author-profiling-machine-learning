@@ -1,0 +1,1 @@
+@banksimple Okay, I think I get it now. For example, I could build an app that tracks and displays changes to the terms/conditions over time

@@ -1,0 +1,2 @@
+@merv Yes! I like small incremental releases.
+But a lot of our customers just can't keep up with the speed of open source. :(

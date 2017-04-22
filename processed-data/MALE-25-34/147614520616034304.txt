@@ -1,0 +1,1 @@
+@wolf_gregor @roelvberge @sjohannes @johanvanzil With exclusive lock OK. Though wouldn't do it. BDT issues: tx. BUS7 FMs not called by BOL.

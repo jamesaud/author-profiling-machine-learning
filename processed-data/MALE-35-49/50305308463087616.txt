@@ -1,0 +1,1 @@
+@rjamestaylor @mwilbanks edit the code, burn a new image, launch a server from the image, check the results (cont)

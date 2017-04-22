@@ -1,0 +1,1 @@
+Named entity evolution dataset of 75 entities manually labeled w/ name changes + time periods NYTime Corpus http://t.co/5TQNwrQd #coling2012

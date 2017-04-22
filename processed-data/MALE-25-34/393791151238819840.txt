@@ -1,0 +1,1 @@
+Desactivar auto-actualización de WP 3.7, en el punto 4 de http://t.co/ly5P5Fm7Kd tres líneas en wp-config.php #wcuma #wordpress

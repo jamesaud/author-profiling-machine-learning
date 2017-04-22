@@ -1,0 +1,1 @@
+@oakinger I barely use the mouse, but then I spend pretty much all day in iterm and emacs. What kbd shortcuts were you missing?

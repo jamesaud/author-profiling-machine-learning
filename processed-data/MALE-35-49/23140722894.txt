@@ -1,0 +1,1 @@
+Volume graphics = future of CG, same as color was the future of grey. http://www-ui.is.s.u-tokyo.ac.jp/~kenshi/DiffusionSurfaces/index.html

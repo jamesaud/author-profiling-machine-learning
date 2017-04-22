@@ -1,0 +1,1 @@
+Wondering if I can access us4368.wdf.sap.corp from our local system. At least CRMCMP_SURVEY/SurveyEdit calls it on the BSP page #sapcrm

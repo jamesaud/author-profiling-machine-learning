@@ -1,0 +1,1 @@
+Interesting Session on sparse data and difficult queries. C. Zhai obtaining term senses by clustering on term-cooccurance matrix #cikm2011

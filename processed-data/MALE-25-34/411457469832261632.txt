@@ -1,0 +1,1 @@
+@barrywellman @mrgunn We have always provided full, unconditional data portability - via standard data export formats and our API.

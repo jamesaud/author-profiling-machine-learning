@@ -1,0 +1,3 @@
+Every time I open Clock.app from Control Center (iOS 7 beta 4), it defaults to the timer. 
+
+Really. Fucking. Irritating.

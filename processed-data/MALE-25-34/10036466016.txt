@@ -1,0 +1,1 @@
+@w3edge Does it do everything and more? They claim to be the fastest, but everyone claims that. Or are all types of DB caching the same.

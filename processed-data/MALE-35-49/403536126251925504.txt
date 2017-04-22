@@ -1,0 +1,1 @@
+@anibal @rhoml @edgar @andersonsp we are using Riak in production

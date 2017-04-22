@@ -1,0 +1,1 @@
+@raulpacheco We're working on letting users define their own document types :-)

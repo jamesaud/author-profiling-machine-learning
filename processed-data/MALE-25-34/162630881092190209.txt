@@ -1,0 +1,1 @@
+WTF?! Someone disabled old list view in SE16 for NW Mobile 7.1. Now I can not debug my values into the tables anymore. What to do?

@@ -1,0 +1,1 @@
+@alambert Pretty much every search problem I have starts with "index these hundreds of millions of things". How? Pls not curl.

@@ -1,0 +1,1 @@
+@stelfrich We wanted to avoid documents disappearing from your local lib if someone else deleted it in a group. Notes are synced, though.

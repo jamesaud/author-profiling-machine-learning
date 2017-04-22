@@ -1,0 +1,1 @@
+Next step for Brightcove is to allow for videos to be uploaded.

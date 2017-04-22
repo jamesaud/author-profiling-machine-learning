@@ -1,0 +1,1 @@
+But: web redundancy does not always help. Some example where fixed-phrase queries fail

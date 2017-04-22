@@ -1,0 +1,1 @@
+@wolf_gregor @se38 #apm Just a thought: Write some COM/OLE classes.They can be used from ABAP as a proxy for web access.Not brilliant,I know

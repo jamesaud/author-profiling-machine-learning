@@ -1,0 +1,1 @@
+@djoerd They explore the collection during topic development, both to invent them and to verify that test topics are appropriate.

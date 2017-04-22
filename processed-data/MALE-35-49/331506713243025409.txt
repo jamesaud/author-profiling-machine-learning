@@ -1,0 +1,1 @@
+@diakoff depends on what you mean by 'performance'. Also what you mean by XML.

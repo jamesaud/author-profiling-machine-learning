@@ -1,0 +1,1 @@
+Galaxy Nexus is finally working fine after I did a clean install of Android 4.3 from factory image..

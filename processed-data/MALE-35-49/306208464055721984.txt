@@ -1,0 +1,1 @@
+Or, are literal RE string searches (REs without operators) faster than String.indexOf()? After how many searches?

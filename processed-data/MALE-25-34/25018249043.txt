@@ -1,0 +1,1 @@
+Programming ABAP and JavaScript in parallel is like hell made of . and ;

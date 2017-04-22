@@ -1,0 +1,1 @@
+Been playing with sql server, postgres, zootonic & websockets. Hugely frustrating at times, but the result rocks

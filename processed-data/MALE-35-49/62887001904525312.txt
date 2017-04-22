@@ -1,0 +1,1 @@
+Massimiliano Ciaramita presented Piggyback: interesting approach for NER in queries based on search result snippets

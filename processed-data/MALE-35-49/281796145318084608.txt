@@ -1,0 +1,1 @@
+@CharlotteHase Despite working in the guts of the payload structures, I never realized Index had real time indexing support!

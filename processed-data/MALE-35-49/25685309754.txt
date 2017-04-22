@@ -1,0 +1,1 @@
+love some folks idea of comments.  Class name = "TableOperationRequest", comment = "request for table operations". Awesome, thanks for that.

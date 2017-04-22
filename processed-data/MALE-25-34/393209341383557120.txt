@@ -1,0 +1,1 @@
+Announcing Apache HBase 0.96.0, More than 2000 issues resolved! http://t.co/yqI3CLPX65

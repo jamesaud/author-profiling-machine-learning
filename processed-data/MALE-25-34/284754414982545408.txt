@@ -1,0 +1,1 @@
+@rafaelsidi CiteULike sync is using an outdated private API which we'll retire; we've asked them to move to our public Open API instead.

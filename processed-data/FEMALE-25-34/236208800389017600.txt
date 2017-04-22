@@ -1,0 +1,1 @@
+Eytan's talk on Web Dynamics and IR Interfaces: one way of visualizing *periodic* time series is to use spiral graph #taia2012 #sigir2012

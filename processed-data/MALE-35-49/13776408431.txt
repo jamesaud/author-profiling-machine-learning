@@ -1,0 +1,1 @@
+BIBEX (BIBliographic EXploration on public web, for DBLP): new user interface released. http://bit.ly/cVkS6E  #in #dexgdb #graphdb #nosql

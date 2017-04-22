@@ -1,0 +1,1 @@
+@mikehadlow i've been in erlang for the last 6 weeks. Not missing the static typing much at all.

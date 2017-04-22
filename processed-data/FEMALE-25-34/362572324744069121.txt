@@ -1,0 +1,1 @@
+Search result diversification using term-level subtopics identified on-the-fly shows improvement over using explicit subtopics #sigir2013

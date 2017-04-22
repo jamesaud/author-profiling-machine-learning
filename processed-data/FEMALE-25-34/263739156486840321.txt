@@ -1,0 +1,1 @@
+Related search recommendation presented by LinkedIn using a query length model for capturing bias in recommending click behavior #cikm2012

@@ -1,0 +1,1 @@
+#icwsm didn't xkcd show nicely how information overload is a constant for any stream size?

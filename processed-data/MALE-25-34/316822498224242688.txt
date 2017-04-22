@@ -1,0 +1,1 @@
+Big fun: Explaining to SAP support that DELETE LT_ITAB will delete all entries in the table and not only the current line of the LOOP.

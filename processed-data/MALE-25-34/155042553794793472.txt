@@ -1,0 +1,1 @@
+@wolf_gregor No filter or BAdI implemented.I checked the code. It seems like an error. The results "vanish" in the FM from line 335 onwards.

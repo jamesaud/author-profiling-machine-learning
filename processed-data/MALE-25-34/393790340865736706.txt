@@ -1,0 +1,1 @@
+@victoor todo es activable y desactivable. Y en 3.9 posiblemente se podrá configurar por plugin, individualmente.

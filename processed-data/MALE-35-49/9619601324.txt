@@ -1,0 +1,1 @@
+Legendre transformation preserves homogeneous functions. Scaling property http://en.wikipedia.org/wiki/Legendre_transformation

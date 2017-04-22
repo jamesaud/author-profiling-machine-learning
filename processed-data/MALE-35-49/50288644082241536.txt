@@ -1,0 +1,1 @@
+Initial impressions of firefox 4 are good, particularly like the tab groups. Only shame is the memory usage which is insanely high

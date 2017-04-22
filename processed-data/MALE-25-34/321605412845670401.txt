@@ -1,0 +1,1 @@
+@wilbanks Thanks John. We're still pushing for open data; will use E. data to clean/enrich/complete our API data, still under CC-BY.

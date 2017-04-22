@@ -1,0 +1,1 @@
+Ralf presents mixture of LM&LDA for tag recommendation. Wonder how it relates to the Epistemic model of Klaas Dellschaft #cikm2011 #detect

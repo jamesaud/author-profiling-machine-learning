@@ -1,0 +1,1 @@
+Somehow, I had to look into cross-browser CSS issues (specifically, background-position-x) on Firefox for… my comic. http://t.co/ADGZ91Dqh0

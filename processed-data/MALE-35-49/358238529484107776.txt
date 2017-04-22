@@ -1,0 +1,1 @@
+@martinpotthast Thanks for the leads from PAN, but the details on TC construction and validation in those papers is too small for me.

@@ -1,0 +1,1 @@
+@sharelatex you might never be as powerful as Emacs, but you could strive  to be as documented.

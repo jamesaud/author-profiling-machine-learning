@@ -1,0 +1,1 @@
+@hhariri Dude, quick question - if I've got a big TFS CI setup, how hard to migrate that to TeamCity?

@@ -1,0 +1,1 @@
+#SIGIR2012 @invertedindex extending his time series analysis work from last year on dealing with time varying queries.

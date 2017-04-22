@@ -1,0 +1,1 @@
+#sapcrm displays a message that it doesn't work with FireFox 10. Use about:config with param general.useragent.override to change user agent

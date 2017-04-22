@@ -1,0 +1,1 @@
+@drlawson Considering it. Are already improving our API so that 3rd party apps (e.g. Scholarley or Droideley) can access notes/highlights.

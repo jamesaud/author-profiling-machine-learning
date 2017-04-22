@@ -1,0 +1,1 @@
+"This is an RFC 3463 extended status code. Where, 5.1.1 means "user doesn't exist" and 5.7.1 means "I don't want your junk, go away"." Je.

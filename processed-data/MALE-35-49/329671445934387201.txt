@@ -1,0 +1,1 @@
+@ian_soboroff state if the art solution is to just break into smaller jobs. I thought that was what map reduce was for.

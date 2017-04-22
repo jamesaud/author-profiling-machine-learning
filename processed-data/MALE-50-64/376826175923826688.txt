@@ -1,0 +1,1 @@
+@jonathanstark @zelandiya hm. word2vec is for counting,  sending counts to (maybe deep) machine learning . The article is confused on this.

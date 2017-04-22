@@ -1,0 +1,1 @@
+@Ben_Hall Try redirecting the output (ruby -e 'puts "\342\202\254"' &gt; o.txt).  Suspect if you then open o.txt in notepad it'll look ok

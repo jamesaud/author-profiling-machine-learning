@@ -1,0 +1,1 @@
+@se38 Cool. When on a windows machine and click "Install" it displays a different language after click on Sign-In and browser Back, Back.

@@ -1,0 +1,1 @@
+I just installed #ZAKE on our server.It updated #ZAKE itself from the SVN.Now the class ZCL_ZAKE_SVN contains errors: ZAKE_HOME is undefined

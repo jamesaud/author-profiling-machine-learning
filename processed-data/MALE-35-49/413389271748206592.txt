@@ -1,0 +1,1 @@
+Upgraded to 10.9.1 from 10.8, immediately found two really bad bugs. Automounts broken and Thunderbolt eth0 after waking from sleep. #wtf

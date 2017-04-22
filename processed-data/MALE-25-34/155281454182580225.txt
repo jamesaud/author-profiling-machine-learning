@@ -1,0 +1,1 @@
+...#sapcrm selects status schema according to process type, this leads to doubled criteria if two transaction typs share the same schema.

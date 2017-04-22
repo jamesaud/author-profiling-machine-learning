@@ -1,0 +1,1 @@
+XLS-complete: (adj) when the data comes in Excel format, but Excel is useless for analyzing it, and it's too big to port. See EasyChair.

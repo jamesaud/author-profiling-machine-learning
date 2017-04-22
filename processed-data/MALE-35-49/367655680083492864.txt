@@ -1,0 +1,1 @@
+Why Shannon entropy is bad for cryptography. http://t.co/12W3g4pcQd

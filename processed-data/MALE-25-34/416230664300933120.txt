@@ -1,0 +1,1 @@
+@fellowsra @edfrenkel @profkeithdevlin iOS app, integration with Scopus/ScienceDirect, new/better API still under CC license. More to come!

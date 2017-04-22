@@ -1,0 +1,1 @@
+Anyone know which is the preferred framework for customer developments with TREX in #sapcrm: SAF or SES?

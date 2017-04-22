@@ -1,0 +1,1 @@
+#SAP developers doing a READ .. BINARY ... on an unsorted table in OneOrder search in #sapcrm. Third time we mention this to support :-(

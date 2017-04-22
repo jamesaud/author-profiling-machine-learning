@@ -1,0 +1,1 @@
+@pixelbase Yes. When writing classes ABAP sometimes messes up the sections. You can "activate anyway" and it works. Better is to repair.

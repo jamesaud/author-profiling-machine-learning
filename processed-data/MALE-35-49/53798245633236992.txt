@@ -1,0 +1,1 @@
+anyone had problems with the query slider (v1.8.11)? I'm getting really weird values from it, it looks pretty broken

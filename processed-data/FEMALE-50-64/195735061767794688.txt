@@ -1,0 +1,1 @@
+Can anyone suggest references about mining query logs for BI and CEM?

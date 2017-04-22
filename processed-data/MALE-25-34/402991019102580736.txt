@@ -1,0 +1,1 @@
+#functscanfact Good scanners go up to 10.  Great scanners go to 11.

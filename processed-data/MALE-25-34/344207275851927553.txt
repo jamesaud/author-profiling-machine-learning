@@ -1,0 +1,1 @@
+Any word on new Xcode? I wonder what the default elements look like now in Interface Builder

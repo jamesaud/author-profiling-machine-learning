@@ -1,0 +1,1 @@
+@NeilRobbins currently rewriting a c++ app in c - it's now *so* much easier to read. Although that may be c++'s fault rather  that OO ;)

@@ -1,0 +1,2 @@
+40 million objects graph demo: BIBEX, bibliographic exploration with graph databases, over DBLP data.
+http://t.co/MDDNWdKE

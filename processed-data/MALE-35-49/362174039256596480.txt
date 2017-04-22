@@ -1,0 +1,1 @@
+Pro tip: itertools.permutations() for recovering a forgotten pass code sequence. You can try one per hour and not lose your place.

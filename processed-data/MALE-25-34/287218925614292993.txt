@@ -1,0 +1,1 @@
+"Where can we find the customizing for BT BOL objects?" &lt;- #sapcrm response in OSS to my error about a hardcoded BOL structure. So sad :-(

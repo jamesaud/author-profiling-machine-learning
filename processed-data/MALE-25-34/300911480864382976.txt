@@ -1,0 +1,1 @@
+@wolf_gregor It is. In my case it is these Mail Forms that can be used as templates for outbound Emails.Link named "Mail Forms" in Marketing

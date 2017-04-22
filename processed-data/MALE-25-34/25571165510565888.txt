@@ -1,0 +1,1 @@
+@sjohannes 1337658 - Ready/Not Ready radio button gray out and cannot be changed

@@ -1,0 +1,1 @@
+Implemented Facebook like business partner search in #sapcrm today. Quite cool seeing the partners popup while you search.

@@ -1,0 +1,1 @@
+@craig_macdonald these newlines in tweets really can ruin your day when parsing large datasets :-)

@@ -1,0 +1,1 @@
+Solr tip: to speed up indexing through a CloudSolrServer, multithread your document extraction and server.add() call.

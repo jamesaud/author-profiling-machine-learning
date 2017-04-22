@@ -1,0 +1,1 @@
+Awesome @PropellerheadSW released Thor today for iOS, check out some of my patches in the new release: http://t.co/luci5kSC37

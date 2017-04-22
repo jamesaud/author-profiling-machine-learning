@@ -1,0 +1,1 @@
+Yet another iOS 7 bug: it ignores timezones in mail .ics attachments. And because it's someone else's mtg, you can't correct it.

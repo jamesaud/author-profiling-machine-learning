@@ -1,0 +1,1 @@
+@Daneel3001 just implementing a .LockMode extension method.  Fun bit is working out exactly what you want to apply the lockmode to

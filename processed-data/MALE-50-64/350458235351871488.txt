@@ -1,0 +1,1 @@
+@haldaume3 @JDCHOI btw, my package for clear NLP uses multiple cores via Thrift if it can, so check CPU budget bearing that in mind.

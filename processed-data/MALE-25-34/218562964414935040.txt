@@ -1,0 +1,1 @@
+@serby #ruby and #regex? How many handbreaks can you build into a hadoop job? :-) Anything that runs in the same jvm will run in 10min.

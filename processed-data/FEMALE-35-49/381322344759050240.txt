@@ -1,0 +1,1 @@
+@santicamps gràcies. Al final anclant les imatges al caracter i exportant per capítols em va funcionar. I després també tot sencer

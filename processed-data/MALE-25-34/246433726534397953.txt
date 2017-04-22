@@ -1,0 +1,1 @@
+@christyxcore Did tests. We discovered if you initiate it,  it's seamless, but it hangs up on other person and calls them back as FaceTime

@@ -1,0 +1,1 @@
+Looking currently at Twitters API... Need to collect data for a hands-on-session on web mining

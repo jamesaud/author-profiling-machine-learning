@@ -1,0 +1,1 @@
+Grml... Have to copy whole class because variables are declared private in #sapcrm Office Integration handler. No means of accessing them :(

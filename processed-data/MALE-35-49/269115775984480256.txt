@@ -1,0 +1,1 @@
+Now it is @brokenthoughts on stage: SPLODGE: Systematic Generation of SPARQL Benchmark Queries for Linked Open Data #iswc2012

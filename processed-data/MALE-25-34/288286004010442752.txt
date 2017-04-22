@@ -1,0 +1,1 @@
+@carusb @rmounce Mendeley does read PDF XMP metadata, but it's frequently noisy/incorrect, so we check it against other signals.

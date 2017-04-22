@@ -1,0 +1,1 @@
+Backupping my 2 TB NAS over LAN. Too sad Linux can not handle NTFS drives with good write data rates. FreeFileSync estimates 14h for 380GB

@@ -1,0 +1,1 @@
+Anyone knows an #IR model to capture globally the pairwise relevance relations in a group of three documents?

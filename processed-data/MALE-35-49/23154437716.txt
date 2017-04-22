@@ -1,0 +1,1 @@
+Had been playing with differencing disks on VirtualBox to save some disk space (Win7Base -&gt; Dev Env -&gt; Customer Dev Env)

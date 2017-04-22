@@ -1,0 +1,3 @@
+current talk at #cold2012: group RDF data characteristics into terms, triples, graph ...
+
+I wonder: why not infer also a schema? #iswc2012

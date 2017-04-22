@@ -1,0 +1,1 @@
+Only look at highest score.  Verify after.  Share if score is moving up if below 80per range.

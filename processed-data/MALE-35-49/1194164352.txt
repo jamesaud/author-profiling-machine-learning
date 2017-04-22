@@ -1,0 +1,1 @@
+Sweet. Committee perceptron training on preference pairs confirmed to learn excellent parameters for held-out test set.

@@ -1,0 +1,1 @@
+First real load test today; at the peak we had around 750 servers running on EC2

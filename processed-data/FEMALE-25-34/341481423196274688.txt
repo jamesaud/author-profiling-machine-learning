@@ -1,0 +1,1 @@
+CCM overview paper: "Structured Learning with Constrained Conditional Models" by Chang, Ratinov, and Roth http://t.co/oUOCzUyaOU

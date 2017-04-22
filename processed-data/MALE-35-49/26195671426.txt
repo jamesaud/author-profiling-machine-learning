@@ -1,0 +1,1 @@
+Awesome! RT @alfredapp Biggest new feature for 0.7.2 is persistent (through reboot) / searchable Clipboard History for Powerpack users! :)

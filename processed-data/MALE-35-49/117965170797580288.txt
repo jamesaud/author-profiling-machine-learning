@@ -1,0 +1,1 @@
+@NeilRobbins not used it, been doing all our templating on the client. Zotonic makes heavy use of erlydtl which implements django templates

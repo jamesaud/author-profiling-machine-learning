@@ -1,0 +1,1 @@
+Why is Map Reduce faster? -- A practical example of data joins http://t.co/lpqWEFao

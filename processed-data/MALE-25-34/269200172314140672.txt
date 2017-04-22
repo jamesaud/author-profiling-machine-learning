@@ -1,0 +1,1 @@
+@herberts IOC has nothing todo with the container! You don't even needs a container. A simple java class can assemble your object graph.

@@ -1,0 +1,1 @@
+day of bad discoverings today. ABAP does not support sockets. Telnet is not installed. No clue if I can put a program into the java stack.

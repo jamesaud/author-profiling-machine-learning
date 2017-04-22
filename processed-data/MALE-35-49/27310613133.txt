@@ -1,0 +1,1 @@
+SVD-like mapping of docs to semantic hash codes, then use ML to learn mappings for new docs to new codes http://bit.ly/aofQza #in #fb

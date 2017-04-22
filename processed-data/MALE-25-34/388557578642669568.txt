@@ -1,0 +1,1 @@
+@jamoral WP se pensó como CMS desde su primera versión, y su primera plantilla fue de blogs. :)

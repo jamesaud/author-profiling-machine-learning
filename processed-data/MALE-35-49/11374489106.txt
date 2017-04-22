@@ -1,0 +1,1 @@
+last talk of #ecir2010 on spatial diversity. However, nice example on diversity in web search: SIGIR ("ours" vs. http://www.sigir.mil/ )

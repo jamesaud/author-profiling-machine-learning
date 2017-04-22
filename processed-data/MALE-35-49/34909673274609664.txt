@@ -1,0 +1,1 @@
+@peterneubauer Very interesting presentation of Neo4j spatial (GIS) at UIM-GDB in Barcelona #graphdb #nosql

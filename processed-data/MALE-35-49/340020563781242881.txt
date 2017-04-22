@@ -1,0 +1,1 @@
+Want to have that for LODatio: a lego-inspired SPARQL editor! #eswc2013 keynote by @m_hauswirth

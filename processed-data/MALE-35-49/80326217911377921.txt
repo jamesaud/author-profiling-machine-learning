@@ -1,0 +1,1 @@
+@NeilRobbins that sounds like a job for foldl,  comprehensions rock but sometimes aren't the right tool

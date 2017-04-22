@@ -1,0 +1,1 @@
+@fredverheul Thanks, finally found the "ABAP community". Is it just me or did the loading times increase significantly?

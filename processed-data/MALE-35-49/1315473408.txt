@@ -1,0 +1,1 @@
+Thinking about starting up reorg-now.com: load in your resource list and easily switch between matrix, c-, etc setups incl templated comms

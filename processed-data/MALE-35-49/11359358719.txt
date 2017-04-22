@@ -1,0 +1,1 @@
+#ecir2010 next session on Personalization & Recommendation. Starting with Performance Prediction to Enhance Collaborative Filtering

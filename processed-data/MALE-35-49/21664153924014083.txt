@@ -1,0 +1,1 @@
+@jagregory no real reason, mongo would be fine as well. It's also got apis available for mysql etc if you need relational

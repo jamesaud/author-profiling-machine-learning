@@ -1,0 +1,1 @@
+@leifos @ecir2013 There was a SIGIR 2010 paper on this topic from Filip Radlinski... I think.

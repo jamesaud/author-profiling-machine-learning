@@ -1,0 +1,1 @@
+An evening with backbone.js, backbone.memento and backbone.modelbinding.  This stack feels *very* nice.

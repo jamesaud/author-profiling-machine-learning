@@ -1,0 +1,1 @@
+@wolf_gregor Not very nice, but didnt find other way. ServerSide cookie does not have the SSO2 info :-( Its only on the client.

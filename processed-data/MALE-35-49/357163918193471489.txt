@@ -1,0 +1,1 @@
+Bibliography for my SIGIR tutorial on building test collections: http://t.co/erJ7aGC6OY Comments and additions appreciated!

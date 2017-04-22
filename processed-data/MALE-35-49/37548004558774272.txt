@@ -1,0 +1,1 @@
+And yes, the customer was worried about the whole of Amazon going offline, hence the need to transparently failover to another cloud!

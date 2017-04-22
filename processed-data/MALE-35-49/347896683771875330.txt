@@ -1,0 +1,1 @@
+#ntcir10 A presentation with "abject failure" in the title: Berkeley shows a bag of words approach for math formula search doesn't work.

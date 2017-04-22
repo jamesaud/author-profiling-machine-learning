@@ -1,0 +1,1 @@
+Fixed-phrase queries can beat NLP in many cases. Dumb, high-precision queries close to an expected answer work well

@@ -1,0 +1,1 @@
+Fighting with a soundcard on some custom hardware we're building - any opinions on the best Linux distro for broad soundcard support?

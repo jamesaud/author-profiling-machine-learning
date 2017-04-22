@@ -1,0 +1,1 @@
+NY Times uses Google search for a first guess for mapping their tags to dbpedia - just what I presented yesterday at #wole2012 :-) #cold2012

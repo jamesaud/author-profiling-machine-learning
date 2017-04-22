@@ -1,0 +1,1 @@
+@PHIL_FISH Can't set number of frames but you can use Assistive Touch to set touch length

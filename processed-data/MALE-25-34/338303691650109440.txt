@@ -1,0 +1,1 @@
+To get the old "new tab page" and a sensible omnibar font back on Chrome 28 (for now): chrome:flags, disable "Enable Instant extended API"

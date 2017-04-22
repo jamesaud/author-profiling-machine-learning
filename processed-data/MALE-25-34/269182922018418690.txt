@@ -1,0 +1,1 @@
+@herberts right. One can only wonder why #Hadoop / related project did not used that. We would be so much ahead today.

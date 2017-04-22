@@ -1,0 +1,1 @@
+Now I got it. The full #Adobe Reader is only available by FTP. HTTP only offers the installer.Too bad if you do not have internet everywhere

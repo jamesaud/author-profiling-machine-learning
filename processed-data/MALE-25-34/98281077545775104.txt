@@ -1,0 +1,1 @@
+@wolf_gregor Make sure they are written to tab AUSP.Do they show in TX BP?Got auth?GenIL class is CL_CRM_BUIL_MKT_ATTRIB. @sjohannes

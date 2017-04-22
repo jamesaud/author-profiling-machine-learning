@@ -1,0 +1,1 @@
+Using computer algebra systems to crunch formula. I discovered a bug in Wolfram Mathematica(R). We need to have certifications of formula!!!

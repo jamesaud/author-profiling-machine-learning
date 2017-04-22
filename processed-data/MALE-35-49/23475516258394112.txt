@@ -1,0 +1,1 @@
+@jagregory @jeremyskinner I also run everything in OSX other than VS, SQL etc which are in VMWare. VM's have between 1 & 1.5GB. Works fine.

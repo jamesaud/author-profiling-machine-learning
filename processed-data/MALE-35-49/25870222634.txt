@@ -1,0 +1,1 @@
+@alfredapp No idea if they have an API available, but if so getting Spotify support into the Powerpack would be great

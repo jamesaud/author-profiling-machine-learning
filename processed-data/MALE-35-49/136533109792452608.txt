@@ -1,0 +1,1 @@
+Could data collection mechanisms do some work locally to reduce the size while increasing the quality of the data stream? #BI #mobility

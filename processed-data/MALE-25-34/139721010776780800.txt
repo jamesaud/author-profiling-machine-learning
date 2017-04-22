@@ -1,0 +1,1 @@
+It is quite shocking to see s/o program the SPLIT command in ABAP manually. Ahh, might have been a good practive ;-)

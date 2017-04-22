@@ -1,0 +1,1 @@
+@hhariri @kkozmic where the api can do something semantically sensible (in the case, returning false), then I'd avoid the exception

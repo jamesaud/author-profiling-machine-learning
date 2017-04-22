@@ -1,0 +1,1 @@
+Limitations of mapReduce - users have to manually specify execution plans #ecir2013

@@ -1,0 +1,1 @@
+@cinefilo funciona mejor que pingdom. Tiene un mejor control del tiempo.

@@ -1,0 +1,1 @@
+A nice summary of Python frameworks for Hadoop, from Cloudera: http://t.co/LSXbY7m1

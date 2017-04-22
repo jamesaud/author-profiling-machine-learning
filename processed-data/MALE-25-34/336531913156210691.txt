@@ -1,0 +1,1 @@
+@MarikaRose @orionedgar @DavidHowey Yes, Mendeley has automatic BibTex export which keeps BibTex files in sync with your document library.

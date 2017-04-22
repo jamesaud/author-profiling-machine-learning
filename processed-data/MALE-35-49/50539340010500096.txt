@@ -1,0 +1,1 @@
+Steve's Law: Big bugs are always found &lt; 24 hours before a big demo

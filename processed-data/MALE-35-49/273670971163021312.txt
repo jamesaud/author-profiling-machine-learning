@@ -1,0 +1,3 @@
+Prof Vaclav Skala gave a nice overview why projective geometry is useful in CG.
+dot and cross are GPU instructions.
+http://t.co/PojVylfL

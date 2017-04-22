@@ -1,0 +1,1 @@
+@Yaamina23 I suppose you would have to save the annotations from Skim/Preview into the PDF somehow - then Mendeley would see them.

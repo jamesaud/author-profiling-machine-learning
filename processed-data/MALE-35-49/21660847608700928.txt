@@ -1,0 +1,1 @@
+@jagregory we're using mnesia but have pretty modest needs. Woyld use couch if needed something bigger

@@ -1,0 +1,1 @@
+Looking for an array-based suffix tree impl in Java.

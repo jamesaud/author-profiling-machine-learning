@@ -1,0 +1,1 @@
+Interesting idea for Image IR: annotate pictures with keywords, then form a caption out of those. Difficult but fascinating

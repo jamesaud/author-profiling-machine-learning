@@ -1,0 +1,1 @@
+This #www2013 paper describes a study of brokers (spanners) that bridge across structural holes in networks. http://t.co/olwpE4dOv0

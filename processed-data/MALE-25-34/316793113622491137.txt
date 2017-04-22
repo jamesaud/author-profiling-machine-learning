@@ -1,0 +1,1 @@
+.@techmilind even worst in memory clusters are slower due to network latency, where my SSD has full Disk to CPU IO.

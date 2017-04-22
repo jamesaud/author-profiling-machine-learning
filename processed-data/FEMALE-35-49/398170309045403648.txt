@@ -1,0 +1,1 @@
+Fail-safe experiments work 4 simple problems. W/ complex problems, U need 2 test coherent hypotheses by safe-to-fail experiments #KMWorld

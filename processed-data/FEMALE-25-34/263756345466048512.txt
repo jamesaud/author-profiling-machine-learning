@@ -1,0 +1,1 @@
+Temporal corpus summarization of publications #cikm2012 using influential documents w/ novelty and spread, timeline, authors and key phrases

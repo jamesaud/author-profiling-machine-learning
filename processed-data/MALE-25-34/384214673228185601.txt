@@ -1,0 +1,1 @@
+@arnoldkim @markgurman if we send user on day 1 to a freemium app. Then again on day 3. And on day 3 the user buys iap from day 1 - counts?

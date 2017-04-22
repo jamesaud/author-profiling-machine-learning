@@ -1,0 +1,1 @@
+@citoki There is no SE16N in any NetWeaver version. Suppose the note will not help.

@@ -1,0 +1,1 @@
+@denisparra Temporal Corpus Summarization Using Submodular Word Coverage by Ruben Sipos et al.

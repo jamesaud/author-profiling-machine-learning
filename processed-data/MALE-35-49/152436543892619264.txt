@@ -1,0 +1,1 @@
+Long.bitCount(a^b) is a fast way to compute the Hamming distance of two binary strings. Challenge: pack as much into 64 bits as possible.

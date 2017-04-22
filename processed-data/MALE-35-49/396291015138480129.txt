@@ -1,0 +1,3 @@
+&gt; library(all_the_libraries) 
+Error in library(all_the_libraries) :
+  there is no package called ‘all_the_libraries’ #mylifeinR

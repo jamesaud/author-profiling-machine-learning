@@ -1,0 +1,1 @@
+@alambert I have a pile of JSON data. Here, Solr, ingest it all, don't make me write code, and don't barf on subobjects etc.

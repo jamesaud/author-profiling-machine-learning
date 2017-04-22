@@ -1,0 +1,1 @@
+@scottkowalczyk I think I gave up and moved to nunit.  If I get chance I'll spin up a project and see if it's started to behave

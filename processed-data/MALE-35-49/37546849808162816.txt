@@ -1,0 +1,1 @@
+First inter-cloud failover from Amazon to rackspace done today - distributed erlang ftw :)

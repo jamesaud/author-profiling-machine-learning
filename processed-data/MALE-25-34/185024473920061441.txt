@@ -1,0 +1,1 @@
+@sapcrm Sadly that note does not help me as I need integration of Lotus Domino 8.5. sGWI Version 5 is Exchange only :-(

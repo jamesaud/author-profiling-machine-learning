@@ -1,0 +1,1 @@
+#statsnerd Geometric mean on IR results, for significance this paper say to test on the log of the data. Correct? http://t.co/NRQhNpt1Fd

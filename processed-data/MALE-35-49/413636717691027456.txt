@@ -1,0 +1,1 @@
+@hadleywickham it's just there's no way to discover what's in those ellipses, short of reading the code. Maybe ggwhatspossible(fn_name)?

@@ -1,0 +1,1 @@
+Our #SIGIR2010 paper is up http://bit.ly/9o6UCq Do user preferences & evaluation measures line up? Answer, yes, & nDCG better than P10 #fb

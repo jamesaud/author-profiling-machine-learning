@@ -1,0 +1,1 @@
+@ChrisWadsen:  Big Data will pull from multiple sources and give multiple "answers" that together create a clearer picture.

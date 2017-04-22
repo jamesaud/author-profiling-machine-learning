@@ -1,0 +1,1 @@
+@djoerd yeah, query latencies of more than a second make for very crabby TREC assessors.

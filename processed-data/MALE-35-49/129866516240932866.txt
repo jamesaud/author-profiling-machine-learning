@@ -1,0 +1,1 @@
+For the combination users, items and tags I guess using something like TripleRank based on tensor analysis would work fine #smuc2011

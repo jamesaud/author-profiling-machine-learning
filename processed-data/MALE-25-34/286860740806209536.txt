@@ -1,0 +1,1 @@
+@cdsouthan @egonwillighagen CUL sync relies on outdated private (and 1-way) API; we want to move everything to our Open API (2-way) instead.

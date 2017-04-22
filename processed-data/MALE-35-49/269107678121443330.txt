@@ -1,0 +1,1 @@
+Session on scalability and parallel processing. Feat. talk by @brokenthoughts from @WeST_Ko on generating benchmark SPARQL queries #iswc2012

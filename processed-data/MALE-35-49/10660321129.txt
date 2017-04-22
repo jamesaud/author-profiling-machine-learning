@@ -1,0 +1,3 @@
+A set S is  infinite iff.there exists a proper subset
+of S which has the same cardinality as S.
+(e.g., the integers and the even integers)

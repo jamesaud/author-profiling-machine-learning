@@ -1,0 +1,1 @@
+Does anyone know if note 938591 for SGWI is still valid in #sapcrm ehp1? It is mentioned in help (http://t.co/3sqPG4vK ) but released 2006.

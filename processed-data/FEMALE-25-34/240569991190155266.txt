@@ -1,0 +1,1 @@
+@krisztianbalog you can use \raggedright (before \bibliography...)

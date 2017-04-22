@@ -1,0 +1,1 @@
+I'll be giving a full-day tutorial on building IR test collections at SIGIR 2013 in Dublin. The course is especially targeted towards grad …

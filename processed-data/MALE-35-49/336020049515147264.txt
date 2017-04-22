@@ -1,0 +1,1 @@
+@joseph_carney not on osx (although 'brew install tmux' works well) - using it when ssh'd into servers since it survives lost connections

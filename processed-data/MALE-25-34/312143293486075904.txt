@@ -1,0 +1,1 @@
+They've changed it, but you can see it in the browser window title. Note the URL slug, too: not-good-enough-entrepreneurs-is-the-problem :-/

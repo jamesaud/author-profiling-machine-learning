@@ -1,0 +1,1 @@
+Learned this weekend: Windows & Linux passwords are 0 security when you have physical access to the PC and Windows is not in a domain.

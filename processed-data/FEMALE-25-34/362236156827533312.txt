@@ -1,0 +1,1 @@
+@milesEfron presenting query translation model across time, supporting search over historical text collections #sigir2013

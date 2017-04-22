@@ -1,0 +1,1 @@
+@jagregory sure - I'm using html/js/jquery templates and access the server via a rest interface using webmachine (a nice rest framework)

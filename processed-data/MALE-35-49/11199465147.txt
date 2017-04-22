@@ -1,0 +1,1 @@
+Qualification test can be uploaded only via API, but accessed lateron from dashboard during task construction

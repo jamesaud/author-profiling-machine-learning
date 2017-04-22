@@ -1,0 +1,1 @@
+Seen two very interesting talks at #eswc2013: one on SPARQL query pattern detection, one on predicate synonymity. Have to read the papers!

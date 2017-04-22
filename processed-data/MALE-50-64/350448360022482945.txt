@@ -1,0 +1,1 @@
+@haldaume3 @jdchoi's clearnlp. Using my package: https://t.co/xA3IfYckAk  All of wsj (~48k sents) in 283 secs on laptop. SRL as well.

@@ -1,0 +1,2 @@
+Clustering histograms a la k-means. Yes, but what distance? Which centroid?
+Jeffreys divergence! http://t.co/DJUIZDnjlT
