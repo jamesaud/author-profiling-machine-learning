@@ -1,0 +1,1 @@
+@kalebdf About a month ago I thought about making an app for that, but don't have the time.   I did find one api: http://api.eventful.com/

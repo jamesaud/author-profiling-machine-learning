@@ -1,0 +1,1 @@
+#PAWCON @scootrous: definitions of data science can over-emphasize software part--you can do good analytics an not know Cassandra (LIKE ME!)

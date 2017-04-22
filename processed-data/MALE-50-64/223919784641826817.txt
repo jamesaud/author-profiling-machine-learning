@@ -1,0 +1,1 @@
+How do you know when the model is ready to deploy? 1) eval metric is good 2) eval metric is not too good 3) you have a 4 pm flight out

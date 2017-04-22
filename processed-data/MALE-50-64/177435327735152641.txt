@@ -1,0 +1,1 @@
+#TAWCon @osamaf hadoop / map-reduce not efficient or effective for statistical modeling (mostly preprocessing for #datamining)

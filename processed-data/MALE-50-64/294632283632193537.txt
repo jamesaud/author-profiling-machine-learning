@@ -1,0 +1,1 @@
+Why is it helpful to know the math behind algorithms? So we know how to and by how much we can break the rules on how they are built.

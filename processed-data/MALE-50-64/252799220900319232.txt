@@ -1,0 +1,1 @@
+#PAWCON @nodexl when do lots of connects not nec. mean influence. Ans: Bridges. Important network quality (Bonding being the other)

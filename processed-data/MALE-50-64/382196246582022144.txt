@@ -1,0 +1,1 @@
+Simpson's Paradox (HT @avinash http://t.co/GtKtvVupVx ) -- good example of how single-variable/stepwise variable selection can fail

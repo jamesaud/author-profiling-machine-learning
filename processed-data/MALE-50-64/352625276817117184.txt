@@ -1,0 +1,1 @@
+Having great success building logistic regression models by first id'ing interactions w/ association rules or decision trees. a win-win-win!

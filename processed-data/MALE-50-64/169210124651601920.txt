@@ -1,0 +1,1 @@
+know 1) level of aggregation applied to all derived fields; 2) what "NULL", 0, and "" mean; 3) time period data was collected

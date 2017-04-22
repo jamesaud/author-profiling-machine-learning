@@ -1,0 +1,1 @@
+A big reason for #bigdata: enough data to segment and build custom for each segment. Context: "Segment" models in Enterprise Miner

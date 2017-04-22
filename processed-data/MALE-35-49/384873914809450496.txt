@@ -1,0 +1,1 @@
+@jf_sheehan you can set the schedule of Buffer updates in the tool. Buffer is nice to not over tweet in a short time period.

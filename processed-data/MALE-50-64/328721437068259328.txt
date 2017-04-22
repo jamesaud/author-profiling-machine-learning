@@ -1,0 +1,1 @@
+1. HT ‏@benhamner #Kaggle competition Whale Detection Competition: baseline 72%, winner 98% PCC; keys: feature extraction and ensembles

@@ -1,0 +1,1 @@
+#RT @knime #KNIME_UGM P.Winters and R:Silipo presenting a time series analysis using NN and AR made faster by #bigdata @DataRush

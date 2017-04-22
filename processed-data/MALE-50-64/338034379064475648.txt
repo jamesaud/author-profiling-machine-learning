@@ -1,0 +1,1 @@
+2) For first-time or extremely rare events (small N), there isn't history for the algorithms to create reliable models, or

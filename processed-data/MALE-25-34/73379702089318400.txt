@@ -1,0 +1,1 @@
+"No one is going to be the asshole who throws trash code on a clean codebase" - DHH

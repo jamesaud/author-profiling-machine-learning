@@ -1,0 +1,1 @@
+(3/3) the fact that bar charts are not great at showing ratios that aren't 1, 2, or 3 is not a surprise. 0.58 is hard to compute.

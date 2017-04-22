@@ -1,0 +1,1 @@
+#pawcon Eric Siegel how can we infer influence, a casual problem. A/B testing or treatment/control. Model over both sets.

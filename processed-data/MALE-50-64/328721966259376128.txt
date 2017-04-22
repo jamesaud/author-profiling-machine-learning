@@ -1,0 +1,1 @@
+3. #Kaggle whale detection competition: also needed to know how to build model #ensembles to win (Stochastic Gradient Boosting in this case)

@@ -1,0 +1,1 @@
+Sometimes we collect data that doesn't drive today's decisions, but will drive tomorrow's once we have enough to build #predictive models

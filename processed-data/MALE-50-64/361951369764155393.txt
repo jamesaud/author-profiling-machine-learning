@@ -1,0 +1,1 @@
+I often see Veracity included as a part of #BigData. The other 3 Vs define big data. Veracity is *always* important, big or small.

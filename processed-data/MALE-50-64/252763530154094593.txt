@@ -1,0 +1,1 @@
+#PAWCON @scootrous: real-world...hadoop is great as a batch system, not good for iterative analytis (use the right tool for the right prob.)

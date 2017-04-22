@@ -1,0 +1,1 @@
+#pawcon @johnelder4 - the figure of merit is key in any automatic (random) search. What is interesting? Hard for computers. Easy for Humans

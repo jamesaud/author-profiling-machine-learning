@@ -1,0 +1,1 @@
+@angus_davidson sadly, the 64-bit OF does not work with video and the 10.6 sdk breaks with the most recent versions of Xcode + OSX!

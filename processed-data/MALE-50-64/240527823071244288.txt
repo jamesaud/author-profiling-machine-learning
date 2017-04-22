@@ -1,0 +1,1 @@
+to say #datamining is  "driven by the analytst" is just wrong. Data Mining algs are data-driven / inductive at the core (trees, NNets...)

@@ -1,0 +1,1 @@
+@jasonrwalters see you've been playing with OSX Mavericks and #openFrameworks. OK for older 10.6 SDK projects as well?

@@ -1,0 +1,1 @@
+#big #data can overcome some problems because we can induce models from data, but it *never* is a substitute for thinking

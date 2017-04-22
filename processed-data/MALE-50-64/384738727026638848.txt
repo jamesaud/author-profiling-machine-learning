@@ -1,0 +1,1 @@
+#pawcon Michael Berry: after awhile, more data doesn't change the stats or models. More data =&gt; more latency; sometimes less is better

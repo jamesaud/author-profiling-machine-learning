@@ -1,0 +1,1 @@
+#pawcon Michael Berry #mapreduce is exactly what we did in the 80s (SIMD computers).

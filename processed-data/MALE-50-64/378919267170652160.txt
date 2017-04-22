@@ -1,0 +1,1 @@
+@tdoyon "Difference between FREQ and WEIGHTS". Thanks for the link--very clear explanation. Money idea: same coeffs, different stats :)

@@ -1,0 +1,1 @@
+#predictive #analytics doesn't tell you the features to create. It tells you how predictive they are (or are not).

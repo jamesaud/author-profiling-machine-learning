@@ -1,0 +1,1 @@
+Playing with Arduino, shift registers and LEDs before moving to shift registers to control animated audio signals. FUN! (wIth Bryan Cera)

@@ -1,0 +1,1 @@
+Thanks @WellsFargo for changing your password requirements.  Mine had an ! in it and now that is an illegal character.  #forcedpassreset

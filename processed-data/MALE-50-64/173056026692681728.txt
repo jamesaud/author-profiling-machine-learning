@@ -1,0 +1,1 @@
+(1/2) The smaller the effect, the more data we need to measure it. More noise-&gt;need more data. High cardinality-&gt;more data.

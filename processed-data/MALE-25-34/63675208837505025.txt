@@ -1,0 +1,1 @@
+Yay @aptana says java.lang.StackOverflowError on copy/paste. Latest update ruined quick code edits :/

@@ -1,0 +1,1 @@
+Using @KNIME for teaching text mining this month. I've been pleasantly surprised at its ease of use. Nice!

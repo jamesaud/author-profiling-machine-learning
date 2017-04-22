@@ -1,0 +1,1 @@
+#PAWcon Edward Nazarko IBM Structured approach =&gt; build databases of all possible Qs and corresponding answers. NLP reduces combinatorics

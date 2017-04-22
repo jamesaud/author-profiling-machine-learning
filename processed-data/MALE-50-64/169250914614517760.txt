@@ -1,0 +1,1 @@
+@metabrown312 Once you know C++, you can pick up Java, R, Perl, etc. easily. SQL is critical in big data; how SQL code is written is diff.

@@ -1,0 +1,1 @@
+(3/3) Models didn't *know* anything. They separated pregnant- from non-pregnant-woman purchase patterns--any of us could probably do it too.
