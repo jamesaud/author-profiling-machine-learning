@@ -1,5 +1,7 @@
 import os, re
 import xml.etree.ElementTree as ET
+from pymongo import MongoClient
+from pprint import pprint
 
 parser = ET.XMLParser(encoding="utf-8")
 file = open('raw-dataset/truth.txt', 'r')
@@ -45,6 +47,7 @@ for file in fileList:
             file = open(status + '.txt', 'w', encoding='utf-8')
             try:
                 file.write(tweet_text_by_id(status, consumer_key, consumer_secret, access_token, access_secret))
+                break
             except Exception as e:
                 errorFile.write(str(e))
             else:
@@ -54,3 +57,31 @@ for file in fileList:
             print("Already written " + status)
     os.chdir("../")
 errorFile.close()
+
+from pymongo import MongoClient
+from pprint import pprint
+
+### CLIENT SETUP ###
+# If running inside python Docker container
+client = MongoClient('mongo:27017', serverSelectionTimeoutMS=1000)
+# Else if running locally
+client = MongoClient('localhost:27017', serverSelectionTimeoutMS=1000)
+
+
+### CODE ###
+db = client.test
+
+# Insert test record
+result = db.restaurants.insert_one(
+    {
+        "test": "myobject",
+        "restaurant_id": "41704620",
+        "category": 'FEMALE-18-24'
+    }
+)
+
+pprint(db.restaurants.find_one())
+
+
+
+
