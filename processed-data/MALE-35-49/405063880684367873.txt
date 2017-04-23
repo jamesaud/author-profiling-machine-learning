@@ -1,0 +1,1 @@
+@swb1192 Another rhetorical question: does Pages really suck ballz at not reflowing layouts dynamically?

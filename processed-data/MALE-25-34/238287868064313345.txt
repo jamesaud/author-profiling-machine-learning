@@ -1,0 +1,1 @@
+"Testing, trial, and error will help you better understand exactly how things work in complex inheritance situations like this. :-)" #nagios

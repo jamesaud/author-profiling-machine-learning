@@ -1,0 +1,1 @@
+"We migrated away from GSA to Solr with filtering and sorting options that we couldn’t offer using the GSA" http://t.co/yYw6BarF

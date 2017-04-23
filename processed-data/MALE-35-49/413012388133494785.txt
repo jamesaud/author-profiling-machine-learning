@@ -1,0 +1,1 @@
+@westy2018 @markgurman iOS 7 footprint + 64 bit apps strain RAM. Why does Safari reload my tabs? Dump files indicate critical RAM

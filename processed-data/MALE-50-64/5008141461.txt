@@ -1,0 +1,1 @@
+SPC2009:Follow-up on 64 bit question: It looks like SharePoint and its search programs are all 64 bit apps. Taps for win32, I guess.

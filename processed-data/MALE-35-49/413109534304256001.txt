@@ -1,0 +1,1 @@
+@westy2018 @markgurman check your device logs, you’ll see ton of low memory warnings

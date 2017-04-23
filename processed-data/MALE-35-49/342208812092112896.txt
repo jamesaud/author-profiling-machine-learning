@@ -1,0 +1,1 @@
+@SAPInMemory Are there any materials or for teaching Hana? I'm going to give a "big data" course &amp; wonder how students can play with it. Thx

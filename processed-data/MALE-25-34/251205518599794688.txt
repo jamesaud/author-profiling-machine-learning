@@ -1,0 +1,1 @@
+@SQLPerfTips Hatte ein ähnliches Problem mit year(date) bei einer 350 Millionen langen Tabelle :-/

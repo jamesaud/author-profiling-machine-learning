@@ -1,0 +1,1 @@
+New in @tweetbot version 3.2:  swipe left across the navigation bar to switch to your next Twitter account

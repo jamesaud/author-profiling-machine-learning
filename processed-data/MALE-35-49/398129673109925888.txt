@@ -1,0 +1,1 @@
+@nelson I did it on my old iMac with a clean reinstall of lion. I wrote a blog post detailing steps, I bet it can be replicated on 10.9

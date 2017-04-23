@@ -1,0 +1,1 @@
+I'm making headway in wordpress. But still not sure when I use &lt;markup&gt; and when to use [markup].

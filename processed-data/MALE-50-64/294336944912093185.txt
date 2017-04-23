@@ -1,0 +1,1 @@
+#Solr 4.1/ Solr Cloud released, ready to d/l. Everything you need to  set up a production quality search environment http://t.co/d96Naj5j

@@ -1,0 +1,1 @@
+Quality assessment of XML search reports show acceptable results in comparison with TIFF version. Aim: no more TIFFa for text data. #EPOdata

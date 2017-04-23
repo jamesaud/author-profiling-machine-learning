@@ -1,0 +1,1 @@
+“@codeplex: There is currently an Azure outage that is affecting our mercurial and git repositories.  Wow... Curious about that!

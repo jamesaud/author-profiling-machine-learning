@@ -1,0 +1,1 @@
+Interesting tool coming soon from Microsoft: LightSwitch. Write web/cloud/desktop apps using a Visual Studio paradigm. http://t.co/XbQ3mL8

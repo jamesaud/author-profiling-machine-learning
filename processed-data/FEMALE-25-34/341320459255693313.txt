@@ -1,0 +1,1 @@
+#TimeOnTarmac = 50 minutes #TimeInAir = 45 minutes Sounds about right...oh wait.

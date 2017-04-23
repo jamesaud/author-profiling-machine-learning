@@ -1,0 +1,1 @@
+“@atlassian: New Blog! Learn what you need to know about the new Git 1.8.2 release: http://t.co/RxJlSBrOAN”

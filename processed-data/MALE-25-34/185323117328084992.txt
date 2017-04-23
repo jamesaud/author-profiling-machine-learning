@@ -1,0 +1,1 @@
+Der Aufwand in einer alten #PHP App herumzuhacken ist so groß - ein Refactoring in #Perl würde nicht viel länger dauern. #legacy #code

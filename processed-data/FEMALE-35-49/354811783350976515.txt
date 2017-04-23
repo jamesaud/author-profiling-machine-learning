@@ -1,0 +1,1 @@
+@nrose some show a close button in top left, others top right, others are click to see menu.

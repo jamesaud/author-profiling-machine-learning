@@ -1,0 +1,1 @@
+@JakeOSmith No, this is not the universal binary. I’ve checked with the developer, Apple has not yet posted the new build

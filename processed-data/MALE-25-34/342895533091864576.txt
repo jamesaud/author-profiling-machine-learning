@@ -1,0 +1,1 @@
+"Paper: Memory Barriers: a Hardware View for Software Hackers" http://t.co/05AWeJj26X

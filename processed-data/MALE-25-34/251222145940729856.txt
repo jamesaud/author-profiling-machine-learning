@@ -1,0 +1,1 @@
+@SQLPerfTips War eine MySQL Datenbank und meine Lösung war genau so wie du sie beschrieben hast. Faktor 1000 schneller natürlich.

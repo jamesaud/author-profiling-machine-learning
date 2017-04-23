@@ -1,0 +1,1 @@
+SPC2009: Real advantage of the MS cloud: mix and match what components are local and which are in the cloud; SQL Server local and cloud apps

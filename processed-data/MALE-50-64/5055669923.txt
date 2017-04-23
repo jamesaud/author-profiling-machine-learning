@@ -1,0 +1,1 @@
+SPC2009: Major usability improvements in FAST in SP - it looks like index profile can generally be updated in real time w/o re-index/etc

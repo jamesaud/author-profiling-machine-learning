@@ -1,0 +1,1 @@
+@sippey check and tweak the "schedule" part of the app/site in a few days to give it hints when you wake up and go to sleep (heat on, off)

@@ -1,0 +1,1 @@
+@adr @gruber There feels like too much mental friction for me, like writing in Wiki CamelCaps style. I prefer straight HTML as dumb as it is

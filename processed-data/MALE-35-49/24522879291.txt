@@ -1,0 +1,1 @@
+N-gram model based auto-completion for easier letter authoring? Try http://scribe.googlelabs.com/ - #nlp #publishing

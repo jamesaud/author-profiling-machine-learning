@@ -1,0 +1,1 @@
+@HootSuite_Help I try to connect via Hootsuite to Linkedin and it's not possible. I insert user and password and it's not capable connect

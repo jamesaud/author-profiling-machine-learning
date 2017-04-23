@@ -1,0 +1,1 @@
+C# 5 really made asynchronous programming a lot simpler to handle using await and Async #.net development

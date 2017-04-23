@@ -1,0 +1,1 @@
+I really have to do a alias ssg=ssh on all my jumphosts :-)

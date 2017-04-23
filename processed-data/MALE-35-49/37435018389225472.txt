@@ -1,0 +1,1 @@
+Question answering for machine reading: evaluating inference @ #CLEF 2011: http://celct.fbk.eu/QA4MRE/index.php #QA #questionanswering #NLQA

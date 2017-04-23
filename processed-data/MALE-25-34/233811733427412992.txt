@@ -1,0 +1,1 @@
+Finally managed to put my command line Active Directory phonebook on #github ; It took me only years ;-) #perl #ldap #microsoft #linux

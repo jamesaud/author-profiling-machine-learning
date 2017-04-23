@@ -1,0 +1,1 @@
+@benbrown hack idea for lunchbot: use IFTT to check your location via Find Friends app, weight restaurants based on your real-time loc.

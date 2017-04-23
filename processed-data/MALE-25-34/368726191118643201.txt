@@ -1,0 +1,1 @@
+Again turned off some #SAP/#Oracle instance and turned on some #SAP/#DB2 instance. Life is wonderful, isn't it? Of course on #redhat #linux!

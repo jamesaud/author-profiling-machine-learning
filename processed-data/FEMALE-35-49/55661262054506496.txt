@@ -1,0 +1,1 @@
+I just discovered the Flickr app on Mac is a bit 'thick' it doesn't know if I float a document over it, it's supposed to open.

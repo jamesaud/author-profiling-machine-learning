@@ -1,0 +1,1 @@
+Simian (Similarity Analyser) identifies duplicate code in Java/C#/C/C++/COBOL/Ruby/JSP/ASP/HTML/XML/Visual Basic/Groovy http://bit.ly/hibFr8

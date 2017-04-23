@@ -1,0 +1,1 @@
+@alan_parkinson As long as you don't have a customised setup with AD integration and your own plugins ;-) But yes. It's quite easy!

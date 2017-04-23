@@ -1,0 +1,1 @@
+@lkwolek I think Retina on iPhones will stay at 326ppi, they’ll just up the resolution as the screen size changes.

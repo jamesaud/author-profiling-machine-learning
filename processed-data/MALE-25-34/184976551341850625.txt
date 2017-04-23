@@ -1,0 +1,1 @@
+#EPO modernising infrastructure & architecture; away from mainframes, towards Linux boxes,w SOA on Java/groovy/Grails

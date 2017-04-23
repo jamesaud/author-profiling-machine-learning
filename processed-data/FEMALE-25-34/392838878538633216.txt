@@ -1,0 +1,1 @@
+I accidentally hit “Don’t Allow” for Fantastical in Mavericks. Now I can’t get it to access my calendars. Is there a way to change this?

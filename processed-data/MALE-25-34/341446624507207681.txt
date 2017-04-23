@@ -1,0 +1,2 @@
+Thanks to @tokutek #TokuDB this query finished in a reasonable time:
+Query OK, 133166776 rows affected (6 hours 14 min 43.20 sec)

@@ -1,0 +1,1 @@
+@matteraf @tokutek Insert statement, copying the data from one table to the archive table.

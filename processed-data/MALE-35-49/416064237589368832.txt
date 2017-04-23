@@ -1,0 +1,1 @@
+@sufferfest Yeah, it's weird it gave off the wrong error code, but once I fixed one issue, the battery one started displaying an error.

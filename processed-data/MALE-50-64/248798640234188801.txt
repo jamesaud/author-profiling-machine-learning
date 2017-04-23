@@ -1,0 +1,1 @@
+How tokenizing gives you beter handling of model numbers and versions in enterprise search http://t.co/iJpXhhhl

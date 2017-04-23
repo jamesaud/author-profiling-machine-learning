@@ -1,0 +1,1 @@
+IE11 supports WebGL, gains better debug tools http://t.co/hBM8tLzuB6

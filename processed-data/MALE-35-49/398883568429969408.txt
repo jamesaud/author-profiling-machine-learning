@@ -1,0 +1,1 @@
+@nelson oh good call. Now I need to figure out how to go from usenet download, unpack, assemble to a remote Linux box all from my phone.

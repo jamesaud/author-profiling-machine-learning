@@ -1,0 +1,1 @@
+New in @AirServer 5.0: record a screencast (on your Mac) of what’s showing on your iOS device via AirPlay Mirroring

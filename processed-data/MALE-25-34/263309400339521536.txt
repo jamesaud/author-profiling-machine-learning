@@ -1,0 +1,1 @@
+Every time I have to parse #HTML, I'm no longer upset about parsing #XML - at least not that much. #perl #programming

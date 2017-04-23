@@ -1,0 +1,1 @@
+@alsutton Not joining the largest pool only removes the possibility of a 51% attack. It doesn't affect you mining efficiency.

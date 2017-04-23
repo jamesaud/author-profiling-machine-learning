@@ -1,0 +1,3 @@
+@bryanboyer @benbrown does Ghost remove the little wysiwyg shortcut buttons? I've never used it. 
+
+I'd say go with WP + supercache.

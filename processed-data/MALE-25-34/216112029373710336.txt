@@ -1,0 +1,1 @@
+Jordi Marcé-Nogué: new methods for solving size effects in the comparisons of 2D Finite Element Analysis #10thEAVP #eavpteruel

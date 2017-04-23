@@ -1,0 +1,1 @@
+@hostgator is it common to lose just a portion of a Wordpress database?

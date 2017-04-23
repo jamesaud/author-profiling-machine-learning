@@ -1,0 +1,1 @@
+Teaching myself wordpress. I can build a site in html/css, I can leverage templates to make it responsive. But bugger if I can't do it in WP

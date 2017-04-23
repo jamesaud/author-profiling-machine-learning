@@ -1,0 +1,1 @@
+@joescales @Jish @nest yeah it threw out a disconnect error until I unplugged/replugged it, then low battery error. Could've been smarter.

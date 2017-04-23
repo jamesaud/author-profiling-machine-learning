@@ -1,0 +1,1 @@
+Catching up on clusters/clouds, #hadoop / #mapreduce and computer security.

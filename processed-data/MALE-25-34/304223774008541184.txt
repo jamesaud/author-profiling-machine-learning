@@ -1,0 +1,1 @@
+Amazon Redshift is 10x faster and cheaper than Hadoop + Hive http://t.co/XQMteduG

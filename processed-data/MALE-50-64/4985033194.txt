@@ -1,0 +1,1 @@
+SharePoint Server 2010 includes expanded MOSS functionality; FAST Search for SharePoint is new search based on FAST ESP.

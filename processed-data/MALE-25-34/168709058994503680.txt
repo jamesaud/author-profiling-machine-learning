@@ -1,0 +1,2 @@
+Faster? #systemd: Startup finished in 2s 387ms 120us (kernel) + 1s 817ms 925us (initrd) + 15s 965ms 888us (userspace) 
+= 20s 170ms 933us.

@@ -1,0 +1,1 @@
+Since I updated the @automatic app today, it now won't process my latest trip, keeps failing. Filed a report.

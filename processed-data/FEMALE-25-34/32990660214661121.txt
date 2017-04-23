@@ -1,0 +1,1 @@
+using the time i should be designing for updating the &lt;embed&gt; tags on my website to &lt;object&gt;s.  html 5, this is all for you, baby.

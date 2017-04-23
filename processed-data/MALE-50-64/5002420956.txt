@@ -1,0 +1,1 @@
+SPC2009:FAST ESP for SharePoint only available on 64 bit platforms; not positive about SharePoint Server 2010 (hence Search Server)

@@ -1,0 +1,1 @@
+Searchdev MuseGlobal: cool solution. But all the examples they gave were non-secure sites! Security is the hard part of federation!

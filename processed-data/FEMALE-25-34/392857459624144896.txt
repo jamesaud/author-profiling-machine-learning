@@ -1,0 +1,1 @@
+Then I saw that it wasn’t given access to Reminders, so I checked that off (and Calendars for good measure), and now it works.

@@ -1,0 +1,1 @@
+iPhoto for Mac updated with stability and performance improvements, fixes an issue that could cause print previews to render incorrectly

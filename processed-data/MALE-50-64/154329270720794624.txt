@@ -1,0 +1,1 @@
+How LucidWorks differs from Apache Lucene/Solr releases? A pretty objective guide from Lucid Imagination http://t.co/lJviFBLu

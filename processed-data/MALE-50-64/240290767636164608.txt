@@ -1,0 +1,1 @@
+@waze It isn't clear whether that mutes navigation guidance only, or all sounds (still want traffic/police alerts, re-routing sounds, …)

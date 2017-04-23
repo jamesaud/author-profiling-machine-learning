@@ -1,0 +1,1 @@
+@bryanboyer @benbrown don't get me started on markdown image references. You can still write HTML for the nutty markdown stuff.

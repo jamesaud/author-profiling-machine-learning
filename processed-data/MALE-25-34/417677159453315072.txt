@@ -1,0 +1,5 @@
+#Nagios love:
+* Checked 16594 services
+* Checked 1111 hosts
+* Checked 20532 service dependencies
+#monitoring

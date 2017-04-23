@@ -1,0 +1,1 @@
+@tomcoates I tried everything! (x10, insteon, etc) and WeMo finally got it right enough to work. Now to install two wall switches + motion!

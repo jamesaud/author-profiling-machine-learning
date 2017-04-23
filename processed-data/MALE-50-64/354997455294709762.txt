@@ -1,0 +1,1 @@
+#ICCBR 2013 kicks off with Igor Jurisica of Ontario Cancer Institute on "Scaling up CBR for Big Data applications". Big as in curing cancer.

@@ -1,0 +1,1 @@
+@_Greggor all bars have been removed if it doesn't work on restart then see an O2 guru in shop maybe the sim has been compromised

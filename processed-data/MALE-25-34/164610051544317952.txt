@@ -1,0 +1,1 @@
+Apache HTTP Server 2.2.22 Released - fixes a lot of CVEs. #apache #cve #security #http

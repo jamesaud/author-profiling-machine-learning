@@ -1,0 +1,1 @@
+@gopago even with push notification on, still cannot enter promo code.  Also program keeps crashing

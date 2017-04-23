@@ -1,0 +1,1 @@
+Man kann schon absurd komische und undurchschaubare Konstrukte in #Perl bauen. :-) #fun - for me :-)

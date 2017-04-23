@@ -1,0 +1,1 @@
+@spinthma @SQLPerfTips In 5 years SAP will have reinvented the wheel again and it will not be HANA ;-)

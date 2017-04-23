@@ -1,0 +1,1 @@
+Done POC on chat app using Silverlight5,WCF &amp; http://t.co/rTYKr3RH0K.I'd to make a special bridging b/w silverlight &amp; http://t.co/cmsMQffShl

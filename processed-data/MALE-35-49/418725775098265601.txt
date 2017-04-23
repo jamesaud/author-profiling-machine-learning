@@ -1,0 +1,1 @@
+@Jim_Gresham Well, now that MobileSubstrate is 64-bit, let’s see new/existing tweaks optimized for iOS 7.

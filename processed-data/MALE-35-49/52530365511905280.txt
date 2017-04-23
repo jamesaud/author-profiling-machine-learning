@@ -1,0 +1,1 @@
+#Scala in 4 pages - a cheat sheet: http://bit.ly/hKTisN - #functional #lambda #programming #development #coding

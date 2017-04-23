@@ -1,0 +1,1 @@
+Wcf cloud service based on TCP endpoint with duplex binding has been successfully configured and deployed on Azure...soon write a blog post

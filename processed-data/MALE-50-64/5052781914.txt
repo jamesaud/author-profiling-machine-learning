@@ -1,0 +1,1 @@
+SPC2009: FAST finally talking about running in virtual systems, would like 4GB per vm; the guys are still nervous about high speed disks

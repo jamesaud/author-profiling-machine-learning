@@ -1,0 +1,1 @@
+@bcherraoui They only need to update Mavericks video drivers to support 4K at 60Hz, this is from Windows via BootCamp

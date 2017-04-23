@@ -1,0 +1,1 @@
+@AppleNicholas it falls back to SMS so it doesn’t matter if I’m messaging iMessage-enabled contact or not

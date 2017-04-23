@@ -1,0 +1,1 @@
+@gruber You could keep stuff in old school MT, just apply layout rules based on a selected category ("essays" = big type/margins, etc)

@@ -1,0 +1,1 @@
+#Scala and #Hadoop in action at #LinkedIn: http://bit.ly/9eXA7h - #cloud #grid #clusters #mapreduce

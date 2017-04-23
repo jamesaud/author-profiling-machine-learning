@@ -1,0 +1,1 @@
+@SQLPerfTips Number 52 and 153, but at least they are there. Of course also using "normal" MySQL, PostgreSQL, Oracle and DB2.

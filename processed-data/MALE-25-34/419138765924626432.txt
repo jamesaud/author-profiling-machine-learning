@@ -1,0 +1,1 @@
+@bootstraphunt how can I disable ajax calls? I'm integrating the template into a rails application and use the rails remote call. Thx!

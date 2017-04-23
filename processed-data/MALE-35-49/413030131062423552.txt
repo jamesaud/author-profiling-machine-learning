@@ -1,0 +1,1 @@
+@jbenton Yeah, I think it's a word-wrap CSS bug from the right column's list of other Bits blog posts.

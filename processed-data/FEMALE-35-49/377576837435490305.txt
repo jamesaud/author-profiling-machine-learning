@@ -1,0 +1,1 @@
+Must not let computer go to sleep - cannot interrupt download.

@@ -1,0 +1,1 @@
+NIPS workshop on distributed #learning http://videolectures.net/nipsworkshops2010_learning_cores/ #cloud #grid #cluster #machinelearning

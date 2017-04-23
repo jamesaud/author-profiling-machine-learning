@@ -1,0 +1,1 @@
+“@climagic: shopt -s histappend # Put in .bashrc to retain history across multiple open sessions to the same system. Thx @Ryan_Frantz”

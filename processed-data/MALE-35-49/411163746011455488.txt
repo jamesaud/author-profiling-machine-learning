@@ -1,0 +1,1 @@
+Note that posts that stay in the requests queue “may become unavailable”, as per the FAQ http://t.co/361gQsiqaX

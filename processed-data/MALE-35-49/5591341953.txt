@@ -1,0 +1,1 @@
+@ibmsysxblade: How can you plug in 6x 1 TB SATA drives into an X8255 e-Server's hot swap bays (I don't need the hot swap property)? Thanks.

@@ -1,0 +1,1 @@
+Cool article about entity extraction (property extraction) in FAST Search for SharePoint (FS4SP) bit.ly/gJziNK

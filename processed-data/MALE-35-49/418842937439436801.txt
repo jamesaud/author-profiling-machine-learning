@@ -1,0 +1,1 @@
+@davidgagne previous versions did crash a lot, the latest is pretty good.

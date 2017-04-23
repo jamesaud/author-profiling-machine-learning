@@ -1,0 +1,1 @@
+#Encryption less secure: "wrong" flavor of entropy used in #security analyses, MIT researcher found http://t.co/R6dpxzH7fO #InfoSec

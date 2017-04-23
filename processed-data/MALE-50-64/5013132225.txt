@@ -1,0 +1,1 @@
+SPC2009: FAST Search for SharePoint retains the ESP paradigm of predictable scalability using rows & columns of servers. Whew!

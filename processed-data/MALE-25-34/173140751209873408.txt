@@ -1,0 +1,1 @@
+@scottsanchez MiniKeePass is quite good. Password file in Dropbox and open in KeePass on Win/Lin/OSX/iOS always in sync ;-)

@@ -1,0 +1,1 @@
+when passwords are stored as md5 in the database http://t.co/Np9JoP57hV #thecodinglove

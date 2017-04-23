@@ -1,0 +1,1 @@
+@gopago there's no way to go back and enable PUSH notifications, even if you re-download it

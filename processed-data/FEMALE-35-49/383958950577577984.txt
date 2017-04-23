@@ -1,0 +1,1 @@
+So Gmail drafts have stars next to them, but you can't star the content because it's a draft...bad UX there.

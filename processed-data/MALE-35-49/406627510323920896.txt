@@ -1,0 +1,1 @@
+@joeljohnson Go to Settings/Notifications/Twitter in iOS, turn off updates to random people (I had 42 users set to notify me)

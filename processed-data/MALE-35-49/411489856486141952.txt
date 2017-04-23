@@ -1,0 +1,1 @@
+ARM’s acquisition of Geomerics doesn’t mean a thing as Apple uses GPUs from Imagination Technologies, not ARM

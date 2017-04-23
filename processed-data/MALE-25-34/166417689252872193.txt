@@ -1,0 +1,1 @@
+“@MyICTCloud: A fault tolerant system must report the faults even as it tolerates them.”

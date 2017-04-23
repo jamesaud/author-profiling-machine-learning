@@ -1,0 +1,1 @@
+Boolean is the correct way of working with #IT, right? Either it works or not. But with #monitoring there are several maybe states :-/

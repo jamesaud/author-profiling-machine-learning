@@ -1,0 +1,1 @@
+An open source tool for accessing Google Search Appliance results using Visual Studio/C# application. http://t.co/he81ioC

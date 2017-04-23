@@ -1,0 +1,1 @@
+@stliba Thanks, it's working, but it's too slow as well :/

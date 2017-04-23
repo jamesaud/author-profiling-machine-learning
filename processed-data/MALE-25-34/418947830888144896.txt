@@ -1,0 +1,1 @@
+#Snagastool is a neat new service that is like OpenTable for barstools. "We're just trying to make going to the bar a little easier"

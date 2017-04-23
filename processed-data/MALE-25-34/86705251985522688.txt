@@ -1,0 +1,1 @@
+something i didn't know: SSD drives only have a lifespan of 5-10k erase-write cycles - bad for enterprise servers. http://t.co/vqJJhb0

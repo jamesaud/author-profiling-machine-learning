@@ -1,0 +1,1 @@
+Help : changed permalinks on a blog major mess, googles, I tried the .htaccess fix no fix  can I manually relink the pages working from mac

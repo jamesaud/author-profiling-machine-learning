@@ -1,0 +1,1 @@
+Remember to QA your staging site for "no index" tags prior to launch. or you'll lose traffic. I learned that the hard way for BBB #SMXEast

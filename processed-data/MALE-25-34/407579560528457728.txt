@@ -1,0 +1,1 @@
+WCF Duplex messaging does not support WP8 ... let's check SignalR

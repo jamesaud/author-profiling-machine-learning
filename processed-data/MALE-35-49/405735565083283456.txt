@@ -1,0 +1,1 @@
+Another @tweetbot tip: to switch between Day/Night when Auto-Night is enabled, change brightness in Control Center until it hits a threshold

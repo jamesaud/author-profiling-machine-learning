@@ -1,0 +1,1 @@
+Note to devs: time zone apps should have pretty UI that tells me how many hours different locations are ahead or behind me. Make sense?

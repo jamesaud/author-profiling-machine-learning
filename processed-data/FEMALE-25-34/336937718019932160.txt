@@ -1,0 +1,1 @@
+@Seamless the list for vendors is not loading correctly (based in Sf)

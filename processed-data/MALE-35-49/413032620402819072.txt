@@ -1,0 +1,1 @@
+@waxpancake @jlax Or the YouTube Capture app could require horizontal orientation, throw a warning when you shoot portrait.

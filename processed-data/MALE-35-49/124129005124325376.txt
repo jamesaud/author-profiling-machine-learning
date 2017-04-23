@@ -1,0 +1,1 @@
+Mavuno: A Hadoop-Based Text Mining Toolkit - http://t.co/Sv77FSXN (hat tip to Isabelle Moulinier) #NLP #IR #IE #datamining

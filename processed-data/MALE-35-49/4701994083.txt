@@ -1,0 +1,1 @@
+After Scala, Clojure also targets the JVM ( http://bit.ly/TdOnl ) is JVM the "new POSIX"?

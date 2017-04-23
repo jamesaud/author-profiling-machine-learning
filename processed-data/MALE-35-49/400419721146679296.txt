@@ -1,0 +1,1 @@
+@IFTTT I could probably build a bot to RT my swearing or create a private API call via JSON or something. I wish it was easier though!

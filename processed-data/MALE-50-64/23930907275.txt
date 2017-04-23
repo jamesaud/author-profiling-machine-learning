@@ -1,0 +1,1 @@
+Ah not 'search as you type': it predicts the likely final query based on partial input.. and shows the results. Much easier to do I suspect!

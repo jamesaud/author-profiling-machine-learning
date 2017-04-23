@@ -1,0 +1,1 @@
+@vivinocom 2) it shows ratings from previous year. if i change year, i get zero ratings. it should show aggregrate ratings across all years.

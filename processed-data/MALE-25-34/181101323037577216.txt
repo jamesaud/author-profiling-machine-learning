@@ -1,0 +1,1 @@
+@iahmedamer perl -e 'print scalar reverse("...erus rof llehS dna lreP tub ,cibarA oN")' 8-)

@@ -1,0 +1,1 @@
+SP2009: moving from end user to developer tool; local hardware to cloud; and intranet sites to internet/web facing sites.

@@ -1,0 +1,1 @@
+@IFTTT Is there any way to fire a trigger when I tweet a word? All the RSS twitter search tools seem retired by their API.

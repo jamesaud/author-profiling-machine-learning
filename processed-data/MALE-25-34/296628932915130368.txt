@@ -1,0 +1,1 @@
+Nagios stats: 3680 hosts / 22750 services. like!

@@ -1,0 +1,1 @@
+twitter needs a way to break feed into categories. It would be easier to track topics. A scrolling news feed makes it tough sometimes.

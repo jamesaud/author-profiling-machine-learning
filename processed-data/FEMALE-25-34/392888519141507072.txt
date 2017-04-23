@@ -1,0 +1,1 @@
+I'm not sure I like the new cross fade animation on 7.0.3 but then again that could just be because I was used to the zooming transition.

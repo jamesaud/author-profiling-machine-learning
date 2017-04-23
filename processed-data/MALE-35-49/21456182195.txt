@@ -1,0 +1,1 @@
+"BashReduce": installation-free reimplementation of MapReduce in 126 lines of Bash code: http://github.com/erikfrey/bashreduce/ - #mapreduce

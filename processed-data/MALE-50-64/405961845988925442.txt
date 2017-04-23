@@ -1,0 +1,1 @@
+Cassandra (massively scalable, column family NoSQL database solution) explained in 5 Minutes - @credera http://t.co/bE5gfv0Oos

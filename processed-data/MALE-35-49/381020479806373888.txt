@@ -1,0 +1,1 @@
+@mobilevikingsBE the activation web page is not working: "We're sorry, but this feature is currently unavailable."

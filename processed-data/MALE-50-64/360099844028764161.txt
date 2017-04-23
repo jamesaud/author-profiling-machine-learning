@@ -1,0 +1,1 @@
+well, @gotomeeting having issues today..try to log in on www and get 'org.springframework.web.client.ResourceAccessException: I/O error'

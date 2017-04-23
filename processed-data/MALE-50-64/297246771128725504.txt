@@ -1,0 +1,1 @@
+Solr4.x not required for #bigdata - unless you need to find content

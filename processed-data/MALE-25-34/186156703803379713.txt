@@ -1,0 +1,1 @@
+@ofalk and what did i forget in my 2 node cluster setup? of course: no-quorum-policy="ignore" 8-/

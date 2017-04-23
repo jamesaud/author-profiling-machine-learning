@@ -1,0 +1,1 @@
+Quicksort in the programming language #J (and I thought #Perl was write-only): quicksort=: (($:@(&lt;#[) , (=#[) , $:@(&gt;#[)) ({~ ?@#)) ^: (1&lt;#)

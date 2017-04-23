@@ -1,0 +1,1 @@
+#AWS #CloudFormations makes fun! Reworked lots of #Python Code into a "simple" template. #amazon #ec2 #cloud

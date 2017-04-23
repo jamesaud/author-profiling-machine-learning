@@ -1,0 +1,1 @@
+@climagic And the number of directories, else you want to use -type f as well.

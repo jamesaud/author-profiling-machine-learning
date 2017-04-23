@@ -1,0 +1,1 @@
+On the fly migrated from #ucarp to #corosync and #pacemaker - some of my friends will like this success story for sure ;-)

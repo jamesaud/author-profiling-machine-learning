@@ -1,0 +1,1 @@
+from a diner: "can i get 4 gyouza for the price of three? can you do that?" "sorry, no."

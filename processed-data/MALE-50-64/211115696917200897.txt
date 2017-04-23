@@ -1,0 +1,1 @@
+Slides from Lucene Revolution - Lucid blogger  Mark Miller - SolrCloud Architecture - sharding, replication, zookeeper http://t.co/nMoEKoKp

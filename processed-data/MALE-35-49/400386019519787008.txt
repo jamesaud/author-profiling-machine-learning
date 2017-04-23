@@ -1,0 +1,1 @@
+@torrez @_ I got hard crashes the first couple weeks of iOS7, now I get half crashes. Maybe faulty USB? (happens while connected to things)

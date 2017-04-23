@@ -1,0 +1,1 @@
+@westy2018 safari tab reloading is due to low memory because of iOS 7 RAM footprint. iOS 6 doesn’t reload as much. iOS 7 needs more RAM

@@ -1,0 +1,1 @@
+@CNNMobile Odd design choice: the panel button is in upper-right yet the sections get listed in the lefthand menu. http://t.co/1GFaVBEjbI

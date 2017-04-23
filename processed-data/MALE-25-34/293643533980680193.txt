@@ -1,0 +1,1 @@
+“@paulrobichaux: Turns out "Java" stands for "Just Another Vulnerability Announcement."”

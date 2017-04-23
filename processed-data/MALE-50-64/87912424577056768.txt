@@ -1,0 +1,1 @@
+Interesting technical slide set/intro to Lucene/Solr  illustrates the control you have & need in this cool search tool. http://t.co/LFSHCWT
