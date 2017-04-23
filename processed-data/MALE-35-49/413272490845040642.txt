@@ -1,0 +1,1 @@
+@cpinto don't suppose you know how to import email addresses via csv to Streak? Not working for me and I don't expect help from @Streak

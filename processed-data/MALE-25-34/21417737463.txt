@@ -1,0 +1,1 @@
+Better question: Why do Adobe Forms crash on non-Unicode systems when they get ISO-8859-1 encoded strings that contain special chars?

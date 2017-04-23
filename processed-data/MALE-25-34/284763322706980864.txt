@@ -1,0 +1,1 @@
+@rmounce @citeulike @rafaelsidi Sorry, should've been clearer. We're retiring private sync methods and APIs for our Desktop and iOS apps..

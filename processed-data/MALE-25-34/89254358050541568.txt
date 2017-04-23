@@ -1,0 +1,1 @@
+Anyone worked with #sapcrm EHP1 Action Menu using DesignLayer? I am getting actions displayed, but I can not click them.

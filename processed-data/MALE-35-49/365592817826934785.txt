@@ -1,0 +1,1 @@
+In my personal Gmail replying to a sent email it is sent to the person I was emailing, but in my Gapps account it is sent back to me.

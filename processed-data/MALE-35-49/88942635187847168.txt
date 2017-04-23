@@ -1,0 +1,1 @@
+Found a 7MB sharepoint config database.  With a 12GB logfile!!!

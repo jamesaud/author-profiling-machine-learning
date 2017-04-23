@@ -1,0 +1,1 @@
+@wolf_gregor @roelvdberge The COMPONENT_LOADING BAdI is the way to go. Queried during runtime and in workbench. Hard to put in 160 chars ;-)

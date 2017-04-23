@@ -1,0 +1,1 @@
+I want to search Twitter for "thisword" but Twitter insists on returning results for "this word" which is irrelevant. Not possible?

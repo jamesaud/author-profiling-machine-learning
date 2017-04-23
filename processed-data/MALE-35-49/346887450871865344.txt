@@ -1,0 +1,1 @@
+Getting qrels cheaply by splitting topic into sub-topics &amp; merging search results. Sounds a bit like trels from an old CIKM paper #evia2013

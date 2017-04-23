@@ -1,0 +1,1 @@
+@VZWSupport Very happy! I ported 2 number.Only issue was it asked me for my account info from att, but didn't ask on 2nd line for wife.

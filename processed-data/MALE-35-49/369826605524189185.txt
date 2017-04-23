@@ -1,0 +1,1 @@
+@alambert Yeah, read that file in the tarball. I'm a little past the hello-world stage of search. Is there real docu anywhere?

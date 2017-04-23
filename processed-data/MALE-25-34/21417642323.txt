@@ -1,0 +1,1 @@
+Does anyone know how to convert special characters that were encoded to ISO-8859-1 back to UTF-8? ABAP converters won't do :(

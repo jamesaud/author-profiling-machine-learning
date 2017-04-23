@@ -1,0 +1,1 @@
+@ian_soboroff yeah there are some  optimizations, but it's a bit amusing that the authors propose I do exactly what I hoped to avoid

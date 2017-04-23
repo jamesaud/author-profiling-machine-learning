@@ -1,0 +1,2 @@
+Graphs vs. SQL. Interview with Michael Blaha 
+@odbmsorg  @SparsityTech #graphdb http://t.co/sLHiQYu5LZ

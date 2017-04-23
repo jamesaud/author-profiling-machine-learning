@@ -1,0 +1,1 @@
+Working on my third post CRM 7 EHP1 upgrade. Always the same problem with enhanced components and inactive services. #sapcrm

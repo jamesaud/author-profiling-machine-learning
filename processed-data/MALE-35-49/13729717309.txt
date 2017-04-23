@@ -1,0 +1,1 @@
+BIBEX (Bibliographic exploration demo application): new user interface release.  http://ow.ly/1J51V   #in #dexgdb #graphdb #nosql

@@ -1,0 +1,2 @@
+Neat and elegant. 
+The Bhattacharyya Metric as an Absolute Similarity Measure for Frequency Coded Data

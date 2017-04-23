@@ -1,0 +1,1 @@
+Making my way through Infosets in SQ02. Anybody an idea how I can restrict those JOINs with a WHERE condition? #sapcrm

@@ -1,0 +1,1 @@
+It was working fine.  Until it decided to forget the differences. Loading up my Customer Dev Env to find vanilla Win7 was a real shame :(

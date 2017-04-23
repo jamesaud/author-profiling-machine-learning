@@ -1,0 +1,1 @@
+@Livefyre Any reason why guest comments don't appear in my WP admin? They also aren't reflected in my theme's comment count.

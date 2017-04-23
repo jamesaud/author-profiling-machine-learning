@@ -1,0 +1,1 @@
+Examples for parsing real world questions for better results (opposing to standard web search)

@@ -1,0 +1,1 @@
+@wilto @paul_irish @beep @scottjehl Having seen a web type fail this morning, I’m thinking maybe #1 (old FF behavior) was best.

@@ -1,0 +1,1 @@
+Lesson learned today: an arbitrary text field #relevance should not be flagged as gold #crowdflower

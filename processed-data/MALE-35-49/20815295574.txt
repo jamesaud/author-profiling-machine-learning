@@ -1,0 +1,1 @@
+@rmeza If it really turns out that N != 1 we will have to revisit every theorem proved by induction

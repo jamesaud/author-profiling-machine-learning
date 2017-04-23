@@ -1,0 +1,1 @@
+@wolf_gregor and probably show more than 10 lines for Overviewpages. For Formviews always show Fielddetails an Available fields. #sapcrm

@@ -1,0 +1,1 @@
+service hadoop-lead-guitar strat

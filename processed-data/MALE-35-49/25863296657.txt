@@ -1,0 +1,1 @@
+@kkozmic I agree; I find that even well written unit tests make refactoring hard. Of course, maybe my idea of "well written" is at fault :)

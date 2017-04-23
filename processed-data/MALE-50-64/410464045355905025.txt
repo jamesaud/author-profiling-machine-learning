@@ -1,0 +1,1 @@
+"Atwood's Law: Anything that can be written in JavaScript *will* be written in JavaScript." @adactio #aeasf

@@ -1,0 +1,1 @@
+Worst thing about ABAP method chaining: It works only with functional methods. No IMPORTING supported :-(

@@ -1,0 +1,1 @@
+@communicating Sutton & McCallum's CRF tutorial assumes some ML and stats knowledge, but is quite good http://tinyurl.com/afkq5m

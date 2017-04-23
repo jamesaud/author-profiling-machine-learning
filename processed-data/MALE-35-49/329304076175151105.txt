@@ -1,0 +1,1 @@
+When the need to hyper-scale dictates #cloud, how to maintain and manage data? The LinkedIn example #Iwork4dell (#EDW13)

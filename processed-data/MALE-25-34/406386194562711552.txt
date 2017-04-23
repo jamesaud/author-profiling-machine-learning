@@ -1,0 +1,3 @@
+@juanjera entonces hay dos cosas:
+1) Los JS no están metidos como deben en el sistema (wp_enqueue_script)
+2) Recomendado usar WP SuperCache

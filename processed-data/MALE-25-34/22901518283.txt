@@ -1,0 +1,1 @@
+Nerd Alert: Has anybody successfully gotten their Mailchimp subscriber count to reflect in their Feedburner chicklet count?

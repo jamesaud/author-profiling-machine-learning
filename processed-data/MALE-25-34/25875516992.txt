@@ -1,0 +1,1 @@
+@thomas_jung I am quite sure you already tried, but does not changing the include sequence of the libs help? Normal case: Last include wins.

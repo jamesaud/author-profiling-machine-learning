@@ -1,0 +1,1 @@
+Seems as if #ABAP does not allow recursive data structures :-( How do I model my folder with subfolders with subfolders... now?

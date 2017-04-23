@@ -1,0 +1,1 @@
+Wuhu. Customer went live with #sapcrm EHP1. System up and running. Still issues with dumps in shared memory. 500 MB just is not enough :(

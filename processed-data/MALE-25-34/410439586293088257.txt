@@ -1,0 +1,1 @@
+Who would have thought that #SAP delivers a solver for linear equations with every installation out of the box!?

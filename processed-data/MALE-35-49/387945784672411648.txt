@@ -1,0 +1,1 @@
+.@streak is a fantastic CRM for Gmail, sadly hamstrung by Gmail's sometimes illogical grouping of email conversations with different people.

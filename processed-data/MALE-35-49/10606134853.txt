@@ -1,0 +1,2 @@
+Additive and non-additive entropy with java source code:
+http://blog.informationgeometry.org/

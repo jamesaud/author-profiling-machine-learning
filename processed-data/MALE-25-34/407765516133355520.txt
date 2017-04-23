@@ -1,0 +1,1 @@
+Y con Jetpack 2.6 llega Jetpack Monitor, un avisador de caídas gratuito. Farewell, pingdom :) http://t.co/hT65acDz6s

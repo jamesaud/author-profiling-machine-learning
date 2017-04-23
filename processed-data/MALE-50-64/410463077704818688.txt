@@ -1,0 +1,1 @@
+"Use JavaScript to enhance; don't make it mandatory. Use progressive enhancement so if your JS goes down, site still works." @adactio #aeasf

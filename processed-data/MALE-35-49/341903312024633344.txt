@@ -1,0 +1,1 @@
+Bulk-loaded HBase right up to the fall-over point.  Wow, not graceful.

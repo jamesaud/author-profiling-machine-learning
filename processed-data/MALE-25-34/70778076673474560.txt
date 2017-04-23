@@ -1,0 +1,1 @@
+@wolf_gregor Customer wants it as a simple link.This way it integrates smoothly in CRM fields just using GET_P method.No extra window opened

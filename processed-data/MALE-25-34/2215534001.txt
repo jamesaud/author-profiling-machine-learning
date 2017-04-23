@@ -1,0 +1,1 @@
+alrighty - deal is that contacts are wiped but they are restored once you make a connection to the email address that you are synced with

@@ -1,0 +1,1 @@
+Spectral hashing looks strong, but I won't build an affinity mx for millions of docs and run PCA. How big a sample is needed to beat LSH?

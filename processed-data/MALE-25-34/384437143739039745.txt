@@ -1,0 +1,1 @@
+@ryanbarresi yeah I tried css blur, but the performance in the phone was pretty bad.   At least for me.

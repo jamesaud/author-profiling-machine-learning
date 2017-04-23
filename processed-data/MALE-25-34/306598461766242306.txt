@@ -1,0 +1,1 @@
+Awesome, as more #Hadoop distros as better, since eventually each Hadoop will run a @Datameer. @intel, we welcome you to the big data market

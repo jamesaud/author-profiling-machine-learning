@@ -1,0 +1,1 @@
+Apply earlier in the rolling start point rather than the deadline.

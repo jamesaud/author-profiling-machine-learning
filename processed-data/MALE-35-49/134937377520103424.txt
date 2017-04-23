@@ -1,0 +1,1 @@
+11/11/11 11:11:15 INFO mapred.JobClient:  map 100% reduce 37% ... if I only had started the job 4 seconds earlier ... #111111 ... #hadoop

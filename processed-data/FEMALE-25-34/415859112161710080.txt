@@ -1,0 +1,1 @@
+What can we use MapReduce for search? See "MapReduce in Search" presentation by @atveit (Xoogler &amp; Memkite Founder) http://t.co/ozEGC2anra

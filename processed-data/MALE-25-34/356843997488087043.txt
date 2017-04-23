@@ -1,0 +1,1 @@
+@se38 Really wondering if this helps in readability of ABAP. Inline DATA declarations... Do you know if ABAPDoc works for SAP GUI as well?

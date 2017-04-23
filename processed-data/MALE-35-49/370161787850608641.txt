@@ -1,0 +1,1 @@
+@kgustafson hey, you using Lightroom 5? Any idea why I'm getting heinous noise on exported images that I don't see in the Develop panel?

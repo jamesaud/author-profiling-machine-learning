@@ -1,0 +1,1 @@
+@ShaneHudson I removed navigation and sidebars to help Reader’s focus on content. Footer nav is a concession to reality.

@@ -1,0 +1,1 @@
+@alambert I mean, for a shiny wrapper around Solr, it would be nice to know how to use the shiny.

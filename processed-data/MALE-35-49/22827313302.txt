@@ -1,0 +1,1 @@
+anyone know how to dynamically add a node to an erlang distributed application? #erlang

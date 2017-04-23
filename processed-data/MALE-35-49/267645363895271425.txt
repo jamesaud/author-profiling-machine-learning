@@ -1,0 +1,1 @@
+#sw2022 static ontologies are a blocker for the read-write web---I think: composing a vocabulary from various sources you are quite flexible

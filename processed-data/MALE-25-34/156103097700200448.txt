@@ -1,0 +1,1 @@
+Why does Win XP place a blinking cursor in an input field, but I can not type until I manually click it with the mouse?

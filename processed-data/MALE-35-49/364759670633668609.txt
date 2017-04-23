@@ -1,0 +1,1 @@
+@craig_macdonald thx. that's helpful for me. Thinking about making APIs for TREC collections.

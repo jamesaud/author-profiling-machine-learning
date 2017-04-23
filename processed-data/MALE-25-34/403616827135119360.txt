@@ -1,0 +1,1 @@
+Finally finished my #Avisynth script to turn SBS 3d into line-interleave 3d for #Fujitsu P23T-6 FPR 3 using Media Player classic :-)

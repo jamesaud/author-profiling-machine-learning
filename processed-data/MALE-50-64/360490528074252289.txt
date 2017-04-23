@@ -1,0 +1,1 @@
+#agrichat Q5a Data collection and management is a major hidden cost in agrifood, and is not used effectively (prediction, analytics, etc.)

@@ -1,0 +1,1 @@
+@thomas_jung Calling the noConflict() function in jQuery should take care of any conflicts. http://api.jquery.com/jQuery.noConflict/

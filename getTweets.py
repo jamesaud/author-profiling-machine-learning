@@ -28,6 +28,7 @@ def tweet_text_by_id(id, consumer_key=None, consumer_secret=None, access_token=N
     tweet = api.get_status(id)
     return tweet.text
 
+<<<<<<< HEAD
 
 errorFile = open('errorlog.txt', 'a')
 for file in fileList:
@@ -81,7 +82,5 @@ result = db.restaurants.insert_one(
 )
 
 pprint(db.restaurants.find_one())
-
-
 
 

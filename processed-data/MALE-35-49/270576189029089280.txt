@@ -1,0 +1,1 @@
+About to start building a POC in ColdFusion, leveraging the Singly API's. This should be fun.

@@ -1,0 +1,1 @@
+Introduction to adjacency lists (sic) in the tutorial on semantic data management in graph dbs at #eswc2013

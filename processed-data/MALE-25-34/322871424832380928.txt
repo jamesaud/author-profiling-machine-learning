@@ -1,0 +1,1 @@
+@nthmost As per my last tweet - we have always supported import/export in standard formats (XML, RIS, BibTex) and will continue to do so.

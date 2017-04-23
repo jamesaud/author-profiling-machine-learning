@@ -1,0 +1,1 @@
+@chris_brockett @ccb Yes to nltk. And there's a lot of community-created support material out there for it.

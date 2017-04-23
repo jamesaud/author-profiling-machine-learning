@@ -1,0 +1,1 @@
+Does anyone know a BAdI or the like where I can adjust values of BUT000 when/before a BP is saved? Stop saving would be great, too.#sapcrm

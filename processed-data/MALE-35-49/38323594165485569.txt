@@ -1,0 +1,1 @@
+after 5 minutes, it discovered that I could click the cancel button, and do the same job from the command line in ~10 seconds

@@ -1,0 +1,1 @@
+@awashtell just bind to the local address, then no one external will be able to even see you. Much like the casini web server does

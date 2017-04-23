@@ -1,0 +1,1 @@
+How can I "teach" IE the nth-child() property of CSS3 ? Fear it is not supported until IE9 and I do need it for 7 and 8.

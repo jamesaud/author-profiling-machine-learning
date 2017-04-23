@@ -1,0 +1,1 @@
+Did anyone come up with a good solution to do drag and drop of files to Internet Explorer? Want to upload Images directly from clipboard.

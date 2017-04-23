@@ -1,0 +1,1 @@
+I though the sql server install was bad. Turns out the intellisense support is even worse

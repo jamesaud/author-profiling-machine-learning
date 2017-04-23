@@ -1,0 +1,1 @@
+@wolf_gregor nice! Thought about a parser myself for some time after abap2xslx came up. Though it is parsing CRM Configs to Excel and back.

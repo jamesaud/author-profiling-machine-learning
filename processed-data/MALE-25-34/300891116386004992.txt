@@ -1,0 +1,1 @@
+Using persistent classes as API for a GenIL component... Now even modification of standard will not help. How am I going to set my data?

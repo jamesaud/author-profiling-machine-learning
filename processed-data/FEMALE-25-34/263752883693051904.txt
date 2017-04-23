@@ -1,0 +1,1 @@
+The book search dataset (queries, clicks) from the Open Library project http://t.co/zXD7W3Ir is available for research #cikm2012 Henry Feild

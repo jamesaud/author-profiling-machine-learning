@@ -1,0 +1,1 @@
+Yesterday was our first end to end test of our erlang system, big customer demo due on wednesday, all looking good :)

@@ -1,0 +1,1 @@
+Book review: Hadoop in Action by C. Lam 2010, a #hadoop cookbook very well-written w/ clear explanations using simple yet practical examples

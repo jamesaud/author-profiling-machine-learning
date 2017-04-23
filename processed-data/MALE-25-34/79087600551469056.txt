@@ -1,0 +1,1 @@
+Recieved answer to one of our #sapcrm OSS messages. Summed up: We know its broke but we are not gonna fix it in CRM 6. Upgrade to CRM 7 EHP1

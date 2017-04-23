@@ -1,0 +1,1 @@
+Worst coding seen today: Someone redefined a method with the remark that only then it calls other redefined methods. (They are not private!)

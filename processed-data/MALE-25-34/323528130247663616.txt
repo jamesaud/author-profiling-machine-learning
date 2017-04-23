@@ -1,0 +1,1 @@
+@cyrilleadam iOS app that doesn't suck is coming soon, including note/highlight functionality :-) We'll also start Android app development.

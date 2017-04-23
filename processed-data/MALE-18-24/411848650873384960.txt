@@ -1,0 +1,1 @@
+Tengo un problema muy raro con VLC, al reproducir video cada 2 minutos el audio se silencia unos segundos. Os ha pasado?

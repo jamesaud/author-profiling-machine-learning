@@ -1,0 +1,1 @@
+"User stories" = basis 4 a develop't project. They define who, what &amp; why (biz value). Also a "definition of `doneness.'" #INFO11 #ILTA13

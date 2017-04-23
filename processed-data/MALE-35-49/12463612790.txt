@@ -1,0 +1,1 @@
+Old evaluation paper full of ideas: cumulative gain; ranked biased Kendall Tau; nasty maths, something for everyone: http://bit.ly/bu0hOf

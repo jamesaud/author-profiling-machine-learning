@@ -1,0 +1,1 @@
+@Streak shortcut could be ability to add/edit emails associated with a Box.

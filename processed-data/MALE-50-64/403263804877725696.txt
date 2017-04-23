@@ -1,0 +1,1 @@
+.@bmike @bokster1 Resetting the SMC is what killed my home iMac last week. (Letting it sit unplugged 2 days brought it back to life.)

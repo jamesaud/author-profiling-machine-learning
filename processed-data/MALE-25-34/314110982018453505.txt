@@ -1,0 +1,1 @@
+@wolf_gregor @tsanstef @roelvdberge Do you have a screen shot? I suspect CSS rendering error. Try a different Style in WebClient. #sapcrm

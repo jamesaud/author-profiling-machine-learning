@@ -1,0 +1,1 @@
+@jluiscontreras7 @luisrull algo en el wp-config.PHP no está como debe. Revísalo :-)

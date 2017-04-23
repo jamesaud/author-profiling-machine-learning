@@ -1,0 +1,1 @@
+@ZEPfilms no entiendo como puede crear 100 GB de renderizado si los archivos que estoy usando son 23GB. Alguna idea?

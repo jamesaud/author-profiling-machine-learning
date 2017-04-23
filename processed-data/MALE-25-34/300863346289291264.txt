@@ -1,0 +1,1 @@
+Wondering if starting Virtual PC with an image from external USB HDD is faster than from encrypted 2,5" internal HDD.

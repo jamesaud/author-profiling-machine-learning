@@ -1,0 +1,1 @@
+@wolf_gregor Or to put it short. It will be one of the C functions in the kernel ,-)

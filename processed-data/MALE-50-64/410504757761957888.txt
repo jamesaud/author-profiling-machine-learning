@@ -1,0 +1,1 @@
+.@jayseeg Well, there was the day a script failed to load on the "Download Chrome" page, and there was no HTML fallback. @adactio

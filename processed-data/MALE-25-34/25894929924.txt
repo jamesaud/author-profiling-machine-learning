@@ -1,0 +1,1 @@
+Finally! Found the error and solved another of my SDN threads by myself. SAP documentation is worse in some places :(

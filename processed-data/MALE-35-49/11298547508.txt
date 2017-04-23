@@ -1,0 +1,1 @@
+Next NLP-Parser: Google / Michael Ringgaarg's Parser. Code example for the easy access to the parser. Very good efficiency

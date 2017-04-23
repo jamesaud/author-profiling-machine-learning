@@ -1,0 +1,1 @@
+@lousylinguist For case tht small-sample large-search-space is xctly what biology  does, L. Valiant's recent "prob approx correct" book

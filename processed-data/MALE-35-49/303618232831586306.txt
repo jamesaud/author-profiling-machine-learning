@@ -1,0 +1,1 @@
+@sharelatex I'm used to writing LaTeX in Emacs. Kind of a shock to have an editor without even find/replace. Where to begin?

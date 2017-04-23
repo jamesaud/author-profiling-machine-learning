@@ -1,0 +1,1 @@
+@dagda1 It does indeed; hql can handle way more than ICriteria

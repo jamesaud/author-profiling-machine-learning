@@ -1,0 +1,1 @@
+Next example: query classification task for AMT Showing how to get data into templates, List with headline query maps to $query in template

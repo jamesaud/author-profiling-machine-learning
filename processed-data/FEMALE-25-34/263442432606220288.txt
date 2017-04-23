@@ -1,0 +1,1 @@
+#cikm2012 paper by I. S. Altingovde et al. is being presented and shows 11K queries randomly selected from AOL logs have no results!

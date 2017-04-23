@@ -1,0 +1,1 @@
+Objetivo; mandar jQuery UI a tomar viento, lo odio con todas mis fuerzas. Y después, jQuery en general, Zepto me ha ganado el corazón.

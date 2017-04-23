@@ -1,0 +1,1 @@
+Some webpages cause my Chrome to hang for 1-2min. How can I debug? Maybe plug-in problem?

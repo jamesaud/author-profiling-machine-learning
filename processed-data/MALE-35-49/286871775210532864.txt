@@ -1,0 +1,1 @@
+@tetsuyasakai an intro to IR evaluation; history, methods, tricks, pitfalls. I'll need P+R but otherwise, metrics are yours. ;-)

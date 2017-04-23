@@ -1,0 +1,1 @@
+checking out yahoo pipes to aggregate #rss feeds.. any thoughts on the service? http://pipes.yahoo.com/pipes/

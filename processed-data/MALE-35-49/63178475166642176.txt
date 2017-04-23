@@ -1,0 +1,1 @@
+Now Harald Reiterer: Facet Streams and Search  Tokens. Seems to focus on user interaction with IR systems

@@ -1,0 +1,1 @@
+@richiedaly if no vote button it's because someone has voted from that IP or that machine in the last 7 days.

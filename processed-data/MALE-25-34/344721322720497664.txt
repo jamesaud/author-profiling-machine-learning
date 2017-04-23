@@ -1,0 +1,5 @@
+After an hour of testing, isolates which of two third-party RAM sticks was causing kernel panics
+
+Puts it together with the working one
+
+ARG

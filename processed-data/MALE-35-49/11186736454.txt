@@ -1,0 +1,1 @@
+Suggestion on evaluation: via output, outcome, involving environment outside the system (e.g. relevance is outside)

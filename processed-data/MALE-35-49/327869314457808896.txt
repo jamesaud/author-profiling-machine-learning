@@ -1,0 +1,1 @@
+I'm running 6 shard servers and 22 Hadoop mappers feeding the shards using SolrCloud, commit'ing when the mapper completes.

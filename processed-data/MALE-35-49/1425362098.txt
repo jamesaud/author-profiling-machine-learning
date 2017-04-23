@@ -1,0 +1,1 @@
+@onpm: Search in Y! Mail working fine for me

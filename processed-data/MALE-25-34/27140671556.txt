@@ -1,0 +1,1 @@
+Is it possible to use add. settypes (like in products) for order header? The EEWB documentation claims something like this.#sapcrm

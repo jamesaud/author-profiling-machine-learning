@@ -1,0 +1,1 @@
+Just to clarify, My first Ruby "project" consisted of one file. It just outputs some values from an XML file. Little acorns and all that :)

@@ -1,0 +1,1 @@
+Been using backbone.js today, quite liking it but surprised how much boilerplate code needed in a collection view's render method

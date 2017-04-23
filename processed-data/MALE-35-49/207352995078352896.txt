@@ -1,0 +1,2 @@
+In Java, you can force garbage collector with System.gc();
+It was effective for my problem today -:)

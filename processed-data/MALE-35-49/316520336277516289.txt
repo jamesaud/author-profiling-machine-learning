@@ -1,0 +1,1 @@
+@leifos @lintool makes a great point often overlooked. Powering and cooling data centers is expensive. Efficiency is a big deal.

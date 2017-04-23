@@ -1,0 +1,1 @@
+I am reading proof of the Weiszefeld iterations for approximating the Fermat-Weber point. Many papers were wrong and add corrigendum!!!

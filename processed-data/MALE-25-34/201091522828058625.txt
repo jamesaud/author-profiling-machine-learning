@@ -1,0 +1,1 @@
+Now for an infuriating one, 14 digits of this beta key are scrambled (Only the first 0 and 3 are in the right place): 0011-2234-489B-BDDE

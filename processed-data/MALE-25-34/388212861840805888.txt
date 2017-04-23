@@ -1,0 +1,1 @@
+Wonderful programming: LOOP AT... next statement is a CHECK. Why do we have LOOP with WHERE conditions again? #ABAP

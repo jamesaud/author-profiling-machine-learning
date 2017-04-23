@@ -1,0 +1,1 @@
+Twitter search tool revisited: ReSearch.ly supports temporal, geographic, sentiment analytics of up-to 1,000 days of Twitter data!

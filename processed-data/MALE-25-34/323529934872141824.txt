@@ -1,0 +1,1 @@
+@cyrilleadam We decided to rewrite from scratch to move to our Open API, which also lets 3rd-party devs sync notes/highlights. Will be free!

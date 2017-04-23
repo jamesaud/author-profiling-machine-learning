@@ -1,0 +1,1 @@
+Searcher types: search novices, domain experts, search experts, medical librarians. Fields: search experience, domain knowledge

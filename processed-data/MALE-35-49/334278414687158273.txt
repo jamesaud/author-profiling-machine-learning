@@ -1,0 +1,1 @@
+@IR_oldie the geo mean is equal to the arithmetic mean of the log of the values. It's a data cleaning method, essentially.

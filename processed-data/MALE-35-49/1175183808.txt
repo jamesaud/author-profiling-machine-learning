@@ -1,0 +1,1 @@
+First success at gradient based optimization for mixture model parameters for known-item finding. Yes, it's maximizing mean-reciprocal rank.

@@ -1,0 +1,1 @@
+@whatterz We are considering it for next year. Also, new API methods coming soon will make 3rd-party apps much more powerful.

@@ -1,0 +1,1 @@
+@tristanwalker @mikster we just moved from Skype to Hipchat. No comparison. Main benefit is retention of old messages sync'd everywhere.

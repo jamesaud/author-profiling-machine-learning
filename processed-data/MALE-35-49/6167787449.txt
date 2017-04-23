@@ -1,0 +1,1 @@
+Fragen per NLP aus Text generieren = inverse QA ??? #bcmz

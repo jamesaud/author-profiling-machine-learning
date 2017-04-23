@@ -1,0 +1,1 @@
+It seems @evernote Chrome web clipper has decided my ' button is a shortcut to take a screenshot, which is *very* annoying when typing.

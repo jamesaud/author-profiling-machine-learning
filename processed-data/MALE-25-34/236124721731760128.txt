@@ -1,0 +1,1 @@
+@MKTitsworth It's a server-side update. Should be available in your Mendeley Desktop right now!

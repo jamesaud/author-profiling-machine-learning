@@ -1,0 +1,1 @@
+If I got it right: represent a user via his tags in delicious and model him as a document. Classical approach VSM and cosine for docs/users

@@ -1,0 +1,1 @@
+Dear #SAP developer: It is great you use method chaining in your ABAP! But please remember to catch exceptions from all methods.

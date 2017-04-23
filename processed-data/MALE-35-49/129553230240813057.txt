@@ -1,0 +1,1 @@
+Presentation on "Citation count prediction". Let's see how it relates to discussion length prediction of @mattroweshow #ictrobust #cikm2011

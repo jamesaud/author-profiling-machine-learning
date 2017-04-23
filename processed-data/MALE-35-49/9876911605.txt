@@ -1,0 +1,1 @@
+@ryanqnorth I'm too lazy to build an n-gram lang model of T-Rex's speech from http://tinyurl.com/qwantz-transcripts #qwantzle

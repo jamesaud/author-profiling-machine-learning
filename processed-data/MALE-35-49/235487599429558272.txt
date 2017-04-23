@@ -1,0 +1,1 @@
+#sigir2012 @BHecht really cool spatial visualisation of search results: maps, periodic tables, where senators sit in congress.

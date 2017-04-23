@@ -1,0 +1,1 @@
+@otisg regarding walking directories to find cores: can i stitch together independent cores built w/ same schema into a single SolrCloud?

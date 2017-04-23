@@ -1,0 +1,1 @@
+#sigir2012 @mdr talking about open geist: a tool that processes Wikipedia trend data.

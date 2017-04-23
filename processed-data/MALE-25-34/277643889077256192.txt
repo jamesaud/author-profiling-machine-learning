@@ -1,0 +1,1 @@
+@sangsara Usually when I tap, it loads above the marker. After about 4 taps though, it loads below, removing the old tweets

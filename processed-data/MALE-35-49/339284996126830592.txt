@@ -1,0 +1,1 @@
+"There must be more to a SW application than using a triple store" #eswc2013 keynote by Enrico

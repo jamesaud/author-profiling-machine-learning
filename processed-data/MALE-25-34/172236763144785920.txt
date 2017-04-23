@@ -1,0 +1,1 @@
+Anybody problems with OSS today? Anytime I try to open a note I get a "500 - Dispatching Error" #sap

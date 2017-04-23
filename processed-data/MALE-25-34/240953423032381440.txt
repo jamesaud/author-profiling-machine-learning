@@ -1,0 +1,1 @@
+@lucagrandicelli It produces a fatal error. I have the latest version of wordpress. Line 80.

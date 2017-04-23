@@ -1,0 +1,1 @@
+@NeilRobbins Not perfect, but should give an idea.  Note that the "List ++ [Item]" construct isn't great if your lists are big

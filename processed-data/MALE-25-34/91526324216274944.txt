@@ -1,0 +1,1 @@
+@sapcrm Thanks, but I already found the solution. SAP note 1575422. Go to get used to the new component CA-WUI-UI no longer CRM.

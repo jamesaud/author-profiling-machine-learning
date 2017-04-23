@@ -1,0 +1,1 @@
+@communicating Query language should be simple but unambiguous.  Could HOW MANY be valid query terms?  Might quotes be misleading (phrases)?

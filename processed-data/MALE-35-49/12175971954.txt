@@ -1,0 +1,1 @@
+My Amazon EC2 image reads user data on creation to run a batch of experiments, uploads the results to my server, then terminates itself. #in

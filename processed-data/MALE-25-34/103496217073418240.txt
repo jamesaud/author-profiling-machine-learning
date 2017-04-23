@@ -1,0 +1,1 @@
+Anyone know how to assign a user ID to an employee in SAP CRM 7 EHP1? In WebClient fields are locked. Do not want to use TX BP. #sapcrm

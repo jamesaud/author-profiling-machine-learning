@@ -1,0 +1,1 @@
+@zach Did you do any speed tests on the stanford NER when you played with it?

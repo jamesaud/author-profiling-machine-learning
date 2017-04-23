@@ -1,0 +1,1 @@
+Anybody know where is the difference between a manual mouseclick on a button in CRM WebClient and javascript call: button.click(); ? #sapcrm

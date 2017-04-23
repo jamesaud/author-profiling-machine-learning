@@ -1,0 +1,1 @@
+@MarkNijhof cos if I go for colemac, i'd need to install a keyboard layout on each machine i remote into. And I remote a lot!

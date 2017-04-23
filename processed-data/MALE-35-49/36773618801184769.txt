@@ -1,0 +1,1 @@
+@mikehadlow more the approach to distributed processing and resilience, the functional nature is just an extra bonus

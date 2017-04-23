@@ -1,0 +1,1 @@
+@miketrick when two plugins interact... once I even had an infinite loop :(  But I should've had react when I noticed weeks ago. No excuses!

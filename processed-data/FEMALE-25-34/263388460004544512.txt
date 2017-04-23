@@ -1,0 +1,1 @@
+Tweet recommendation presented by @fabreetseo. User interests are estimated from history tweets w/ models of bag-of-word and bigram terms.

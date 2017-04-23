@@ -1,0 +1,3 @@
+Turnes out developers actually do not like SQL that much.
+https://t.co/V8khcKvVmv 
+So why do we duck tape SQL on Hadoop than?

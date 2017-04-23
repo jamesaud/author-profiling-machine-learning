@@ -1,0 +1,1 @@
+#cikm2012 posters accepted w/ @noervaag: Estimating Query Diff. for News Prediction Retrieval; L2R Search Results for Time-Sensitive Queries

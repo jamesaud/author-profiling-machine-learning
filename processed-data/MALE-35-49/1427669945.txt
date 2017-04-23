@@ -1,0 +1,1 @@
+At Big Dog Coffee, writing about inverted indexes to support fast element parent/child query constraints.

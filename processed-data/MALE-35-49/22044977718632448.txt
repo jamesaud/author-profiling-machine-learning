@@ -1,0 +1,1 @@
+@adymitruk @adronbh bah, recently been working on a project that had over 6000 lines in a stored proc.  Truly horiffic!

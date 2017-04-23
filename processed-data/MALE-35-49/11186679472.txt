@@ -1,0 +1,1 @@
+Interaction with environment: "something" passes the system boundary. We are interested in information, say transmitted by messages

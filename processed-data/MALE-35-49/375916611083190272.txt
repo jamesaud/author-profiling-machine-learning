@@ -1,0 +1,1 @@
+@fabien_gandon most of those bots fight spam or deliver automated messages, so for understanding native user behavior we filter.

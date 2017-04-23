@@ -1,0 +1,1 @@
+@drummondreed on data portability: "When you have your data in a form that you control the API and you control the Terms of Service" #C32011

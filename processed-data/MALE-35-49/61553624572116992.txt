@@ -1,0 +1,1 @@
+@mikehadlow Erlang (full vm, language, database etc) comes in at 85MB. No IDE, but emacs is only another 35MB :)

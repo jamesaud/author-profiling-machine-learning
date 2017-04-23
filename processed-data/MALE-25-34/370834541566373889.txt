@@ -1,0 +1,1 @@
+Too much vor SAP: "The specified regulöar expression ".*(=0D|=0A|=0A=0D|=0D=0A).*" is too complex." I did not put the 'ö' there ;-)

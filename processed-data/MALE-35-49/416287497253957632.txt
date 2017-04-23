@@ -1,0 +1,1 @@
+It's not BeautifulSoup for Java, but it comes pretty damn close: Jsoup http://t.co/VCVqBYoqe1

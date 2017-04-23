@@ -1,0 +1,1 @@
+#IRFC paper on link between standard deviation & bounded effectiveness scores; high SD guarantees middling score http://bit.ly/96Ah14

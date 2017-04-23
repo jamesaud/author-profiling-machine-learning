@@ -1,0 +1,1 @@
+Collecting twitter data of densely connected users. Need to implement Oauth to have more requests per hour.

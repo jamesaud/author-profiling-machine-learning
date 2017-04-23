@@ -1,0 +1,1 @@
+Salesforce learning curve climbed and I have successfully integrated our mailing platform in appex. Happy sigh

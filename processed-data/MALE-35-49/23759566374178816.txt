@@ -1,0 +1,1 @@
+@jagregory @JeremySkinner learn one that is on many sysyems. That pretty much narrows it down to emacs or vim; both are excellent editors

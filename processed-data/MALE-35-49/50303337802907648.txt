@@ -1,0 +1,1 @@
+Really wish Rackspace could image & launch new servers faster. Testing first-time-boot code is tedious in the extreme

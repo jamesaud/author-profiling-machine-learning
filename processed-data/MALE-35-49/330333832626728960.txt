@@ -1,0 +1,1 @@
+Contrary to the SIGIR 2013 program just posted, I will not be giving a tutorial about Matt Crane (U Otago), but rather on test collections.

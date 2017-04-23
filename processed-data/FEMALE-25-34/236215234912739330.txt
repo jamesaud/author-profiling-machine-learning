@@ -1,0 +1,1 @@
+@mdr 2nd talk is about LifeMining: predicting popular *future* activities in Twitter, very interesting work! #taia2012 #sigir2012

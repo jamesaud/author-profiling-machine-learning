@@ -1,0 +1,1 @@
+@kwelle Das Sentiment Wörterbuch heißt ANEW : Affective Norms for English Words. Paper dazu ist von Bradley und Lang.

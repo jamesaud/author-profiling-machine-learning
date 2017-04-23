@@ -1,0 +1,1 @@
+@saadkamal We determine the odds for a tweet to be retweeted. high odds -&gt; interesting. More details on that http://bit.ly/iqwqNT

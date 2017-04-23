@@ -1,0 +1,1 @@
+@AndyNico_ That’s strange. And you’re certain you didn’t set your linked_list_url custom field to be google?

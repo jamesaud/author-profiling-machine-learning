@@ -1,0 +1,1 @@
+Hmm... Mailserver is configured to send out under any domain and it is highly trusted... Some system admins make me worry.

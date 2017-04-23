@@ -1,0 +1,1 @@
+#bigdata Usage in Web Search tutorial by R. Baeza-Yates, Y. Maarek: Query "Research" Sessions, cutting queries not by time but task #www2013

@@ -1,0 +1,1 @@
+Mobile first approach for ASDA (RIP websites). If content doesn't render on mobiles, it's time to go home! @Dom_AsdaPr #SMWF

@@ -1,0 +1,1 @@
+@MarkNijhof plus, for a couple of erlang files that i analyzed, the difference between colemac & dvorak was minimal

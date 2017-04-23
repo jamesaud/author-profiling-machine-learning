@@ -1,0 +1,1 @@
+Identify top relevant dates for a given implicit temporal query using different temporal similarity measurement by Campos et al. #cikm2012

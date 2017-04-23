@@ -1,0 +1,1 @@
+@esjewett Thouht tables would be handled as references as well and only copied after first change. Read sth like that a while ago.

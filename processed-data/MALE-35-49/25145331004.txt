@@ -1,0 +1,1 @@
+Somewhat ashamed that my last NHibernate commit was the 7th July. How do folk find enough time for OSS projects?

@@ -1,0 +1,1 @@
+My guess: there is not one sentiment flow approach that works for all kinds of documents. Twitter != Blogs != News articles #smuc2011

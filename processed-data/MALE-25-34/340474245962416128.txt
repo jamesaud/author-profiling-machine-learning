@@ -1,0 +1,1 @@
+@hbunke That's very strange - when you delete your account, all personal info (incl. email address) is deleted. I'll check what's going on!

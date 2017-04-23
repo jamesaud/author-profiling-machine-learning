@@ -1,0 +1,1 @@
+No hay manera de hacer funciona MediaPlayerStateChange en OSMF/Strobe :(

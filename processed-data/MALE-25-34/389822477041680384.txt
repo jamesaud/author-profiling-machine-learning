@@ -1,0 +1,1 @@
+Acabo de redescubrir lo importante que es el document.ready en jquery. Lectura tras carga, un MUST.

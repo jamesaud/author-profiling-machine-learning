@@ -1,0 +1,1 @@
+For anybody who wishes to generate guided activity pages in #sapcrm with custom namespace: Implement note 1618875 before you start.

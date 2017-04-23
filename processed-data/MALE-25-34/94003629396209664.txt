@@ -1,0 +1,1 @@
+@wolf_gregor You don't need a callback class unless for Subobjects.The interface is: IF_BSP_DLC_OBJ_TYPE_CALLBACK.See view: BSPDLCV_OBJ_TYPE

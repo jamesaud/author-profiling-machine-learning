@@ -1,0 +1,1 @@
+Social media experts, turned mobile, turned bigdata experts predict SQL is what  #Hadoop needs. Though, intentionally we made it NO-SQL!

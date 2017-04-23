@@ -1,0 +1,1 @@
+Evaluating news summaries in timeline using 3 metrics: topic relevance, novelty &amp; continuity by @giangtranbinh et al. http://t.co/600IaMWI5C

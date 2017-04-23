@@ -1,0 +1,1 @@
+@wolf_gregor @sjohannes SAP note 1129682 mentions why B_BUPA_RLT no longer works in #sapcrm. Do not know if it might help with the problem

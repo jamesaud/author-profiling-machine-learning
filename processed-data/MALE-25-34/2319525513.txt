@@ -1,0 +1,1 @@
+Help tell @msofficeus that using Word to render HTML emails in Outlook is a dumb idea. See http://fixoutlook.org and RT

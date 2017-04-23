@@ -1,0 +1,1 @@
+"A Probabilistic Method for Inferring Preferences from Clicks" with Shimon Whiteson and Maarten de Rijke #cikm2011 http://t.co/5F2PPsn

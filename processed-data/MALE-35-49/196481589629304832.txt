@@ -1,0 +1,1 @@
+This paper says 50 queries are fine for testing, yet search engines use 1000s of queries, we're missing something http://t.co/sH0rYhhD #in

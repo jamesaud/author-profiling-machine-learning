@@ -1,0 +1,1 @@
+Full paper "An Unsupervised Method for Named Entity Evolution Recognition" w/ Tahmasebi, N., Risse, T., @GerhardGossen accept at #coling2012

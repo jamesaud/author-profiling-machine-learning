@@ -1,0 +1,1 @@
+Reading how google news handles scale - http://www2007.org/paper570.php

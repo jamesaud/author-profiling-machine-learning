@@ -1,0 +1,1 @@
+@wolf_gregor @sjohannes See note: 1259940. BADI_CRM_BP_UIU_AUTHORITY. Roles: B_BUPA_RLT & CRM_BPROLES & B_BUPA_GRP| Rel. Cat.: B_BUPR_BZT

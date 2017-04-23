@@ -1,0 +1,1 @@
+The people who programmed the WebClient part of the Account Factsheet in #sapcrm obviously did not know what they were doing.

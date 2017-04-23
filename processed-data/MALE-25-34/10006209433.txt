@@ -1,0 +1,1 @@
+@w3edge Is Total Cache compatible with DB Cache Reloaded? Should I use that plugin to add speed?

@@ -1,0 +1,1 @@
+For #sapcrm developers. User Parameter WCF_POPUP_DBG = X lets the WebClient open PopUps in a normal Browser window. With a maximize button.

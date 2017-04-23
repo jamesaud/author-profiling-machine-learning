@@ -1,0 +1,1 @@
+Windows Explorer is truly a piece of shit. Tried to copy a small directory from a share, and it just sits there "discovering"

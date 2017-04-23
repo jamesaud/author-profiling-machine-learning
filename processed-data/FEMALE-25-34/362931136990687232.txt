@@ -1,0 +1,1 @@
+#taia2013 #sigir2013 "Temporal Wikipedia search by edits and linkage" given an event-related query, finds a graph of relevant articles

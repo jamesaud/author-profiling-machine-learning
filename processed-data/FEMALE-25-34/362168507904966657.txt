@@ -1,0 +1,1 @@
+Bridging semantic gap: adding facets (eg.gender, occupation, nationality) to ImageNet for better visual concepts &amp; relationships  #sigir2013

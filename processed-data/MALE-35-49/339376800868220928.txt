@@ -1,0 +1,1 @@
+Next #eswc2013 talk on logical linked data compression. Curious to see how this fits with our entropy analysis over LOD schema information.

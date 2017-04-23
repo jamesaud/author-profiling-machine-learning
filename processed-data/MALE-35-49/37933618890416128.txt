@@ -1,0 +1,1 @@
+First auto-failover of telephone call worked like a treat - even when listening really carefully, could barely hear the transition

@@ -1,0 +1,1 @@
+@wolf_gregor We had a lot of problems with BT126H_MAIL as well. Lots of hardcoded stuff in the view. Check the inbound plugs.

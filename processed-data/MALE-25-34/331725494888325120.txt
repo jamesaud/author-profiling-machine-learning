@@ -1,0 +1,1 @@
+@blogkamp @urbaneprofessor @StuartWilksHeeg Yes, Mendeley imports EndNote XML libraries, RIS, BibTex; straight from PDF, &amp; syncs with Zotero

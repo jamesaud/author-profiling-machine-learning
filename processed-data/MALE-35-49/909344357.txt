@@ -1,0 +1,1 @@
+@bmevans what's a pirate's favorite statistical analysis program? But seriously, I do almost all of my data analysis in R.

@@ -1,0 +1,1 @@
+@HCIR_GeneG It seems to me one big issue is to help the searcher understand when they are going over ground already covered.

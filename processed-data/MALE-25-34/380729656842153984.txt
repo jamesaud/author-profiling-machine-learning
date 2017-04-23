@@ -1,0 +1,1 @@
+My iPad with iOS7 has a weird bug, every time I close an app with the 4 fingers gestures the icons animation gets very sluggish.

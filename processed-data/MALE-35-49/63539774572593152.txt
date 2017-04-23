@@ -1,0 +1,1 @@
+Arjen showed a way how to marry DB and IR that also allows to configure the search mechanisms -- experts only

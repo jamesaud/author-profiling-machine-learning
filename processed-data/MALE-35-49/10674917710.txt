@@ -1,0 +1,1 @@
++1: false discovery rate, practical significance, and proper interpretation of p-values. -100: "Bayes Watch" pun. http://bit.ly/bRg0pW

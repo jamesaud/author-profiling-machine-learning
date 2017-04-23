@@ -1,0 +1,1 @@
+@se38 Nope. I was told that it is used by programmers to make use of the SE80 feature to collapse blocks of code. DO...ENDDO defines a block

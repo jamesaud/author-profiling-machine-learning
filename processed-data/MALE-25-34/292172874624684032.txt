@@ -1,0 +1,1 @@
+Why does PDFCreator always try to install some additional stuff on my PC when updating :-( Do not want PDFArchitect or Browser "Toolbar".

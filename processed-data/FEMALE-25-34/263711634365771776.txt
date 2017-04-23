@@ -1,0 +1,1 @@
+The 2nd keynote William Cohen #cikm2012 talks about similarity queries on graphs towards citation/entity recommendations or expert finding.

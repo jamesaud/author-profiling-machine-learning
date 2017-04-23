@@ -1,0 +1,1 @@
+When inside an ABAP class I get another instance of this class, I can access the instances protected variables. Is this correct OO?

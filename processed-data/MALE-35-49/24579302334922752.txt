@@ -1,0 +1,1 @@
+@alfredapp Installed, initial "smoke" test looks just fine

@@ -1,0 +1,1 @@
+@chadmyers with EC2, you are charged for running instances, regardless of usage

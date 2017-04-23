@@ -1,0 +1,1 @@
+@wolf_gregor @Nicolas_Busson @sjohannes @harshitkg @roelvdberge SVH is the answer. Table CRMC_SVH_ENTRIES stores 5 values per INPUT field.

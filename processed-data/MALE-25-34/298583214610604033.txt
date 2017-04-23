@@ -1,0 +1,1 @@
+@ohryan The CDATA bit? Fixed it on the github version a while back, but forgot to send to the WordPress directory, oops :/ Thanks though!

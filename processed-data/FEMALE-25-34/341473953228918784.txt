@@ -1,0 +1,1 @@
+Interesting keynote by Dan Roth at #benelearn2013 - "CCMs can combine  declarative knowledge with data driven statistical models"

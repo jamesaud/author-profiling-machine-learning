@@ -1,0 +1,1 @@
+Splendid day of remote pairing.  Although not perfect, VNC appears to be much better than SharedView

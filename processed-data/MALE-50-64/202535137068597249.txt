@@ -1,0 +1,1 @@
+#pii2012 @socialtechno "data minimization" is "gathering the least amount of personal information necessary to perform a given function"

@@ -1,0 +1,1 @@
+@banksimple Transparency rocks, but I'm having trouble finding an example where an API would be better than a clear TOS and UI. Help me pls?

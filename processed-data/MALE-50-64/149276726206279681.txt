@@ -1,0 +1,1 @@
+Integration of search and social. Chrift (http://t.co/auKLl5oI) searches friends' Facebook pages to come up with gift suggestions.

@@ -1,0 +1,1 @@
+Inspired by my autocorrect, a new software engineering metric: FLOCs, f--ing lines of code.

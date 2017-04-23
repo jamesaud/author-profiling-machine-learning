@@ -1,0 +1,1 @@
+«@RonJeffries «@zeminlu UNIX' Russian Roulette: sudo [ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo “You live”»»

@@ -1,0 +1,3 @@
+hjälp! what kind of notation is the fowllowing? PHP5? PHP6?
+	public function start()
+	{ $this-&gt;startTime = $this-&gt;getTimestamp();}

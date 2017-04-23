@@ -1,0 +1,1 @@
+Tried to install a Ruby on Rails app. #neveragain

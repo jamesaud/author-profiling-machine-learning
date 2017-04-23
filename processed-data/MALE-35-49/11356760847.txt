@@ -1,0 +1,1 @@
+Using human labelled images as training set to train an automatic annotator based on visual features

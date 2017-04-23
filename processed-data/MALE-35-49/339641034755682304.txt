@@ -1,0 +1,1 @@
+Interesting viewpoint: "An SW application is an application whose schema is expected to change" #eswc2013 keynote

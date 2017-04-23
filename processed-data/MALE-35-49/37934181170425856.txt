@@ -1,0 +1,1 @@
+And none of your fancy high-speed lans here, the failover was from a rackspace server in Chicago to an Amazon one on east coaat

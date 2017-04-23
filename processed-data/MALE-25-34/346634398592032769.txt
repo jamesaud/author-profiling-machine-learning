@@ -1,0 +1,1 @@
+@zachphillips There're a bunch of location and data toggles you can turn off to conserve some battery, perhaps those might help..

@@ -1,0 +1,1 @@
+Backup dir. Delete workspace. Create new workspace. Get latest. Point winmerge at backup and new dir. Merge. Run tests. Commit. Thanks TFS.

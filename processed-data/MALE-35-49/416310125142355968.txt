@@ -1,0 +1,1 @@
+In OS X Mavericks, NFS options in automounter maps aren't recognized. Soln: put them in autofs.conf. #bug

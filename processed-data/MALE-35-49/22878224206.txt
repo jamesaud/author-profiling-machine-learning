@@ -1,0 +1,1 @@
+@greengar any plans for your whiteboard app to support collaboration over the Internet not just a LAN?

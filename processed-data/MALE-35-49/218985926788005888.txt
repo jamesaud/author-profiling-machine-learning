@@ -1,0 +1,1 @@
+@HowardvRooijen @hhariri the mistake some make is to think that they are the same. Hosting gives SLAs, cloud gives flexibility but

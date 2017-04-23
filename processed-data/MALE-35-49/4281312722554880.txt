@@ -1,0 +1,1 @@
+4 weeks with no IDE, no debugger and no type safety. Can't say I'm missing it, feeling very productive

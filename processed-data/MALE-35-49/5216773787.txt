@@ -1,0 +1,1 @@
+that ping service works pretty well on ning, but can't seem to update more than one network

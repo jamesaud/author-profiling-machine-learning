@@ -1,0 +1,1 @@
+Really wish one could image cloud VMs faster. Takes about 30 mins, which sucks when you're testing first-time-boot code

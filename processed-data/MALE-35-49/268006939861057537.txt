@@ -1,0 +1,1 @@
+Next talk on what can be learned from federated DBs for distributed query processing on LOD #cold2012 #iswc2012

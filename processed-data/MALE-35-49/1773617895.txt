@@ -1,0 +1,1 @@
+@communicating If possible, use the patterns from query languages that your users might know.

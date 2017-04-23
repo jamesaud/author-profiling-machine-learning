@@ -1,0 +1,1 @@
+@StuRobson That feature js supposed to be in this app (although it isn’t working correctly yet). Meanwhile keep using iCal for that.

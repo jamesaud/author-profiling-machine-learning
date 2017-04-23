@@ -1,0 +1,1 @@
+putting off figuring out how to transform an Indri query network into its "gradient network" with respect to a parameter

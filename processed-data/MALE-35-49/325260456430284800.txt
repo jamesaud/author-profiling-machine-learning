@@ -1,0 +1,1 @@
+Hey @tlipcon, I think i'm seeing HADOOP-8568 trying to spin up HBase under CDH4.2. Can u help me? cc @cloudera

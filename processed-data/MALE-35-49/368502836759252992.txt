@@ -1,0 +1,1 @@
+@milesosborne if u implement the paper on real data you also see that PR is a very small part of good ranking.

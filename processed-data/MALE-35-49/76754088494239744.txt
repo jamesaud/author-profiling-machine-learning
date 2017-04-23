@@ -1,0 +1,1 @@
+@TimBarcz surely around 50% of (integer) results are multiples of 2 ;)

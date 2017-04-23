@@ -1,0 +1,1 @@
+@cisionsupport how can I specify a contact for an outlet already in a list? When I specify a contact it duplicates the outlet in the list.

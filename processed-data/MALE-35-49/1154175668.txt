@@ -1,0 +1,1 @@
+Debugging committee perceptron code for learning Indri mixture model parameters.

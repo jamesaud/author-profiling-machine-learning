@@ -1,0 +1,1 @@
+@hhariri @kkozmic but perhaps it's *not* incorrect design; perhaps it's reasonable for the calling code to have a null key

@@ -1,0 +1,1 @@
+After playing in Firebug, I figured out that @HuffingtonPost current 107px headline can go to 227px before it doesn't fit in my screen ;-)

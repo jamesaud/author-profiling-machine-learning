@@ -1,0 +1,1 @@
+@alambert my favorite lg is the one that scales and has documentation ;-) Will try porting my Solr Hadoop bulk loader to elastic.

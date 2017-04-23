@@ -1,0 +1,1 @@
+Looking for a migration guide for moving from CDH4 to HortonWorks.

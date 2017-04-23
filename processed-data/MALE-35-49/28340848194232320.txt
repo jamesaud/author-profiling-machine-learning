@@ -1,0 +1,1 @@
+Second day of juggling JSP, RDF, HTML, Servlets, Sparql and Web services for a nice #lod demonstrator

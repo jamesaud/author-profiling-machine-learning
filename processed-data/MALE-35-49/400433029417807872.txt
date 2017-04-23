@@ -1,0 +1,1 @@
+@joshuaxls thanks, that worked. It's the link from the "Tips" section prompting you in the first place that is broken.

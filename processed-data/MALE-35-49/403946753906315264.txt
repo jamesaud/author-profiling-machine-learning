@@ -1,0 +1,1 @@
+For TREC 2014, there will be a new Clinical Decision Support track: given a case history, return PubMed docs for diag, tests, trtmt

@@ -1,0 +1,1 @@
+Made new BOL objects possible in #sapcrm GenIL component PML by massive enhancements in class CL_CRM_PML_IL_MAILFORM.

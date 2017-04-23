@@ -1,0 +1,1 @@
+Unlike physical architecture, digital architecture is invisible and highly varied, so it's hard to form normative expectations #DLD13.

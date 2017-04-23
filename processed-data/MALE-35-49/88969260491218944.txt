@@ -1,0 +1,1 @@
+@karlseguin for concurrency, distributed systems and fault tolerance, go erlang. If perf is all you care about, try C ;)

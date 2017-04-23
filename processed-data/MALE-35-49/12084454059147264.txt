@@ -1,0 +1,1 @@
+@dagda1  @jagregory it is an hql ast, so i guess you could claim that you werr right all along ;)

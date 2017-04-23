@@ -1,0 +1,1 @@
+@WorkSnug @KLBarber Your UI is my problem. AR is ok, but I'd like it to open in Map view 1st, then only AR when I hold it up.

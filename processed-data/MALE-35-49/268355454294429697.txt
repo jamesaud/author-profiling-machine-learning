@@ -1,0 +1,1 @@
+Interesting concept of an inheritance hierarchy for activities (ontology verbs) #iswc2012 #keynote

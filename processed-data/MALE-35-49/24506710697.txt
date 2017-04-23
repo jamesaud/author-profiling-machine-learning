@@ -1,0 +1,1 @@
+Editing my .emacs file with Vim.  Doesn't feel right, somehow

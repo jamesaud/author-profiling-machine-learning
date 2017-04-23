@@ -1,0 +1,1 @@
+@srchvrs @kohlschuetter Both use automatic sense disambiguation and "author intervention", but with different emphasis on the techniques.

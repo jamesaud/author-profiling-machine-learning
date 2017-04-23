@@ -1,0 +1,1 @@
+@HauteSaone Try to use the twitter wizard to get some twitter data e.g.  @BarackObama and than analyze and visualize his tweets and retweets

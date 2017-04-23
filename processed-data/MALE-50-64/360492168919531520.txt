@@ -1,0 +1,1 @@
+#agrichatuk Q5b I can provide a technical answer, but put simply use standards (ISOBUS, agrioRDF, Agrovoc, GS1 etc.)

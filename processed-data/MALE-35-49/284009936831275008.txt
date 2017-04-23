@@ -1,0 +1,1 @@
+@hmason @ted_dunning we've found simple logistic regression works well for spam detection in email and web pages.

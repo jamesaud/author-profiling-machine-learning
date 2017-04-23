@@ -1,0 +1,1 @@
+(cont) takes temperature, returns to facilities desk, decides what to do. A process that takes hours.

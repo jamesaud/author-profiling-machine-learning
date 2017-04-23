@@ -1,0 +1,1 @@
+@danjarratt algorithm could highlight the user with higher influence score.

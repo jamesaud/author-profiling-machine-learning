@@ -1,0 +1,1 @@
+Last night’s iOS problem was due to nav bar not liking 31px-tall buttons, which in turn was due to not-pixel-snapped edges (1/5 pixel off!)

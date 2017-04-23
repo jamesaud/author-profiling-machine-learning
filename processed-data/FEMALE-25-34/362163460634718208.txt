@@ -1,0 +1,1 @@
+Real-time news vertical search leveraging social medias w/ evaluation criteria: timeliness, relevance, redundancy, satisfaction #sigir2013

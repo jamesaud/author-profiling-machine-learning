@@ -1,0 +1,1 @@
+@rrichard09 @techsoc @rvidal We have always supported import/export in standard formats (XML, RIS, BibTex) and will continue to do so.

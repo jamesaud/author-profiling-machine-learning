@@ -1,0 +1,1 @@
+EMC's Reeve sez the adv. of batch processing is speed (quick per transaction), esp. w/ compliance needs @datagrrl (#EDW13)

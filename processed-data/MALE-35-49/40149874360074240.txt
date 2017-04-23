@@ -1,0 +1,1 @@
+@dagda1 What we've really found is the "crash early" approach dramatically changes code, very much for the better

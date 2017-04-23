@@ -1,0 +1,1 @@
+@dagda1 it goes straight to the ast, there's no hql string generation going on

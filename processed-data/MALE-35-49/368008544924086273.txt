@@ -1,0 +1,1 @@
+When you first run Chrome in Windows 8 it runs it in some really annoying "app" mode, and you have to force it to run normally again.

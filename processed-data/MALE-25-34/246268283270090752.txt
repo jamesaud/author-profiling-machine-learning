@@ -1,0 +1,1 @@
+Anyone know if there is a kind of API for material configuration in ERP? Some function modules or classes?

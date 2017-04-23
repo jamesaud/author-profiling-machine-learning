@@ -1,0 +1,1 @@
+Pro Solr tip of the day: when your indexer chokes around 200M docs, make sure u didn't leave a shard in your home dir over NFS. #iamanidiot

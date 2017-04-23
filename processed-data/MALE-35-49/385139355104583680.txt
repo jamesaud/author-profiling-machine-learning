@@ -1,0 +1,1 @@
+Lisp: functional programming. JavaScript: dysfunctional programming.

@@ -1,0 +1,1 @@
+Two new approaches now: VSM with scalar product (no length normalisation) and a BM25 based solution

@@ -1,0 +1,1 @@
+@nealrichter we have a twitter crawler for sharing tweets by reference. Trying to get it to write itself from the gardenhose feed.

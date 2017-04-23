@@ -1,0 +1,1 @@
+@briancavalier @JohnCampbellJr @IanPaterson LinkedIn blocks commits that don't compile and reverts your commit if the unit tests fail. CRAZY

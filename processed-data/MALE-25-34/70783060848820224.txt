@@ -1,0 +1,1 @@
+@wolf_gregor Problem was: BSP opens a new blank page, then shows a download. Page stays open. Users complain. Solution: Do not us BSP.

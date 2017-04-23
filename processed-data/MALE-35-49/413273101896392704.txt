@@ -1,0 +1,1 @@
+@cpinto new pipeline to send a mail merge from my email account to old contacts. Streak matches all columns *except* email addresses!

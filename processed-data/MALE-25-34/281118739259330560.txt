@@ -1,0 +1,1 @@
+Wuhu, learned something new today: How to rework generated table maintenance in SAP to do what I want :-)

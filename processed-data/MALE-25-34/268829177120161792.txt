@@ -1,0 +1,1 @@
+@Prismatic When clicking the login via twitter button many times quick enough the iPhone app crashes for me.

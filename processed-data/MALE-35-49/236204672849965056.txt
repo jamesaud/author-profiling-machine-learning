@@ -1,0 +1,1 @@
+#SIGIR2012 Etan Aydar talking about zoetrope and other ways of querying and visualising temporal data, cool.

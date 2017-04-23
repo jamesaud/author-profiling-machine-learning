@@ -1,0 +1,1 @@
+@Imaji didn't go for the fastest processor, 250 for an extra .1 GHz seemed excessive; also didn't bother with the 750GB disk

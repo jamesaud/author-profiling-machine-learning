@@ -1,0 +1,1 @@
+@bitterSTAR Ah, the ipad app is indeed slower.  We're primarily on Windows & OSX, where it seems to work fine

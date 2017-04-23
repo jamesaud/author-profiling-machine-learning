@@ -1,0 +1,1 @@
+@josecontic creo que no hay nada implementado en WP de base para lo que buscas, que vas a tener que cambiar a tabs @joan_artes

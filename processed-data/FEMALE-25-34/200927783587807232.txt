@@ -1,0 +1,1 @@
+#SIGKDD2012 codes/datasets for measuring time series similarity by  Dynamic Time Warping released by UC Riverside http://t.co/e2LVM3IL

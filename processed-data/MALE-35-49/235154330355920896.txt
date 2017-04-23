@@ -1,0 +1,1 @@
+#sigir2012 enjoyed Ryen White's log analysis talk about extracting valuable data from health queries.

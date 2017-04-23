@@ -1,0 +1,1 @@
+@LeapFrog sorted! Took over 2,hours! Installed, uninstalled, reinstalled, error 65, restarted, run as admin, but Connect is now working!

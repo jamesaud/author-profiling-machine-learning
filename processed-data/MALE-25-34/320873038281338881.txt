@@ -1,0 +1,1 @@
+@neuromusic @mrgunn @ResearchBlogs There are plugins for Wordpress and Drupal already which pull citations from the Mendeley API.

@@ -1,0 +1,1 @@
+@HCIR_GeneG lol, no, Java NPEs without stack traces.

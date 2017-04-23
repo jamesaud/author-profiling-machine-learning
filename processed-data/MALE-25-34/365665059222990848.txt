@@ -1,0 +1,1 @@
+@downcastapp Getting error initializing sync on all 4 iCloud sync settings on iPhone. This was after I updated desktop app. Any way to fix?

@@ -1,0 +1,1 @@
+Customer asked me to transform @wolf_gregor 's ZAPP_INTEGRATOR from BSP to WebService. Quite challenging to get the client side cookie.

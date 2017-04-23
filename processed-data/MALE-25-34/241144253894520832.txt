@@ -1,0 +1,1 @@
+@lucagrandicelli FREE. I went back to the previous version, but it occurs when updating in the WP backend. It tries to update, then fails

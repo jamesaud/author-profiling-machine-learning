@@ -1,0 +1,1 @@
+TIR 2011 accepted our paper on "A Fast and Accurate Approach for Main Content Extraction based on Character Encoding"

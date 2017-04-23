@@ -1,0 +1,1 @@
+RMIT IR group read this paper today http://t.co/1UrRhTTvga an odd read, but nice use of entropy to analyse query logs.

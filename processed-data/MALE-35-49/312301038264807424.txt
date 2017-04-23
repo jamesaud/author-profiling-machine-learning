@@ -1,0 +1,1 @@
+@HCIR_GeneG part of the XLSC class is that the XLS spreadsheet is to honking huge to load in any other spreadsheet program.

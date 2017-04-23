@@ -1,0 +1,1 @@
+Did anyone ever seemlessly integrate a standalone Java application into #SAP GUI? Just like Excel or Word?

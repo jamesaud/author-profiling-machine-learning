@@ -1,0 +1,1 @@
+Those JavaScript libraries of the #sapcrm WebClient are huge. Does anyone have heard of some documentation about them?

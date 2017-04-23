@@ -1,0 +1,1 @@
+#ecir2010 talk on "Personalizing Web Search with Folksonomy-based User and Document Profiles".

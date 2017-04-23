@@ -1,0 +1,1 @@
+#ntcir10 medical search task. They sidestepped data privacy issues by hiring doctors to write fabricated records: 30 bucks a record.

@@ -1,0 +1,1 @@
+Forgot an FTP password today. Luckily I use #Filezilla that stores them in clear text in an XML file. Now thinking about security :-/

@@ -1,0 +1,1 @@
+@adjames Not so much Atom, more the model when developing a custom provider.  It's just horrible.

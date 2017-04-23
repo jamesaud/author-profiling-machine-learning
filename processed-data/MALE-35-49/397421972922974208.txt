@@ -1,0 +1,1 @@
+@djoerd reminds me of getting spam with JS exploits. Didn't work so well in Emacs Gnus. And, funny, no one ever tried an elisp virus.

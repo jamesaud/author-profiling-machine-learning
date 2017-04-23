@@ -1,0 +1,1 @@
+I think lots of queries kill Cuil.  They claim to have a lot of pages, but return nothing for many queries they should.

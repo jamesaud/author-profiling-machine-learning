@@ -1,0 +1,3 @@
+CM 10.1.2 update rolling out now, contains fix for another Android security bug
+
+http://t.co/M5I2R0Jy6w

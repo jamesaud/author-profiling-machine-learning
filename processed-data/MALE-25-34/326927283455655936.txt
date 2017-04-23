@@ -1,0 +1,1 @@
+Hello! We have great mpp db's. Making #Hadoop look like one is the biggest marketing non sense in big data ever. It's sequential IO!

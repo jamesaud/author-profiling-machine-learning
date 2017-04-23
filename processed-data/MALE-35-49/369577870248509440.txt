@@ -1,0 +1,1 @@
+Anyone know how hard it would be to give Solr an actual real JSON parser?

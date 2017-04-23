@@ -1,0 +1,1 @@
+How Twitter Stores 250 Million Tweets a Day Using MySQL http://t.co/bx8olWjMvN

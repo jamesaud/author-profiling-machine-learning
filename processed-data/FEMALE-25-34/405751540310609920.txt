@@ -1,0 +1,1 @@
+Sergej Zerr presented #sigir2012 paper Privacy-aware Image Classification, nicely supporting "the right to be forgotten" #websci and Privacy

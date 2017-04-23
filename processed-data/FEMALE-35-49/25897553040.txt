@@ -1,0 +1,1 @@
+@GoDaddy   smtp.secureserver.net both in and out are not working.  Please help.

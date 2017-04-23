@@ -1,0 +1,1 @@
+@kesloane @raulpacheco In EndNote, export your library as .xml (not .enl, which is a proprietary format). Mendeley can import EndNote XML.

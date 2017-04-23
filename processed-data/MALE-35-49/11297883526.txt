@@ -1,0 +1,1 @@
+#ecir2010 Udo Kruschwitz introducing Hinrich Schütze. Keynote on "Natural Language Processing in IR: Shallow or Deep?"

@@ -1,0 +1,1 @@
+@arjenpdevries one inappropriately short summary could be: don't stop at *what* works, focus on *why* it works and *when*.

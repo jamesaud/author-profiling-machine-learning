@@ -1,0 +1,1 @@
+@reneritchie how are you doing this. When I keep the button pressed down I get Siri. When I just rest my finger on button I get touchid

@@ -1,0 +1,1 @@
+@hanschristian ese tipo de carácteres usan un encoding diferente y no reconoce cuando tú escribes en un teclado que no coincide.

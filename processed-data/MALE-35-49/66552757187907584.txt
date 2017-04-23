@@ -1,0 +1,1 @@
+Got webmachine running behind nginx doing authentication with client certs, another job ticked off the list :)

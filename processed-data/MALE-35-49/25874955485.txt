@@ -1,0 +1,1 @@
+DEX graph DB mentioned at NoSQL Frankfurt 2010 - The GraphDB Landscape and sones. http://tinyurl.com/26wknug #nosql #graphdb #dexgdb

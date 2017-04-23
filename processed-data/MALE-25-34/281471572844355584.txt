@@ -1,0 +1,1 @@
+@KennKnowles Mendeley can automatically generate/update BibTeX files that stay in sync with your document library.

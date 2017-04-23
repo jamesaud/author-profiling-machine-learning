@@ -1,0 +1,1 @@
+Anybody know how to hook a JS function into the Send event of the ActiveX object of Outlook? Sending mail works.Need to do some stuff after.

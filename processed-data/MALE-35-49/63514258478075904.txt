@@ -1,0 +1,1 @@
+Benno presented some intersting results regarding the analysis of constraint clustering, co-training and structural correspondance learning

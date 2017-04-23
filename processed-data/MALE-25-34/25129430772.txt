@@ -1,0 +1,1 @@
+Anybody got ideas how to directly access views in WebClient components? An URL would be best. Got to display a view in a DIV overlay.#sapcrm

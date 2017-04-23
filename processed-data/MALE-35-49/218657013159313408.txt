@@ -1,0 +1,1 @@
+@mhenders my 2012 mbp can see USB devices on my thunderbolt display just fine. Doubt that helps you much though :(

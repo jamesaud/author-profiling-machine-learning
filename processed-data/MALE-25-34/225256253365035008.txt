@@ -1,0 +1,1 @@
+@mhawksey @datameer Should be possible. Make sure you have the right delimiter sign. Make sure you choose texts are in quotes.

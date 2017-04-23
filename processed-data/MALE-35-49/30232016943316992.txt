@@ -1,0 +1,1 @@
+@Ben_Hall I normally throw or log it in the Finalizer is Dispose wasn't called

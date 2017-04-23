@@ -1,0 +1,1 @@
+Trying to understand CRF, structured perceptron, structured SVM, and good old HMM. Feels like I'm at a costume party.

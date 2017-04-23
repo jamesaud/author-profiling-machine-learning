@@ -1,0 +1,1 @@
+Hard core IR evaluation nerditry at #evia2013... Tetsuya Sakai speaking about the lack of reusability of diversity test collections.

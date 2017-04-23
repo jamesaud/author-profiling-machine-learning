@@ -1,0 +1,1 @@
+@tetsuyasakai shows condensed retrieval rank measures (ignore unjudged) seem more accurate, than conventional raw list measures #evia2013

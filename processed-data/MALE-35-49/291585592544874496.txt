@@ -1,0 +1,1 @@
+@fjsteele doesn't work so hot for running joint computation across the walls.

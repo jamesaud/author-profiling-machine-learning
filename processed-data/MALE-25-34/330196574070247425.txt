@@ -1,0 +1,2 @@
+@allthingshadoop But than you limited to what ever you can load in memory. 
+Also you divide the men by number of active users.

@@ -1,0 +1,1 @@
+Pushing ClueWeb12 into Solr at about 1000 pages/min... any tips on making it faster? (1/2)

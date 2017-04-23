@@ -1,0 +1,1 @@
+After upgrade to #sapcrm 712 it is migration to the #hana database tonight. *CrossingFingers*

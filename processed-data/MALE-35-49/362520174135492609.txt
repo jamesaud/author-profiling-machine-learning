@@ -1,0 +1,1 @@
+NDCG@1: nothing to normalize, accumulate, or discount. Discuss amongst yourselves. cc @sigirf

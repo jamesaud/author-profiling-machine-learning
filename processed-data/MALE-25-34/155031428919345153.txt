@@ -1,0 +1,1 @@
+Ran into a problem with RFW in #sapcrm. Searching for STATUS_COMMON and another criteria returns different results depending on MAX HITS.

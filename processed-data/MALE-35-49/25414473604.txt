@@ -1,0 +1,1 @@
+@hhariri I do think that their lack of oss adoption, with their preference to rebuild, has an impact on the oss ecosystem

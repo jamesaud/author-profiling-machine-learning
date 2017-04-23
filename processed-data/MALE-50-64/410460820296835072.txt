@@ -1,0 +1,1 @@
+"Make passwords visible by default, with a toggle to hide. Blackout dots in password entry fields are security theater." @adactio #aeasf

@@ -1,0 +1,1 @@
+@nikkelin Vad bör man göra med den person som glömmer att ta bort robot.txt efter ny-release av site? Kölhalning? Swedendrunke? Tips?

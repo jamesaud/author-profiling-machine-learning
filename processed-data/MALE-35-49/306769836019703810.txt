@@ -1,0 +1,1 @@
+I have a CentOS 5 box which keeps changing /dev/null to a regular file. Anyone seen this and know the culprit?

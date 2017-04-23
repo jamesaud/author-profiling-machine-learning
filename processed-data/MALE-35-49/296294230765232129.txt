@@ -1,0 +1,1 @@
+Putting the finishing touches on a TREC adhoc evaluation demo with Lucene 4.1, for my PROMISE class. Stay tuned for github link.

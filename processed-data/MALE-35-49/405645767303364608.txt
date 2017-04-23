@@ -1,0 +1,1 @@
+@Streak everything of tracked emails works, except the Tracked Emails folder remains empty... Bug? Seems 'from:me' breaks it. Search ok w/o

@@ -1,0 +1,1 @@
+Harto de este error: "Default audio device changed. Restart the simulator to have it use the newly-selected device". ¡A reinstalar el SDK!

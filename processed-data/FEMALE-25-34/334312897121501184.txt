@@ -1,0 +1,1 @@
+R. Baeza-Yates talk about the Risks of Privacy in Query Logs, a good anonymization is still an open problem (cf. Cooper TWEB 2008) #www2013

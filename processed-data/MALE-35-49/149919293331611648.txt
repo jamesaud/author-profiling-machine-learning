@@ -1,0 +1,1 @@
+Parsing / writing binary formats in #erlang is *so* much easier than any other language I've ever used - I'd almost call it pleasurable!

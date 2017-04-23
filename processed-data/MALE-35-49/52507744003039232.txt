@@ -1,0 +1,1 @@
+Craig Mundie demoed a pre-alpha buggy Kinect chat application. Described surface 2 that will detect touch & hover http://bit.ly/iaL0Ox

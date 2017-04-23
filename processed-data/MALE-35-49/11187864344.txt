@@ -1,0 +1,1 @@
+Interaction events on a timeline, segmentation of event sequence. Aim: detect patterns, learn models on the data

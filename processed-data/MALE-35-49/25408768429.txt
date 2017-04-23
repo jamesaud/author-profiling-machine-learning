@@ -1,0 +1,1 @@
+@hhariri and oss is only half the story; ms has all the other stuff (vs, biztalk, sqlserver etc)

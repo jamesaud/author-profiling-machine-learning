@@ -1,0 +1,1 @@
+@kgustafson I export at web-size because I only use web size. don't really need extra-full res versions on disk. I'm back to LR3 until fixed

@@ -1,0 +1,1 @@
+@jak812 I assume you add a date, add racecard to order then delete said date? Or is there a better way around it?

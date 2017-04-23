@@ -1,0 +1,1 @@
+@HotGloo any plans to sure some HTML5 wizardry so we can use HotGloo offline?

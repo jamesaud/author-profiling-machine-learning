@@ -1,0 +1,5 @@
+Woohoo, a Gmail update for Mail.app!
+&lt;upgrades&gt;
+&lt;hits reply on mail&gt;
+&lt;iMac freezes for 45 seconds&gt;
+…

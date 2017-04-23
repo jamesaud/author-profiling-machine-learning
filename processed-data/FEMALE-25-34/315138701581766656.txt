@@ -1,0 +1,1 @@
+I won't attend #ecir2013 this time but meet L3S colleague who will present his paper: Recommending High Utility Query via Session-Flow Graph

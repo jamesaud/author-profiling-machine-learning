@@ -1,0 +1,1 @@
+SolrCloud cluster maxing out at 150M docs. I love deadlines.

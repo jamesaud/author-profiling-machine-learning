@@ -1,0 +1,1 @@
+Features to measure answer quality: readability, formality, grammaticality, etc. Static and independent of query #smuc2011 #ictrobust

@@ -1,0 +1,1 @@
+@nodejs is single-threaded. And That Is Good http://t.co/489R5sKjsd

@@ -1,0 +1,1 @@
+@oakinger I do 75% of my dev in osx, then switch to an Ubuntu vm for the remaining; it feels pretty painless and gets the bobw

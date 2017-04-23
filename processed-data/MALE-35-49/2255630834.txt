@@ -1,0 +1,1 @@
+Using regularization to provide a prior.  Hoping it will reduce my parameter estimation woes.

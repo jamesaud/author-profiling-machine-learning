@@ -1,0 +1,1 @@
+@milesosborne it's at the limit of downloadable, with a flock of ec2 instances. We are trying a new model this year, eval as a svc.

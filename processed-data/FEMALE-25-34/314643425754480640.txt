@@ -1,0 +1,1 @@
+While cost of keeping #bigdata is less expensive, only data with high preservation value should be stored for efficient and effective search

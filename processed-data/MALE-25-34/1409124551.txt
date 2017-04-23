@@ -1,0 +1,1 @@
+@rdb_aaa HP/MP restored, but you're still hungry.

@@ -1,0 +1,1 @@
+Every time a web application supports Emacs keybindings in text boxes, an angel gets its wings.

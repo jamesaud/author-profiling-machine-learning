@@ -1,0 +1,1 @@
+DayOne keeps losing entries. Not good for a journal app.

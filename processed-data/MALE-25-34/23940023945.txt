@@ -1,0 +1,1 @@
+Am I legally allowed to use a google map layer in my OpenLayers?It's no Google API: http://www.google.com/intl/de-DE_US/help/terms_maps.html

@@ -1,0 +1,1 @@
+Ok, I took a look at the manual ... but I still don't get the basics of this twitter thing ... should it be Hello #World or Hello @World?

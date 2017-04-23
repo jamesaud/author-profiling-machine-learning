@@ -1,0 +1,1 @@
+@javasoze Sensei demo was really easy to run, but how do I shut down a sensei node?

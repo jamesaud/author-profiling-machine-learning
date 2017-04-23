@@ -1,0 +1,1 @@
+@NintenDaan Understandable, but the reason files are smaller is because they are more compressed.

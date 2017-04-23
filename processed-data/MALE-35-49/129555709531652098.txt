@@ -1,0 +1,1 @@
+Citation count prediction seems to benefit most from author and venue features, content less important ;-) #cikm2011

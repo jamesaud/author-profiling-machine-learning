@@ -1,0 +1,1 @@
+HBase tip: 'disable'ing a table makes it inaccessible, but all your regions are still there. You can swap tables in and out.

@@ -1,0 +1,1 @@
+@HotGloo problem is, if "b/g image" takes up whole canvas, I then can't drag to select multiple elements unless I start the click outside.

@@ -1,0 +1,2 @@
+2nd day at UIM-GDB. David Dominguez from DAMA-UPC is presenting Benchmarks for #graphdb  http://www.dama.upc.edu/research-2/UIM-GDB
+ #nosql

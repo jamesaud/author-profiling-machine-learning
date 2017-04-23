@@ -1,0 +1,1 @@
+@wolf_gregor @roelvdberge I used BAdI BSP_WD_APPL_WD for this task. Implemented both methods so that we get a /SYSKO/ as class prefix.

@@ -1,0 +1,1 @@
+I just learned in a #Hadoop class that hive and pig are not all java some of it is actually into bite code. :) #fail

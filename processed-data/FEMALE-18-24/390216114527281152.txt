@@ -1,0 +1,1 @@
+@ItsMattRVA Try: Exiting the app, quitting it from the multitasking bar (double tap home then swipe up on the app), and then open it again.

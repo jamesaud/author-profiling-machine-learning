@@ -1,0 +1,1 @@
+@mhawksey The problem might be https the forced redirectto https. :( Sorry. Any way you can make the data available with http?

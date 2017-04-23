@@ -1,0 +1,1 @@
+@dagda1 rabbit is pretty good, used it extensively on the last project. But really like the simplicity of zeromq, very appealing

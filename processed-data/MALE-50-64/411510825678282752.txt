@@ -1,0 +1,1 @@
+@TWC_Help Have wired modem directly to computer, bypassing router, and powered down modem and computer. About to reboot.

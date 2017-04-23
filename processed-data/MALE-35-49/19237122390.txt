@@ -1,0 +1,2 @@
+Ipe version 7 is out. It supports many SVG-like functionalities. 
+http://bit.ly/by8vnF

@@ -1,0 +1,1 @@
+Extract subtopics from multi-source UGCs, 3-step approach 1)mining subtopics, 2)relation identification, 3)hierarchy construction #sigir2013

@@ -1,0 +1,1 @@
+@esjewett I suppose returning parameters aren't that bad if you only pass references. Concerning internal tables I am quite unsure.

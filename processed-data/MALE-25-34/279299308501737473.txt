@@ -1,0 +1,1 @@
+@RottenCapital Yes, you will be able to retrieve/create your own annotations via our API!

@@ -1,0 +1,3 @@
+Foreign money = “Cool, look at this!”
+
+Foreign coins = “Why the fuck do I have 20 lbs of metal in my pocket after one day?!”

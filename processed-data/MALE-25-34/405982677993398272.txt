@@ -1,0 +1,1 @@
+@Javed_Del probably coz it includes proprietary elements.. n Google doesn't want them 2 be available as part of Android 4.4 open-source code

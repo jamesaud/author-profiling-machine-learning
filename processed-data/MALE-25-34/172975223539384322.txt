@@ -1,0 +1,1 @@
+@wolf_gregor Did you try to move enhanced #sapcrm components between systems using #SAPLink? Does it work?

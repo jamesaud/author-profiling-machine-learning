@@ -1,0 +1,1 @@
+@dullhunk @mfenner @nuin @srp .. @CiteULike has been using. We ask everyone to use the Open API so we only need to maintain one. (2/2)

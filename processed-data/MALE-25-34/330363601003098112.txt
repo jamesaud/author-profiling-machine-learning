@@ -1,0 +1,1 @@
+@allthingshadoop You build an app, uploaded it and define how much you want to charge for it. That's it. Json parser comes with the product.

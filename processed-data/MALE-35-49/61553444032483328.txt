@@ -1,0 +1,1 @@
+@mikehadlow I think Xcode is equivalent to VS *and* the platform sdk, so probably about on parity in terms of bloatware

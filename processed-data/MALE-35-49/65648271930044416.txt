@@ -1,0 +1,1 @@
+@mteper for scripting ec2? Almost no advantages, just that the rest of the system is erlang so it keeps things consistent

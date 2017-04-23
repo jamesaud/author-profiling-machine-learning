@@ -1,0 +1,1 @@
+word to the wise - if you are trying to get an SSL certificate and want decent support, do not use www.trustico.com
