@@ -1,0 +1,1 @@
+I want to be my own trusted IDP for me, but could my own server bear the cost and liability of being a trusted identity provider? #NSTIC.

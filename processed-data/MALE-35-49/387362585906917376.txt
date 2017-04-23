@@ -1,0 +1,1 @@
+How can DNS propagation switch instantly one way but when I try to reverse it takes forever?

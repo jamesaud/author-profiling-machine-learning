@@ -1,0 +1,1 @@
+Playing with HTML 5 and canvas to emulate the iOS7 blur bg effect - check it out http://t.co/177DuYvnRM - works pretty smooth in the phone.

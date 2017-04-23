@@ -1,0 +1,1 @@
+@cpinto is it easy to import user list in to customer.io? I can see customer.io working very well - just want to do simple MC email 1st

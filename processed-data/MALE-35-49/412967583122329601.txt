@@ -1,0 +1,1 @@
+@gotowebinar you really need to add GCal support to your "add to calendar" feature. I get asked to download a file! It's not 2010 any more!

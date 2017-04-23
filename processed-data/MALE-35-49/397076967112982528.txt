@@ -1,0 +1,1 @@
+@British_Airways it seems to be impossible to set your website to English if reading from germany (using Google Chrome).

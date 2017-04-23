@@ -1,0 +1,1 @@
+@BaptisteBriel I am working on that.. iOS doesn't have scroll events, I am using the touchmove.

@@ -1,0 +1,1 @@
+If @Dropbox Camera Upload says it's "All done for now", why is it still importing photos when connected to computer? @dropbox_support

@@ -1,0 +1,1 @@
+@diigo when I use Awesome Screenshot Chrome plugin for whole page screenshots it always has lines across it like Page Breaks.

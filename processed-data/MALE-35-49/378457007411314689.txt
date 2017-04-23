@@ -1,0 +1,1 @@
+@cpinto how does one actually break the threads? It's vaguely annoying in Gmail, but those email chains are impossible to use with @streak

@@ -1,0 +1,1 @@
+.@TiroTypeworks @nicewebtype It is only useful when you know the size of the device. Useful for digital signs. Not for #RWD.

@@ -1,0 +1,1 @@
+@Livefyre Thanks. Guest comments are showing up on site, they just aren't reflected in the comment count nor show up in WP Dashboard.

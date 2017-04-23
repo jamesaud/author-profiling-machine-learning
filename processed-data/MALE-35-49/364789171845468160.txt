@@ -1,0 +1,1 @@
+I find now that tabs in Chrome only actually load when I go to the tab (ie not in b/g). Something I can fix or symptom of a crappy computer?

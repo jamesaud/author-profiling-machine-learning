@@ -1,0 +1,1 @@
+#EmailTip: It's pointless to send an e-mail with only a link in it--no message. Most assume it's phishing 'cause so many of them are!

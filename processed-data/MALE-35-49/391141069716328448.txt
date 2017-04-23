@@ -1,0 +1,1 @@
+For the first time ever the Gmail "did you mean to attach something" thingy just prevented me sending email without intended attachment.

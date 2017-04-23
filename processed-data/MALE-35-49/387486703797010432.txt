@@ -1,0 +1,1 @@
+@Layershift should be the same? Changed NSs, should have changed DNS record. My mistake. Not re. my Layershift app but thx 4 checking.

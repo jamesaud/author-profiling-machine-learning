@@ -1,0 +1,1 @@
+"Progressive enhancement isn't about people who turn off JavaScript–almost nobody does. It's protection against things going wrong." #aeasf

@@ -1,0 +1,1 @@
+WiFi on the Oxford X90 is a nice idea in theory but it very seldom works, presumably because the bus itself has no 3G signal most the way.

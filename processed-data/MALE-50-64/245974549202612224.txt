@@ -1,0 +1,1 @@
+@kncukier giving great talk about big data with cool stat: amount of digital data became greater than amount of analog data in...2003.

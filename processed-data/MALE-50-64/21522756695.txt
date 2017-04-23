@@ -1,0 +1,1 @@
+@kim_cameron talking about explicit vs. implicit issues in architecture and location privacy at #pii2010.

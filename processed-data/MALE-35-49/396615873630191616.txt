@@ -1,0 +1,1 @@
+.@evernote's Hello app seems to be a brilliant tool with one stupid assumption - that you scan business cards where you collect them.

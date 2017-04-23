@@ -1,0 +1,1 @@
+@TWC_Help No internet connection from direct modem connection or wifi. Pings cannot resolve. No outer or DNS server numbers in network panel

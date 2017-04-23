@@ -1,0 +1,1 @@
+@cpinto that's exactly what I've done. It won't recognise the column in my csv "Email addresses" is the same as the @Streak column

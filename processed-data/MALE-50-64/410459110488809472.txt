@@ -1,0 +1,1 @@
+"URLs are the killer app of the web. URL design is the first step in a content-first approach. URL design is API design." @adactio #aeasf

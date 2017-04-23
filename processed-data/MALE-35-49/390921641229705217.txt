@@ -1,0 +1,1 @@
+So HMRC's SEIS pdf file is editable, but not the EIS one. That makes sense. EIS companies must prefer pen and paper.

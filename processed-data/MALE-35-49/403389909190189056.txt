@@ -1,0 +1,1 @@
+I'm having a weird issue where my notifications and messages on FB aren't refreshing unless I do it manually in my browser. Any ideas?
