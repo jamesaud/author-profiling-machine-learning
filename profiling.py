@@ -22,10 +22,12 @@ else:
     # Partition in to Training and Test Set for gender.
     data = [db["StatusID"]+"---"+db["Sex"] for db in db.collection.find()]
     random.shuffle(data)
+
     train_data = data[:int((len(data)+1)*.80)]
     test_data = data[int(len(data)*.80+1):]
     train_labels = [data.split("---")[1] for data in train_data]
     test_labels = [data.split("---")[1] for data in test_data]
+
 
     # Tokenizing & Filtering the text
     # min_df=5, discard words appearing in less than 5 documents
@@ -37,14 +39,14 @@ else:
                              max_df = 0.8,
                              sublinear_tf=True,
                              use_idf=True)
-    train_vectors = vectorizer.fit_transform(train_data) # create the vocabulary and the feature weights from the training data
-    test_vectors = vectorizer.transform(test_data) # create the feature weights for the test data
-
+    train_vectors = vectorizer.fit_transform(train_data) # Create the vocabulary and the feature weights from the training data
+    test_vectors = vectorizer.transform(test_data) # Create the feature weights for the test data
+    print(len(train_labels))
     # Classification using SVM kernel=rbf
-    # classifier_rbf = svm.SVC()
-    # classifier_rbf.fit(train_vectors, train_labels)
-    # prediction_rbf = classifier_rbf.predict(test_vectors)
-    # print(classification_report(test_labels, prediction_rbf))
+    classifier_rbf = svm.SVC()
+    classifier_rbf.fit(train_vectors, train_labels)
+    prediction_rbf = classifier_rbf.predict(test_vectors)
+    print(classification_report(test_labels, prediction_rbf))
 
 
     # # Fit and Transform the data
