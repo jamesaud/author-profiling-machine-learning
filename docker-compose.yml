@@ -1,0 +1,23 @@
+version: '2'
+
+services:
+  mongo:
+    image: mongo:latest
+    volumes:
+      - ./db:/data/db
+    ports:
+      - "27017:27017"
+
+  python:
+    build:
+      context: . 
+    volumes:
+      - .:/app
+    command: 'sleep 10000000'
+
+  mongowebui:
+    image: mongo-express:latest
+    ports:
+      - '8081:8081'
+    depends_on:
+      - mongo

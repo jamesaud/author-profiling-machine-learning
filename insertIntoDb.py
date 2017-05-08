@@ -11,7 +11,6 @@ def insert():
     os.chdir(os.path.join(os.getcwd(), 'processed-data'))
 
     folders = os.listdir()
-
     s_no = 1
 
     for folder in folders:
@@ -33,3 +32,4 @@ def insert():
                 print(s_no)
                 s_no += 1
     client.close()
+
